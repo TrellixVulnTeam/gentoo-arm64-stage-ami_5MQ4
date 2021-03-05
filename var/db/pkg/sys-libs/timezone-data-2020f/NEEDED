@@ -1,0 +1,2 @@
+/usr/bin/zdump libc.so.6,ld-linux-aarch64.so.1
+/usr/bin/zic libc.so.6,ld-linux-aarch64.so.1

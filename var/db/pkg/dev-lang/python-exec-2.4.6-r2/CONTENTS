@@ -1,0 +1,22 @@
+dir /etc
+dir /etc/python-exec
+obj /etc/python-exec/python-exec.conf 582c8d0beda0e97f6fe335b3206e2083 1612610463
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/python-exec-2.4.6-r2
+obj /usr/share/doc/python-exec-2.4.6-r2/NEWS.xz 491b3a983b107331a1ccf2f54a527e67 1612610462
+obj /usr/share/doc/python-exec-2.4.6-r2/README.xz 5969e041bdbfb0533eaea3cebefafe13 1612610462
+dir /usr/lib
+dir /usr/lib/python-exec
+obj /usr/lib/python-exec/python-exec2 7157717ea4b74eedcebcf2d33869972a 1612610462
+dir /usr/bin
+sym /usr/bin/python -> python-exec2c 1612610462
+sym /usr/bin/pyvenv -> ../lib/python-exec/python-exec2 1612610462
+sym /usr/bin/pydoc -> ../lib/python-exec/python-exec2 1612610462
+obj /usr/bin/python-exec2c 1c24a73301a84f6d6b3da77323cbc7a9 1612610463
+sym /usr/bin/idle -> ../lib/python-exec/python-exec2 1612610462
+sym /usr/bin/python-config -> ../lib/python-exec/python-exec2 1612610462
+sym /usr/bin/python3 -> python-exec2c 1612610462
+sym /usr/bin/python3-config -> ../lib/python-exec/python-exec2 1612610462
+sym /usr/bin/2to3 -> ../lib/python-exec/python-exec2 1612610462

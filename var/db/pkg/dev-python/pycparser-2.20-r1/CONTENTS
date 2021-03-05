@@ -1,0 +1,87 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/pycparser-2.20-r1
+obj /usr/share/doc/pycparser-2.20-r1/CHANGES.xz 2d2a87d33c99f47f12337c40caf53053 1612618953
+obj /usr/share/doc/pycparser-2.20-r1/README.rst.xz 8b491b9e7dc5784a7e8396ad5eb44327 1612618953
+dir /usr/lib
+dir /usr/lib/python3.8
+dir /usr/lib/python3.8/site-packages
+dir /usr/lib/python3.8/site-packages/pycparser
+obj /usr/lib/python3.8/site-packages/pycparser/plyparser.py a0b69bbc193f4ddd9de977d8a7a505c8 1561639647
+obj /usr/lib/python3.8/site-packages/pycparser/c_generator.py ad44179597e39ef522c2b74954149e00 1561639647
+obj /usr/lib/python3.8/site-packages/pycparser/_ast_gen.py f7ab024743499111ac984e6902fa1d52 1561639647
+obj /usr/lib/python3.8/site-packages/pycparser/_c_ast.cfg 8bdc63ca901e473f8f8311da6a4ef833 1532523075
+obj /usr/lib/python3.8/site-packages/pycparser/yacctab.py 63cbf6b7cc71da016594a7eeefc694ab 1612618950
+obj /usr/lib/python3.8/site-packages/pycparser/ast_transforms.py 8622a181768b2b91e3583badadf4181e 1566651419
+obj /usr/lib/python3.8/site-packages/pycparser/_build_tables.py 126c4f0817a6409ad4ef95a1cbcd7a0a 1561639647
+obj /usr/lib/python3.8/site-packages/pycparser/c_ast.py 61389cc9ac09db84e39af82c9b3a7925 1612618951
+dir /usr/lib/python3.8/site-packages/pycparser/__pycache__
+obj /usr/lib/python3.8/site-packages/pycparser/__pycache__/yacctab.cpython-38.opt-2.pyc 9ea5653fc76ff3a7575b40c889660e14 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/__pycache__/plyparser.cpython-38.opt-2.pyc 297273db122f6d7f73c716e5a16912b8 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/__pycache__/c_generator.cpython-38.opt-1.pyc b99159619232330dcbff6fb6877c0fcc 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/__pycache__/yacctab.cpython-38.opt-1.pyc 9ea5653fc76ff3a7575b40c889660e14 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/__pycache__/c_generator.cpython-38.opt-2.pyc a7664d5c0f41f0e41652d60a2ab28f8f 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/__pycache__/_build_tables.cpython-38.opt-1.pyc cea0c7698790a04eba946b0f7c4a1035 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/__pycache__/plyparser.cpython-38.pyc 1ba44deeb8293e7bea4215d5c54375c6 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/__pycache__/__init__.cpython-38.opt-1.pyc 205c45389f3afda67b05b032b357b9ca 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/__pycache__/c_lexer.cpython-38.pyc 2ff722f0321b4bee65d2122221013a95 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/__pycache__/ast_transforms.cpython-38.opt-1.pyc 107ea5ed2d0872cadc6eb1edf7ee71d9 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/__pycache__/__init__.cpython-38.pyc 205c45389f3afda67b05b032b357b9ca 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/__pycache__/c_lexer.cpython-38.opt-2.pyc 48082950bde59636774bdd82e593ddc6 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/__pycache__/_build_tables.cpython-38.pyc cea0c7698790a04eba946b0f7c4a1035 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/__pycache__/_ast_gen.cpython-38.pyc 5b95ca4f1c221215b185409732fe512c 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/__pycache__/c_lexer.cpython-38.opt-1.pyc 2ff722f0321b4bee65d2122221013a95 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/__pycache__/_ast_gen.cpython-38.opt-2.pyc 49368ee4f5a9eda7d9bc5ba08505a457 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/__pycache__/_build_tables.cpython-38.opt-2.pyc cea0c7698790a04eba946b0f7c4a1035 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/__pycache__/ast_transforms.cpython-38.pyc b674fccda8d12e153b39a878a5dea1e8 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/__pycache__/c_ast.cpython-38.opt-1.pyc 089f465df15bcbe6d9113d7cb306b0ab 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/__pycache__/c_ast.cpython-38.pyc 089f465df15bcbe6d9113d7cb306b0ab 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/__pycache__/c_parser.cpython-38.pyc 1f3a4ae676c1b48c53783f065c736537 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/__pycache__/lextab.cpython-38.opt-2.pyc b9b551661485d32278e52eb44877fce4 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/__pycache__/c_ast.cpython-38.opt-2.pyc 2df10fefa825d84b26ed3298d550809c 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/__pycache__/c_generator.cpython-38.pyc b19ed613808e608dffadd3a6562c5310 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/__pycache__/c_parser.cpython-38.opt-1.pyc 41cb93532c676682968c46ebc443c104 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/__pycache__/ast_transforms.cpython-38.opt-2.pyc 267f9d5e360578f354658cce8336a8e5 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/__pycache__/lextab.cpython-38.opt-1.pyc b9b551661485d32278e52eb44877fce4 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/__pycache__/_ast_gen.cpython-38.opt-1.pyc 5b95ca4f1c221215b185409732fe512c 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/__pycache__/lextab.cpython-38.pyc b9b551661485d32278e52eb44877fce4 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/__pycache__/__init__.cpython-38.opt-2.pyc 7134ad4f2bb1fdaf18709ccb573f2b8f 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/__pycache__/plyparser.cpython-38.opt-1.pyc 1ba44deeb8293e7bea4215d5c54375c6 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/__pycache__/c_parser.cpython-38.opt-2.pyc 74123315dc132c06dfbb922414885672 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/__pycache__/yacctab.cpython-38.pyc 9ea5653fc76ff3a7575b40c889660e14 1612618952
+dir /usr/lib/python3.8/site-packages/pycparser/ply
+obj /usr/lib/python3.8/site-packages/pycparser/ply/ygen.py 06e1eba623a13aba4d44d4d3e5a85aee 1561639647
+obj /usr/lib/python3.8/site-packages/pycparser/ply/yacc.py 44d1bd9c28ddd0822fe9f1d2593dfb68 1561639647
+obj /usr/lib/python3.8/site-packages/pycparser/ply/lex.py 44f8cf25bfaa701df3133557d80b9965 1561639647
+obj /usr/lib/python3.8/site-packages/pycparser/ply/cpp.py 5731a2f2a7ab75460ba671074c280ef2 1561639647
+dir /usr/lib/python3.8/site-packages/pycparser/ply/__pycache__
+obj /usr/lib/python3.8/site-packages/pycparser/ply/__pycache__/lex.cpython-38.pyc ed1523310dcfffaf7678fb87a2ef95fe 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/ply/__pycache__/ygen.cpython-38.pyc f1e62ddb1b0e36b44870b5cdefb37aa2 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/ply/__pycache__/yacc.cpython-38.pyc 9f8cc290681061235ca4be505f35d9a3 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/ply/__pycache__/__init__.cpython-38.opt-1.pyc 891b654ed73f75da8a916348374e5a37 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/ply/__pycache__/__init__.cpython-38.pyc 891b654ed73f75da8a916348374e5a37 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/ply/__pycache__/ctokens.cpython-38.opt-2.pyc 557d819cf51a94b37ba4fd5533061512 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/ply/__pycache__/ygen.cpython-38.opt-1.pyc f1e62ddb1b0e36b44870b5cdefb37aa2 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/ply/__pycache__/lex.cpython-38.opt-2.pyc ed1523310dcfffaf7678fb87a2ef95fe 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/ply/__pycache__/ctokens.cpython-38.opt-1.pyc f937803aab321e867fbe01f2027d9752 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/ply/__pycache__/cpp.cpython-38.pyc 81389cac48b2c735f926c66b0cb94e90 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/ply/__pycache__/cpp.cpython-38.opt-2.pyc 12df78116814629cac8088268a0a0384 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/ply/__pycache__/cpp.cpython-38.opt-1.pyc c0066b3769d722f662feab23eb8ed6a7 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/ply/__pycache__/__init__.cpython-38.opt-2.pyc 891b654ed73f75da8a916348374e5a37 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/ply/__pycache__/yacc.cpython-38.opt-2.pyc 69538bd6fa81c623ee79876012d690e9 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/ply/__pycache__/ctokens.cpython-38.pyc f937803aab321e867fbe01f2027d9752 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/ply/__pycache__/yacc.cpython-38.opt-1.pyc 69538bd6fa81c623ee79876012d690e9 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/ply/__pycache__/ygen.cpython-38.opt-2.pyc f1e62ddb1b0e36b44870b5cdefb37aa2 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/ply/__pycache__/lex.cpython-38.opt-1.pyc ed1523310dcfffaf7678fb87a2ef95fe 1612618952
+obj /usr/lib/python3.8/site-packages/pycparser/ply/__init__.py 498b675aad8dc005dc64db594f221378 1561639647
+obj /usr/lib/python3.8/site-packages/pycparser/ply/ctokens.py 3243640da7b709c2065957b20bb7f0a6 1561639647
+obj /usr/lib/python3.8/site-packages/pycparser/c_lexer.py 970924ecf56e2f5455d0dde70f451857 1576939290
+obj /usr/lib/python3.8/site-packages/pycparser/c_parser.py 75651729f741b2225c843749d34c1877 1583246016
+obj /usr/lib/python3.8/site-packages/pycparser/__init__.py 8c3bd00e751e8645d416eb0d8e8da76b 1583330868
+obj /usr/lib/python3.8/site-packages/pycparser/lextab.py e041679af7cc94f58eb2f5aa4c085588 1612618949
+dir /usr/lib/python3.8/site-packages/pycparser-2.20-py3.8.egg-info
+obj /usr/lib/python3.8/site-packages/pycparser-2.20-py3.8.egg-info/top_level.txt 0de5b0e5c6df03da418eadb1a2731207 1612618951
+obj /usr/lib/python3.8/site-packages/pycparser-2.20-py3.8.egg-info/PKG-INFO 3f56fae3c05285a55507fa4f0fdfc558 1612618951
+obj /usr/lib/python3.8/site-packages/pycparser-2.20-py3.8.egg-info/SOURCES.txt 377f5000d5dbc96535745a3493b8b4e0 1612618951
+obj /usr/lib/python3.8/site-packages/pycparser-2.20-py3.8.egg-info/dependency_links.txt 68b329da9893e34099c7d8ad5cb9c940 1612618951

@@ -1,0 +1,1 @@
+-pipe -fno-ident -mcpu=native -O2

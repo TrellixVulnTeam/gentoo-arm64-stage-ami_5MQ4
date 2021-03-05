@@ -1,0 +1,5 @@
+app-admin/sudo
+app-emulation/cloud-init
+net-misc/dhcp
+sys-apps/haveged
+sys-fs/btrfs-progs

@@ -1,0 +1,4 @@
+dir /usr
+dir /usr/share
+dir /usr/share/openpgp-keys
+obj /usr/share/openpgp-keys/gentoo-release.asc 7b8b79aecf49ea5168cef91a1ba46f5e 1612610938

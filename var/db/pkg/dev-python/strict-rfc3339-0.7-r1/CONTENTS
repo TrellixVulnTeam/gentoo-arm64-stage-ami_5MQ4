@@ -1,0 +1,16 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/strict-rfc3339-0.7-r1
+obj /usr/share/doc/strict-rfc3339-0.7-r1/README.md.xz 9bab89497b36a7c6663ef8524711ec3a 1613461470
+obj /usr/share/doc/strict-rfc3339-0.7-r1/AUTHORS 3df0bcdd307ccaf2f5e284b0f99a5d36 1613461471
+dir /usr/lib
+dir /usr/lib/python3.8
+dir /usr/lib/python3.8/site-packages
+obj /usr/lib/python3.8/site-packages/strict_rfc3339-0.7-py3.8.egg-info 8cb7eca638b5ace9a7dc4f929b0ac07a 1613461470
+dir /usr/lib/python3.8/site-packages/__pycache__
+obj /usr/lib/python3.8/site-packages/__pycache__/strict_rfc3339.cpython-38.opt-2.pyc 195d96ec1b030d96bd43f2543ccb3a7e 1613461470
+obj /usr/lib/python3.8/site-packages/__pycache__/strict_rfc3339.cpython-38.opt-1.pyc 195d96ec1b030d96bd43f2543ccb3a7e 1613461470
+obj /usr/lib/python3.8/site-packages/__pycache__/strict_rfc3339.cpython-38.pyc 195d96ec1b030d96bd43f2543ccb3a7e 1613461470
+obj /usr/lib/python3.8/site-packages/strict_rfc3339.py e8a4f66297c7a1e3c33df0d764dbe4fa 1461471537
+sym /usr/share/doc/strict-rfc3339-0.7-r1/README.txt.xz -> README.md.xz 1613461472

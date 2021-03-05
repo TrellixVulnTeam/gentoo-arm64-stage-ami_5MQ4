@@ -1,0 +1,44 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/pyopenssl-20.0.1
+obj /usr/share/doc/pyopenssl-20.0.1/README.rst.xz 5ddf3ea0fb390a81c7872d989f8149fd 1612619191
+dir /usr/lib
+dir /usr/lib/python3.8
+dir /usr/lib/python3.8/site-packages
+dir /usr/lib/python3.8/site-packages/pyOpenSSL-20.0.1-py3.8.egg-info
+obj /usr/lib/python3.8/site-packages/pyOpenSSL-20.0.1-py3.8.egg-info/requires.txt cc376564280747c7eb526d1cfac3cf79 1612619190
+obj /usr/lib/python3.8/site-packages/pyOpenSSL-20.0.1-py3.8.egg-info/top_level.txt 1b83158a5ddc854e51861cbf63ab927f 1612619190
+obj /usr/lib/python3.8/site-packages/pyOpenSSL-20.0.1-py3.8.egg-info/PKG-INFO 42f144267d325ad37fb45ec038d3afba 1612619190
+obj /usr/lib/python3.8/site-packages/pyOpenSSL-20.0.1-py3.8.egg-info/SOURCES.txt 580439e49873ed5d3cfffbfd6971c77f 1612619190
+obj /usr/lib/python3.8/site-packages/pyOpenSSL-20.0.1-py3.8.egg-info/dependency_links.txt 68b329da9893e34099c7d8ad5cb9c940 1612619190
+dir /usr/lib/python3.8/site-packages/OpenSSL
+obj /usr/lib/python3.8/site-packages/OpenSSL/debug.py dd23647af1a4cca5fafc1a9ebd8e41e7 1608046254
+obj /usr/lib/python3.8/site-packages/OpenSSL/SSL.py 5c7662d5d82b93e262fd0aed2f69f13e 1608046254
+obj /usr/lib/python3.8/site-packages/OpenSSL/_util.py 3a9b3fed1b8b53200e51c1f9212e78b5 1608046254
+dir /usr/lib/python3.8/site-packages/OpenSSL/__pycache__
+obj /usr/lib/python3.8/site-packages/OpenSSL/__pycache__/_util.cpython-38.opt-1.pyc 64ab6b214486d734a3d0691705478fff 1612619190
+obj /usr/lib/python3.8/site-packages/OpenSSL/__pycache__/rand.cpython-38.pyc 80a98150dde2febb952b173b85d142dd 1612619190
+obj /usr/lib/python3.8/site-packages/OpenSSL/__pycache__/debug.cpython-38.opt-1.pyc c743f21174e1a1d5bd1cdbfbd5d187ce 1612619190
+obj /usr/lib/python3.8/site-packages/OpenSSL/__pycache__/_util.cpython-38.pyc 391a5861cec2b75206410e720e1a9b94 1612619190
+obj /usr/lib/python3.8/site-packages/OpenSSL/__pycache__/SSL.cpython-38.opt-2.pyc 3d6e4365062ddad98bbc82e0658dfbf9 1612619190
+obj /usr/lib/python3.8/site-packages/OpenSSL/__pycache__/SSL.cpython-38.opt-1.pyc 3d6e4365062ddad98bbc82e0658dfbf9 1612619190
+obj /usr/lib/python3.8/site-packages/OpenSSL/__pycache__/__init__.cpython-38.opt-1.pyc fa825183952734d45e3a6a5f568a1d99 1612619190
+obj /usr/lib/python3.8/site-packages/OpenSSL/__pycache__/__init__.cpython-38.pyc b828d238f654637259803dc53863fe3d 1612619190
+obj /usr/lib/python3.8/site-packages/OpenSSL/__pycache__/_util.cpython-38.opt-2.pyc 64ab6b214486d734a3d0691705478fff 1612619190
+obj /usr/lib/python3.8/site-packages/OpenSSL/__pycache__/crypto.cpython-38.opt-1.pyc a08b02154e7cade14cd86845af61f984 1612619190
+obj /usr/lib/python3.8/site-packages/OpenSSL/__pycache__/crypto.cpython-38.pyc 10a9939a97dc71282c812655309b13ec 1612619190
+obj /usr/lib/python3.8/site-packages/OpenSSL/__pycache__/debug.cpython-38.opt-2.pyc c743f21174e1a1d5bd1cdbfbd5d187ce 1612619190
+obj /usr/lib/python3.8/site-packages/OpenSSL/__pycache__/crypto.cpython-38.opt-2.pyc a08b02154e7cade14cd86845af61f984 1612619190
+obj /usr/lib/python3.8/site-packages/OpenSSL/__pycache__/version.cpython-38.opt-1.pyc ccb122f66680f91f78376431c5546682 1612619190
+obj /usr/lib/python3.8/site-packages/OpenSSL/__pycache__/SSL.cpython-38.pyc 527bc925f53bb13f15948b1668304c40 1612619190
+obj /usr/lib/python3.8/site-packages/OpenSSL/__pycache__/version.cpython-38.opt-2.pyc ccb122f66680f91f78376431c5546682 1612619190
+obj /usr/lib/python3.8/site-packages/OpenSSL/__pycache__/rand.cpython-38.opt-1.pyc 80a98150dde2febb952b173b85d142dd 1612619190
+obj /usr/lib/python3.8/site-packages/OpenSSL/__pycache__/debug.cpython-38.pyc 6f87577adc02b262c81563cdeca2c870 1612619190
+obj /usr/lib/python3.8/site-packages/OpenSSL/__pycache__/__init__.cpython-38.opt-2.pyc fa825183952734d45e3a6a5f568a1d99 1612619190
+obj /usr/lib/python3.8/site-packages/OpenSSL/__pycache__/rand.cpython-38.opt-2.pyc 80a98150dde2febb952b173b85d142dd 1612619190
+obj /usr/lib/python3.8/site-packages/OpenSSL/__pycache__/version.cpython-38.pyc ccb122f66680f91f78376431c5546682 1612619190
+obj /usr/lib/python3.8/site-packages/OpenSSL/version.py 6a9f14f8e5e5bdca28b46ca3e825fe5e 1608046254
+obj /usr/lib/python3.8/site-packages/OpenSSL/crypto.py 7223b3b48fa1c7c1d65b7a5b933da63c 1608046254
+obj /usr/lib/python3.8/site-packages/OpenSSL/rand.py d36ede3d739478a32d4072c5ce2a1ceb 1608046254
+obj /usr/lib/python3.8/site-packages/OpenSSL/__init__.py df6f351f549e1f28ffca3b08579a7630 1608046254

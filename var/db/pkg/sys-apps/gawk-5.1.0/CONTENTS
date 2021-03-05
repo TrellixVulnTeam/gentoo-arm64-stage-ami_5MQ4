@@ -1,0 +1,93 @@
+dir /etc
+dir /etc/profile.d
+obj /etc/profile.d/gawk.csh b3d9e29a36f945b2065b2f88d18dadaa 1612616699
+obj /etc/profile.d/gawk.sh bfc054c0862d0fad98ca641b951c7061 1612616699
+dir /usr
+dir /usr/lib64
+dir /usr/lib64/gawk
+obj /usr/lib64/gawk/revtwoway.so f34153fe471a360c9ccec912f71a443b 1612616702
+obj /usr/lib64/gawk/fnmatch.so 7e7fb40d6f0d70c9ae223b11f85ebd41 1612616702
+obj /usr/lib64/gawk/revoutput.so ec95fb612b046546cfb1ab05aa93a86b 1612616702
+obj /usr/lib64/gawk/readdir.so 8577177e157eb44d8a8ce956bbdb7248 1612616702
+obj /usr/lib64/gawk/ordchr.so cec6da2abf1b2be62def6737c652ecc8 1612616702
+obj /usr/lib64/gawk/fork.so 9b16644b8f8eabfe894fd4ca8f3b787f 1612616702
+obj /usr/lib64/gawk/rwarray.so e3bf6f6a1432145b5d00adfc10d42ff0 1612616702
+obj /usr/lib64/gawk/time.so f857afc0fef88e33cb262437c69436db 1612616702
+obj /usr/lib64/gawk/inplace.so 57ce00234de69e6db721fa39a32a0271 1612616702
+obj /usr/lib64/gawk/intdiv.so 29afd9c38ea959b8ed932260b8b3bee9 1612616702
+obj /usr/lib64/gawk/filefuncs.so 2a6adb5ffe43ad32fd9ff0df922d2bf8 1612616702
+obj /usr/lib64/gawk/readfile.so 93429717d4f07d67416ac6f5ec8d66c5 1612616702
+dir /usr/lib64/misc
+dir /usr/lib64/misc/awk
+obj /usr/lib64/misc/awk/grcat 2a7b731fa5f949e7a4ad1317df187e3f 1612616702
+obj /usr/lib64/misc/awk/pwcat ee80c0a9efefe675f05f7ad323059be5 1612616702
+dir /usr/share
+dir /usr/share/info
+obj /usr/share/info/gawkworkflow.info.xz c32afcd9c2d7509f2ab3456dc0038d31 1612616699
+obj /usr/share/info/gawkinet.info.xz f9ac3fca884f5f9d2da2704a6b02552e 1612616699
+obj /usr/share/info/gawk.info.xz b15941328eda1e8873ff2d76cb6dc3cb 1612616699
+dir /usr/share/doc
+dir /usr/share/doc/gawk-5.1.0
+obj /usr/share/doc/gawk-5.1.0/AUTHORS.xz 517e9562014b7f200dd923507b90302c 1612616700
+obj /usr/share/doc/gawk-5.1.0/NEWS.xz 473743007e6a6273ead1e7751606145c 1612616700
+obj /usr/share/doc/gawk-5.1.0/README.xz 938e49d7891763c1a9a39133b4b5c932 1612616700
+obj /usr/share/doc/gawk-5.1.0/TODO.xz d2e056f4eedb364db2f2433bac2bb7a5 1612616700
+obj /usr/share/doc/gawk-5.1.0/ChangeLog.xz 61900c5394ee3035b34cd92abb007b30 1612616700
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/gawk.1.xz b90246fbf820d95d88b69f7fd7b162c1 1612616699
+dir /usr/share/man/man3
+obj /usr/share/man/man3/rwarray.3am.xz 78ecad5170855036179d7d141bbba4b5 1612616699
+obj /usr/share/man/man3/time.3am.xz bc4f5b0c5fc0d5215a8464d1f9389325 1612616699
+obj /usr/share/man/man3/inplace.3am.xz 727035b57123ff157513b423e220d824 1612616699
+obj /usr/share/man/man3/ordchr.3am.xz 060aadbe4a389ccae90007d75b6ddc8d 1612616699
+obj /usr/share/man/man3/revtwoway.3am.xz 83f96150d774b52aff503e0ac3422050 1612616699
+obj /usr/share/man/man3/fork.3am.xz a4470766f382b9cd6426c71d3ee5b04e 1612616699
+obj /usr/share/man/man3/fnmatch.3am.xz 0ec4ee034d84840cf03f8a3d2c62b232 1612616699
+obj /usr/share/man/man3/revoutput.3am.xz 10198d7462edeb54939f0b6acce1d271 1612616699
+obj /usr/share/man/man3/readdir.3am.xz f19fa765ce2c2af4864c24b3896f347c 1612616699
+obj /usr/share/man/man3/readfile.3am.xz ece5224db9b166386f03559b9a6e255f 1612616699
+obj /usr/share/man/man3/filefuncs.3am.xz 5ef2e8bdd47dc54d7716b4900b25b7dd 1612616699
+dir /usr/share/awk
+obj /usr/share/awk/passwd.awk 5ae528f9931a406a8adb5562f544fb55 1612616699
+obj /usr/share/awk/getopt.awk e625b4698f14299c8da389aca05c5e48 1612616699
+obj /usr/share/awk/round.awk e9028984b0d82fac692f3d5c5d4c211e 1612616699
+obj /usr/share/awk/cliff_rand.awk 4f102335ebacbb13af785af2a5ee5699 1612616699
+obj /usr/share/awk/gettime.awk 8a4784537dfcaa8861dbb8c48e19bf8f 1612616699
+obj /usr/share/awk/readfile.awk 090e8a4a6c9306498c239ea7222f81aa 1612616699
+obj /usr/share/awk/noassign.awk 5c3ae18fb1b0d7e66795de410e4ba50b 1612616699
+obj /usr/share/awk/zerofile.awk a69b061ef1bbca105082fe8a248818da 1612616699
+obj /usr/share/awk/bits2str.awk 801e293a442232eafd89a2d0550c6221 1612616699
+obj /usr/share/awk/assert.awk c94753467cb0ce839cbc87dd5313392a 1612616699
+obj /usr/share/awk/shellquote.awk bb0ea816086eef477eadac55475199b0 1612616699
+obj /usr/share/awk/ftrans.awk 8a3ce2527c151d25d7c2b14811f2cfdc 1612616699
+obj /usr/share/awk/strtonum.awk b3fcc1c281c1f173f13ad3b47cb8a39f 1612616699
+obj /usr/share/awk/libintl.awk cc11a880a2e1e277530c2d7d7cdac202 1612616699
+obj /usr/share/awk/rewind.awk c87adbdbc349b6e4c96d9494d7fc9a30 1612616699
+obj /usr/share/awk/join.awk babd186770765508e26d344613ffbe0d 1612616699
+obj /usr/share/awk/have_mpfr.awk 277af1c082b2d1b5d1fb164f4e70fb80 1612616699
+obj /usr/share/awk/ctime.awk 8d5d47289e51296344d0e5b9c7766d76 1612616699
+obj /usr/share/awk/walkarray.awk 7b15948b50551201439773ad50912103 1612616699
+obj /usr/share/awk/intdiv0.awk af5a27eb05a5cdc496135b8068faf741 1612616699
+obj /usr/share/awk/ord.awk 1b35f85e1492c59ebc24bd2e643074f6 1612616699
+obj /usr/share/awk/inplace.awk 9c50b60286b0731297bf3fd4d9df97d5 1612616699
+obj /usr/share/awk/ns_passwd.awk 18c0634bf39d0bcc0555d70470fb1961 1612616699
+obj /usr/share/awk/readable.awk 72fe0f2ef7c67d51469a3eb505427063 1612616699
+obj /usr/share/awk/processarray.awk 2c4024c524af0bb20de33c70dd1d4cea 1612616699
+obj /usr/share/awk/quicksort.awk 41d84c6f3f8376779167b6cbf52d1b4a 1612616699
+obj /usr/share/awk/group.awk 66b8d1e59bc2ebe332e5f48e43427c81 1612616699
+dir /usr/include
+dir /usr/include/awk
+obj /usr/include/awk/gettext.h 5cf2d45ac11c0d227c40d41da215e193 1612616700
+obj /usr/include/awk/floatmagic.h 7558490510b304735a769701b0d4eb89 1612616700
+obj /usr/include/awk/protos.h f8a3d895d710d63983dfecd32eb673e9 1612616700
+obj /usr/include/awk/custom.h 5c05107c4362d4861db51aa12c6c12cd 1612616700
+obj /usr/include/awk/cmd.h ceda8ff9c4cd9ad208a33e30b017d5f7 1612616700
+obj /usr/include/awk/nonposix.h 66852f76e0b61716d3ff24a1aa8c8f20 1612616700
+obj /usr/include/awk/awk.h a0289051ccb8b3c7bbf22b56564bebd5 1612616700
+obj /usr/include/awk/mbsupport.h 742169938193a174fe6cf8eddd3530a9 1612616700
+obj /usr/include/awk/interpret.h 2947108066aa9870b4a48a07b0fb32cb 1612616700
+obj /usr/include/awk/gawkapi.h 5c689970317a9989e73ce55484adb096 1612616700
+obj /usr/include/gawkapi.h 5c689970317a9989e73ce55484adb096 1612616699
+dir /usr/bin
+obj /usr/bin/gawk e5fb0fa59681a05d7517bb608d64c3e7 1612616702

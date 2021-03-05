@@ -1,0 +1,64 @@
+dir /lib
+dir /lib/systemd
+dir /lib/systemd/system
+obj /lib/systemd/system/man-db.timer 19019a5d61533040061e50b965a7a4bf 1612612915
+obj /lib/systemd/system/man-db.service 801ecf92445bbf8979e9946cd3a118fe 1612612915
+dir /etc
+dir /etc/sandbox.d
+obj /etc/sandbox.d/15man-db 9f61a601d06bd2f8ee26710991d0a7f4 1612612917
+dir /etc/cron.daily
+obj /etc/cron.daily/man-db 865b204b20c31dd735cca3915657906d 1612612917
+obj /etc/man_db.conf 239814a55cbdee2363aaf1d82776b32c 1612612916
+dir /usr
+dir /usr/lib64
+dir /usr/lib64/man-db
+obj /usr/lib64/man-db/libmandb-2.9.3.so 0e1aa291e40f4bb7fe9b47df48fc284c 1612612918
+sym /usr/lib64/man-db/libman.so -> libman-2.9.3.so 1612612915
+sym /usr/lib64/man-db/libmandb.so -> libmandb-2.9.3.so 1612612916
+obj /usr/lib64/man-db/libman-2.9.3.so 56138c167e2930d0b69ab6b232e4f0cc 1612612918
+dir /usr/libexec
+dir /usr/libexec/man-db
+obj /usr/libexec/man-db/zsoelim 4eb880a16409d6fccc605e0baa525d98 1612612918
+obj /usr/libexec/man-db/manconv df119e6b6cf293bf7c4c22d0029e2341 1612612918
+obj /usr/libexec/man-db/globbing c38fa2adde0217506c63a744877506d2 1612612918
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/man-db-2.9.3-r1
+obj /usr/share/doc/man-db-2.9.3-r1/man-db-manual.txt.xz 7e8298455eb44c219daa042d20397d33 1612612917
+obj /usr/share/doc/man-db-2.9.3-r1/NEWS.xz 045aa720bbd2f926242690b5e2765a29 1612612917
+obj /usr/share/doc/man-db-2.9.3-r1/man-db-manual.ps.xz 77893b4ccd09d6aab73850bef0d52fa6 1612612917
+obj /usr/share/doc/man-db-2.9.3-r1/README.xz bc8493a5e1485ca93dd20dae0386bc57 1612612917
+obj /usr/share/doc/man-db-2.9.3-r1/FAQ.xz 9ef7b41267d60ed21924f8bfef6dfd53 1612612917
+obj /usr/share/doc/man-db-2.9.3-r1/TODO.xz ce44cb1c374ac69fccfd4e54753e7829 1612612917
+obj /usr/share/doc/man-db-2.9.3-r1/ChangeLog.xz dd13d0af40ff5adba41ba65448fe61b6 1612612917
+obj /usr/share/doc/man-db-2.9.3-r1/HACKING.xz 396eafdf8f7892337b62d919faaaa9ca 1612612917
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/man-recode.1.xz 0d1a2959e4ee3bc5dea70b199248099e 1612612916
+obj /usr/share/man/man1/manpath.1.xz e39e6d427f65e647a9c3f8e8c4f2108d 1612612916
+obj /usr/share/man/man1/man.1.xz c6d0ece547de5219a5e32d72700bc230 1612612916
+obj /usr/share/man/man1/apropos.1.xz f9b938c6363dc5ff6c5473f89158ae50 1612612916
+obj /usr/share/man/man1/lexgrog.1.xz ce1180bb9bfb73966b8a1063e9a81002 1612612916
+obj /usr/share/man/man1/whatis.1.xz c77889a84ff463c2c6d4a4cc814cbafd 1612612916
+obj /usr/share/man/man1/manconv.1.xz df6673e7fa66b688b235f5c3a8979ad8 1612612916
+obj /usr/share/man/man1/zsoelim.1.xz bd0d5d962bcda2ce8931bdfeaae88c24 1612612916
+dir /usr/share/man/man8
+obj /usr/share/man/man8/accessdb.8.xz 06942b934a95cb35601e039e6e05d750 1612612916
+obj /usr/share/man/man8/mandb.8.xz 57910fba03e96f556f201db4171d4dae 1612612916
+obj /usr/share/man/man8/catman.8.xz a197ca3e170bdeffba37e249e9f075e9 1612612916
+dir /usr/share/man/man5
+obj /usr/share/man/man5/manpath.5.xz 22cb2b8953fff24aad1bbad55a8252ba 1612612916
+dir /usr/lib
+dir /usr/lib/tmpfiles.d
+obj /usr/lib/tmpfiles.d/man-db.conf fcb712cac8291e35a443011fb31b3351 1612612915
+dir /usr/bin
+obj /usr/bin/whatis 803be4e6199203609b4db8ba7c228d69 1612612918
+obj /usr/bin/lexgrog a209d9a8e547e1af15d73d873f73db1c 1612612918
+obj /usr/bin/mandb 4b8c59924d10ae3b112a04d220114e96 1612612918
+obj /usr/bin/manpath c2fe84e74d4990dde1fcae1ea051bde4 1612612918
+obj /usr/bin/man-recode 8e660e62e6fcb03b4533374f9191d076 1612612918
+sym /usr/bin/apropos -> whatis 1612612916
+obj /usr/bin/man 6bd573504c6b56395bed364de32920f3 1612612918
+obj /usr/bin/catman 4f896e684800c3282ed7036adbe38b16 1612612918
+dir /usr/sbin
+obj /usr/sbin/accessdb 5be317ce366f8829f2b4f5fe540515ed 1612612918

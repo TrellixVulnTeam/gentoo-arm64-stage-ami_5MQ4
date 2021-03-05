@@ -1,0 +1,33 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/markupsafe-1.1.1-r1
+obj /usr/share/doc/markupsafe-1.1.1-r1/README.rst.xz f662b0236135ddbe0a1e142d687bfe06 1612618749
+dir /usr/lib
+dir /usr/lib/python3.8
+dir /usr/lib/python3.8/site-packages
+dir /usr/lib/python3.8/site-packages/markupsafe
+obj /usr/lib/python3.8/site-packages/markupsafe/_compat.py 055939c2786c91fb7a326386282694a8 1550949133
+obj /usr/lib/python3.8/site-packages/markupsafe/_constants.py 25ca10cb0c4375ba0ac6f665ce4f61e7 1550949133
+obj /usr/lib/python3.8/site-packages/markupsafe/_speedups.cpython-38-aarch64-linux-gnu.so e1b09d6da7939b9c2c95b7966e44154c 1612618750
+obj /usr/lib/python3.8/site-packages/markupsafe/_native.py 7ea6d3703bb5333cc9e04131df3a97b7 1550949133
+dir /usr/lib/python3.8/site-packages/markupsafe/__pycache__
+obj /usr/lib/python3.8/site-packages/markupsafe/__pycache__/_compat.cpython-38.opt-1.pyc 402834f381a648fe49484f7f15233170 1612618748
+obj /usr/lib/python3.8/site-packages/markupsafe/__pycache__/_compat.cpython-38.pyc 84e4e134c5151cc727fc84b5c83dd2b0 1612618748
+obj /usr/lib/python3.8/site-packages/markupsafe/__pycache__/_native.cpython-38.pyc ef015ee5dcb0ccc4e0928d8e0ef57173 1612618748
+obj /usr/lib/python3.8/site-packages/markupsafe/__pycache__/__init__.cpython-38.opt-1.pyc 159bc1e2e986d108b53280d2bb32ba15 1612618748
+obj /usr/lib/python3.8/site-packages/markupsafe/__pycache__/__init__.cpython-38.pyc 3c27773e8a0956204aa2aa4e5a2304b2 1612618748
+obj /usr/lib/python3.8/site-packages/markupsafe/__pycache__/_constants.cpython-38.pyc 0a01a7f599b04ff3a5633dac847d8fb1 1612618748
+obj /usr/lib/python3.8/site-packages/markupsafe/__pycache__/_compat.cpython-38.opt-2.pyc 402834f381a648fe49484f7f15233170 1612618748
+obj /usr/lib/python3.8/site-packages/markupsafe/__pycache__/_constants.cpython-38.opt-2.pyc 19bf8d94a0241f3710f0f31dd51e6f59 1612618748
+obj /usr/lib/python3.8/site-packages/markupsafe/__pycache__/_native.cpython-38.opt-2.pyc 70ab66f87ec896434628ac52e908fb35 1612618748
+obj /usr/lib/python3.8/site-packages/markupsafe/__pycache__/_native.cpython-38.opt-1.pyc 70ab66f87ec896434628ac52e908fb35 1612618748
+obj /usr/lib/python3.8/site-packages/markupsafe/__pycache__/_constants.cpython-38.opt-1.pyc 19bf8d94a0241f3710f0f31dd51e6f59 1612618748
+obj /usr/lib/python3.8/site-packages/markupsafe/__pycache__/__init__.cpython-38.opt-2.pyc 159bc1e2e986d108b53280d2bb32ba15 1612618748
+obj /usr/lib/python3.8/site-packages/markupsafe/__init__.py 3a717b4e5b70d66d9c527daa90c3f5c7 1550961247
+obj /usr/lib/python3.8/site-packages/markupsafe/_speedups.c 6a5ec78e145a35d4a55b3d13ca53a8d1 1550949133
+dir /usr/lib/python3.8/site-packages/MarkupSafe-1.1.1-py3.8.egg-info
+obj /usr/lib/python3.8/site-packages/MarkupSafe-1.1.1-py3.8.egg-info/top_level.txt 5862354c9fbb5b15204672c79808e25c 1612618748
+obj /usr/lib/python3.8/site-packages/MarkupSafe-1.1.1-py3.8.egg-info/PKG-INFO 011cf698194133e11d35d3fff01fd854 1612618748
+obj /usr/lib/python3.8/site-packages/MarkupSafe-1.1.1-py3.8.egg-info/SOURCES.txt 71b89034c02ce0397143f7b43c0308ef 1612618748
+obj /usr/lib/python3.8/site-packages/MarkupSafe-1.1.1-py3.8.egg-info/dependency_links.txt 68b329da9893e34099c7d8ad5cb9c940 1612618748

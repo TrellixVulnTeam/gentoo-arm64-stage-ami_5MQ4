@@ -1,0 +1,25 @@
+dir /usr
+dir /usr/lib64
+obj /usr/lib64/libfl.a 7b9bf1c6444fab0d57d0919e648a0c2b 1612611830
+dir /usr/share
+dir /usr/share/info
+obj /usr/share/info/flex.info-2.xz 11dba712edea4b86b970f0f74823d36c 1612611828
+obj /usr/share/info/flex.info-1.xz 793b9864aa9d17cd82af8862e4e8f2cb 1612611828
+obj /usr/share/info/flex.info.xz 2ae448c15f2810303e78d77c13cad571 1612611828
+dir /usr/share/doc
+dir /usr/share/doc/flex-2.6.4-r1
+obj /usr/share/doc/flex-2.6.4-r1/AUTHORS.xz 3e238839e1dfaa8d2a6441b5e28f2be2 1612611829
+obj /usr/share/doc/flex-2.6.4-r1/NEWS.xz a73de6d4a68627d7e84a275b90e0296c 1612611829
+obj /usr/share/doc/flex-2.6.4-r1/README.md.xz ea2d922c347c1bdb6c05f80b822859e2 1612611828
+obj /usr/share/doc/flex-2.6.4-r1/ChangeLog.xz 8660d21f78803d0a900ff6594a521026 1612611828
+obj /usr/share/doc/flex-2.6.4-r1/ONEWS.xz 58b84387e5cb7586cc2f951db775ec82 1612611829
+obj /usr/share/doc/flex-2.6.4-r1/THANKS.xz bf4e1cbb20816c24c0da62389530cfbc 1612611829
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/flex.1.xz 0fb3b875da0daf5a46111b8c1cd1a969 1612611828
+dir /usr/include
+obj /usr/include/FlexLexer.h 38e430f055b643e834bac596bf13e556 1612611828
+dir /usr/bin
+sym /usr/bin/lex -> flex 1612611829
+obj /usr/bin/flex 41bc120ce4034c9fdcafee0c39887fa0 1612611830
+sym /usr/bin/flex++ -> flex 1612611828

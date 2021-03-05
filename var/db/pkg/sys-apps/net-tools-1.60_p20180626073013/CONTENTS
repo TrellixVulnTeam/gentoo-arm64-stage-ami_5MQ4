@@ -1,0 +1,34 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/net-tools-1.60_p20180626073013
+obj /usr/share/doc/net-tools-1.60_p20180626073013/README.xz fd84154476810af3e294dfad5c6f9d8f 1612611546
+obj /usr/share/doc/net-tools-1.60_p20180626073013/TODO.xz ceeccf909fa45e2a8544899d45fab58d 1612611546
+obj /usr/share/doc/net-tools-1.60_p20180626073013/THANKS.xz eb730fb59e57e058ec0444116e89ded9 1612611546
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/dnsdomainname.1 5cdb124540d178ea21f212b96af44b3b 1612611546
+obj /usr/share/man/man1/hostname.1.xz 01949312c8fff974e7816574abf16c4b 1612611546
+dir /usr/share/man/man8
+obj /usr/share/man/man8/arp.8.xz 0c32f297f5321bb986e5851d680444d2 1612611546
+obj /usr/share/man/man8/netstat.8.xz 0927190d005241ca4dbee677e2ae3115 1612611546
+obj /usr/share/man/man8/route.8.xz f6931f90ca4ec0ba47f34ddaab5ba94a 1612611546
+obj /usr/share/man/man8/rarp.8.xz 4cda68c938c40424c172e5c3e222b010 1612611546
+obj /usr/share/man/man8/ifconfig.8.xz d8d5a168a1a8033f390f23d439ede21e 1612611546
+obj /usr/share/man/man8/mii-tool.8.xz 13186ad3a2326b9c481f65968019d95b 1612611546
+obj /usr/share/man/man8/nameif.8.xz e65a8fdc70dcd4300588e2f02eba1814 1612611546
+dir /usr/share/man/man5
+obj /usr/share/man/man5/ethers.5.xz a56368454c89cdc6f3775ea0e926989e 1612611546
+dir /bin
+obj /bin/netstat ff23ffc5a3b229d7f7b20a9c02a60966 1612611547
+obj /bin/route 5031a722e402d2dc4cc9fd7b6e47727a 1612611547
+obj /bin/ifconfig a5ef90206f2d26f204b928b5c970fb7a 1612611547
+sym /bin/dnsdomainname -> hostname 1612611546
+obj /bin/hostname 9b930812cd612e5fe051e1e3e057360e 1612611547
+dir /sbin
+obj /sbin/mii-tool 749515af69893bc0e7e0f1621764f260 1612611547
+obj /sbin/ipmaddr 931c70518ef7f59cda19c7d1c4f569bb 1612611547
+obj /sbin/nameif eefa384f563ce9a74d9dc95d9af3f7c7 1612611547
+obj /sbin/rarp ac9a4aadbcf5a2fb7d47c61e1ea81754 1612611547
+obj /sbin/iptunnel 7d171159f7856a1728cfd98e366e51e8 1612611547
+obj /sbin/arp 17ad49df8dd3ba4dfda4dd352ee0ac54 1612611547

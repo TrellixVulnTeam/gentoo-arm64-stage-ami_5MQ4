@@ -1,0 +1,22 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/configobj-5.0.6-r1
+obj /usr/share/doc/configobj-5.0.6-r1/README.md.xz 114d7004902f93dc523653fe759216a7 1613461485
+dir /usr/lib
+dir /usr/lib/python3.8
+dir /usr/lib/python3.8/site-packages
+obj /usr/lib/python3.8/site-packages/configobj-5.0.6-py3.8.egg-info 4660251f3f696f841c004d76d3cd343f 1613461484
+dir /usr/lib/python3.8/site-packages/__pycache__
+obj /usr/lib/python3.8/site-packages/__pycache__/_version.cpython-38.opt-2.pyc 0f528baf71e052cdac2a208cee14b8d3 1613461484
+obj /usr/lib/python3.8/site-packages/__pycache__/validate.cpython-38.opt-2.pyc 41c0b3819e89caffc2a1e0986ca97486 1613461484
+obj /usr/lib/python3.8/site-packages/__pycache__/configobj.cpython-38.opt-2.pyc 630462dfd310e97a0922b582aa058429 1613461484
+obj /usr/lib/python3.8/site-packages/__pycache__/_version.cpython-38.opt-1.pyc 0f528baf71e052cdac2a208cee14b8d3 1613461484
+obj /usr/lib/python3.8/site-packages/__pycache__/validate.cpython-38.opt-1.pyc 41c0b3819e89caffc2a1e0986ca97486 1613461484
+obj /usr/lib/python3.8/site-packages/__pycache__/configobj.cpython-38.opt-1.pyc 630462dfd310e97a0922b582aa058429 1613461484
+obj /usr/lib/python3.8/site-packages/__pycache__/_version.cpython-38.pyc 0f528baf71e052cdac2a208cee14b8d3 1613461484
+obj /usr/lib/python3.8/site-packages/__pycache__/validate.cpython-38.pyc a0c8707df045ebe0b08f920423874f38 1613461484
+obj /usr/lib/python3.8/site-packages/__pycache__/configobj.cpython-38.pyc 9606dedc65025c86fe9c65d671c23ea7 1613461484
+obj /usr/lib/python3.8/site-packages/_version.py 12f24f44fc77ca9dc072f443a4ce77a4 1409015496
+obj /usr/lib/python3.8/site-packages/validate.py 96f9c52b02d713024b03585d27100633 1409015496
+obj /usr/lib/python3.8/site-packages/configobj.py a7c3968dd866dfd23e91e125b669ab21 1409015496

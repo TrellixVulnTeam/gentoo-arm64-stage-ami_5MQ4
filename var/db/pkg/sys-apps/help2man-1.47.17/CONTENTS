@@ -1,0 +1,15 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/help2man-1.47.17
+obj /usr/share/doc/help2man-1.47.17/README.xz d6873d42ca5b3b9124e8f98827dcd2b4 1613460850
+obj /usr/share/doc/help2man-1.47.17/THANKS.xz fa48cc202e30878bfe27884554cb63b0 1613460850
+obj /usr/share/doc/help2man-1.47.17/changelog.xz ed44970a5e1a1c67eb1e2b5297caed59 1613460850
+obj /usr/share/doc/help2man-1.47.17/NEWS.xz 910235cb638208887c1587ac5a9a1ca6 1613460850
+dir /usr/share/info
+obj /usr/share/info/help2man.info.xz 8188cb8da54d5f3f02c48997b7fff173 1613460850
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/help2man.1.xz b10746ad7099468dfb36c8ded1ea862c 1613460850
+dir /usr/bin
+obj /usr/bin/help2man da26c1383d403d862a0579a7c7652eb1 1613460850

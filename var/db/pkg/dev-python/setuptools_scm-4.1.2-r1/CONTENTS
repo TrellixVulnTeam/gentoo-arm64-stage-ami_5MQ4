@@ -1,0 +1,74 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/setuptools_scm-4.1.2-r1
+obj /usr/share/doc/setuptools_scm-4.1.2-r1/README.rst.xz 1906e3d985352cd14b5601bc93df9cc4 1612618286
+dir /usr/lib
+dir /usr/lib/python3.8
+dir /usr/lib/python3.8/site-packages
+dir /usr/lib/python3.8/site-packages/setuptools_scm
+obj /usr/lib/python3.8/site-packages/setuptools_scm/file_finder.py 8d2628710738a3e754b6cfa39328d4a6 1590928807
+obj /usr/lib/python3.8/site-packages/setuptools_scm/file_finder_git.py 433bb2a52b20ede0cce3fd566f3bb17d 1590928807
+obj /usr/lib/python3.8/site-packages/setuptools_scm/config.py 93eaba6164e8f59710092e563f4c5514 1590928807
+obj /usr/lib/python3.8/site-packages/setuptools_scm/hg.py aed7e862150f702d5b81bb209008ab4c 1590928807
+obj /usr/lib/python3.8/site-packages/setuptools_scm/file_finder_hg.py a6827226b1a8ab2162ebd40933accc5c 1590928807
+dir /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/integration.cpython-38.opt-1.pyc 7aecc55cc3f0dd59cf92ddb97fc452e6 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/__main__.cpython-38.pyc 6a8cd947599b6fd62ae426245f67dd80 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/hg.cpython-38.pyc 9ed285923c84937473280769069efd6c 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/file_finder_hg.cpython-38.opt-2.pyc 9bcfeb743b169ed35620a2538232da4e 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/win_py31_compat.cpython-38.pyc 8601e805b6829c44d2e85da8e3a0e274 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/config.cpython-38.opt-2.pyc 4ffca1a7159487b324bc94a52313f880 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/discover.cpython-38.opt-1.pyc b6006f6410f5b6acec0f438844527cd4 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/__init__.cpython-38.opt-1.pyc e78a313e2707c7c499ea9a4d98bf96a6 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/hacks.cpython-38.opt-2.pyc 99c3bfe181ea21b918aa470340921e7d 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/__init__.cpython-38.pyc fcb07c0f5926e318861b51b3eec80e3f 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/file_finder.cpython-38.opt-2.pyc d0b5f91a9b87d09852485272ef5c37d6 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/__main__.cpython-38.opt-2.pyc e47a52821c11aa1c7f94840a5b26f85d 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/__main__.cpython-38.opt-1.pyc e47a52821c11aa1c7f94840a5b26f85d 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/file_finder_hg.cpython-38.opt-1.pyc 9bcfeb743b169ed35620a2538232da4e 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/git.cpython-38.pyc c048f9bb1650c4869aad286d2cdcf853 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/config.cpython-38.pyc 834f3cd1a4000afef85499cee67dc635 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/hg.cpython-38.opt-2.pyc a0277aabb1775d38460e9339c89f8446 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/file_finder_hg.cpython-38.pyc 9bcfeb743b169ed35620a2538232da4e 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/hg.cpython-38.opt-1.pyc a0277aabb1775d38460e9339c89f8446 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/discover.cpython-38.pyc 0e832d7d558cfbea2fe288ca5f19216c 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/config.cpython-38.opt-1.pyc 4ffca1a7159487b324bc94a52313f880 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/utils.cpython-38.pyc 67885229b49322df8b5da867bd127071 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/version.cpython-38.opt-1.pyc 4ad7d68cc589e7d2b43b42f9c5f895bf 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/utils.cpython-38.opt-2.pyc f0fb86209a79364fdc72a734b548ac41 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/file_finder_git.cpython-38.pyc 4928c48b1bc9c000724713f348ad004e 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/git.cpython-38.opt-2.pyc a7fdf617e781ed060c90dd60fb635119 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/file_finder.cpython-38.opt-1.pyc d0b5f91a9b87d09852485272ef5c37d6 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/file_finder_git.cpython-38.opt-1.pyc 206d792da4260c2e8202d0487844339e 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/file_finder_git.cpython-38.opt-2.pyc 206d792da4260c2e8202d0487844339e 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/version.cpython-38.opt-2.pyc 4ad7d68cc589e7d2b43b42f9c5f895bf 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/utils.cpython-38.opt-1.pyc f0fb86209a79364fdc72a734b548ac41 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/win_py31_compat.cpython-38.opt-1.pyc 198393a3b4f3f96763f74ef6c9c5b99c 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/integration.cpython-38.opt-2.pyc 7aecc55cc3f0dd59cf92ddb97fc452e6 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/file_finder.cpython-38.pyc d20021b0b730006f51c9a61fcde93f91 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/__init__.cpython-38.opt-2.pyc e78a313e2707c7c499ea9a4d98bf96a6 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/integration.cpython-38.pyc 0fec7fe5604b62e4722c582e71ccf49c 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/hacks.cpython-38.pyc cd29134d1a0cbb4c9fb778010b860c24 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/git.cpython-38.opt-1.pyc a7fdf617e781ed060c90dd60fb635119 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/discover.cpython-38.opt-2.pyc b6006f6410f5b6acec0f438844527cd4 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/hacks.cpython-38.opt-1.pyc 99c3bfe181ea21b918aa470340921e7d 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/win_py31_compat.cpython-38.opt-2.pyc 198393a3b4f3f96763f74ef6c9c5b99c 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__pycache__/version.cpython-38.pyc 9d0e2e24794d4c500e3759380eb5c510 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm/discover.py 97fb6260b9b63410c8e295f4434cfb7e 1590928807
+obj /usr/lib/python3.8/site-packages/setuptools_scm/hacks.py 5d74c9b3f67bf84dc47f276a04630b65 1590928807
+obj /usr/lib/python3.8/site-packages/setuptools_scm/version.py d18232f92d646d016a24aef983546eac 1590928807
+obj /usr/lib/python3.8/site-packages/setuptools_scm/win_py31_compat.py 12d135d4cf977cb218c9a0d51ae9f8c4 1590928807
+obj /usr/lib/python3.8/site-packages/setuptools_scm/integration.py 8c7ef763c0b3da6b3a8bfa8d03552bcb 1590928807
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__main__.py 70a1b3960a19e2e584a8dd364cf2b87c 1590928807
+obj /usr/lib/python3.8/site-packages/setuptools_scm/__init__.py 2773fd0fa00aee9db038ad76d85eb210 1590928807
+obj /usr/lib/python3.8/site-packages/setuptools_scm/git.py 4d5077179406bacb0440d8c0b122b597 1590928807
+obj /usr/lib/python3.8/site-packages/setuptools_scm/utils.py 9922616241e881605e90e3485ca5ab47 1590928807
+dir /usr/lib/python3.8/site-packages/setuptools_scm-4.1.2-py3.8.egg-info
+obj /usr/lib/python3.8/site-packages/setuptools_scm-4.1.2-py3.8.egg-info/requires.txt e10e1026689b07366086209ffea25d60 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm-4.1.2-py3.8.egg-info/entry_points.txt 7248518d6f7d8b8982d22f502e557776 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm-4.1.2-py3.8.egg-info/top_level.txt d1df003b4bf108bf6bc5e7f2244bca46 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm-4.1.2-py3.8.egg-info/PKG-INFO 69fb3e5beff4c83265a47453c1d76a95 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm-4.1.2-py3.8.egg-info/SOURCES.txt 075613fd42926f6568eab00160719458 1612618286
+obj /usr/lib/python3.8/site-packages/setuptools_scm-4.1.2-py3.8.egg-info/zip-safe 68b329da9893e34099c7d8ad5cb9c940 1590928812
+obj /usr/lib/python3.8/site-packages/setuptools_scm-4.1.2-py3.8.egg-info/dependency_links.txt 68b329da9893e34099c7d8ad5cb9c940 1612618286

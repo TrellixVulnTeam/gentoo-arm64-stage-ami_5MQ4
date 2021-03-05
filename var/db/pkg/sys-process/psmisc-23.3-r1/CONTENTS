@@ -1,0 +1,24 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/psmisc-23.3-r1
+obj /usr/share/doc/psmisc-23.3-r1/AUTHORS.xz 6e13b2df688e987c00c7d9af4478211c 1612612578
+obj /usr/share/doc/psmisc-23.3-r1/NEWS 31e82239cf1c405bbdc64aa807d6b36e 1612612578
+obj /usr/share/doc/psmisc-23.3-r1/README b50faa6ebadf26b2cbccff2777d3155a 1612612578
+obj /usr/share/doc/psmisc-23.3-r1/ChangeLog.xz d574a44f9f185cb19f0d480a117e2f15 1612612578
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/prtstat.1.xz 305ff46be3b0151bb946340aa54aabd6 1612612577
+obj /usr/share/man/man1/peekfd.1.xz fd02c8b0c8756bf644343270c8adbe32 1612612577
+obj /usr/share/man/man1/fuser.1.xz c2aa97cc516b54239e9659a80aeae3c7 1612612577
+obj /usr/share/man/man1/killall.1.xz ebcfb41be8a7581fad43461857dcb952 1612612577
+obj /usr/share/man/man1/pslog.1.xz ad416a92c44c11d152fcb0c6339aaa7e 1612612577
+obj /usr/share/man/man1/pstree.1.xz 2f1a197cbf380bb465a887c2e70b4f18 1612612577
+dir /usr/bin
+obj /usr/bin/prtstat 66e465b77dc3e64748350baba85153a8 1612612578
+obj /usr/bin/pstree 6b976de18859b94a678c2c69c3e3acff 1612612578
+obj /usr/bin/killall c336ff74fe4968801d665721c47e2cdb 1612612578
+obj /usr/bin/pslog aa3d8d0e3cdbac9ab33ea1bd2fd7743e 1612612578
+obj /usr/bin/peekfd f006b8022c5a87c05a0c3d9cdc1090dc 1612612578
+dir /bin
+obj /bin/fuser f9c9a671c002ebc682b9c978e54d62a1 1612612578

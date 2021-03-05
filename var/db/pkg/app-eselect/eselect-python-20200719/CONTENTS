@@ -1,0 +1,5 @@
+dir /usr
+dir /usr/share
+dir /usr/share/eselect
+dir /usr/share/eselect/modules
+obj /usr/share/eselect/modules/python.eselect ffaf51bc70b465c12b001a8cc4f65759 1612612958

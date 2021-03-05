@@ -1,0 +1,34 @@
+dir /usr
+dir /usr/lib64
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/gpg-error.pc 61788a61534ebde92f6f2b7c91415d74 1612612450
+sym /usr/lib64/libgpg-error.so -> libgpg-error.so.0.29.0 1612612450
+obj /usr/lib64/libgpg-error.so.0.29.0 c7611347a7f5fc1bf919148b6532cbd9 1612612451
+sym /usr/lib64/libgpg-error.so.0 -> libgpg-error.so.0.29.0 1612612450
+dir /usr/share
+dir /usr/share/info
+obj /usr/share/info/gpgrt.info.xz 1af10f1dd1e2d201304e47d31380ed3d 1612612450
+dir /usr/share/aclocal
+obj /usr/share/aclocal/gpgrt.m4 8700bf1d40d372ff16523a46a7aae47e 1612612450
+obj /usr/share/aclocal/gpg-error.m4 85fdbdb97d7f980d2ee079e02d3e2106 1612612450
+dir /usr/share/doc
+dir /usr/share/doc/libgpg-error-1.38
+obj /usr/share/doc/libgpg-error-1.38/AUTHORS.xz 2725480a335ae03ab6cfb7e53e0303de 1612612450
+obj /usr/share/doc/libgpg-error-1.38/NEWS.xz fd508e4676e48a1084a41f09d2c48ee2 1612612450
+obj /usr/share/doc/libgpg-error-1.38/README.xz f5e0b91bf3d732268080c7c89245e6c6 1612612450
+obj /usr/share/doc/libgpg-error-1.38/ChangeLog.xz a8d8dc4a4939cc0d8e018ea44ab384fe 1612612450
+obj /usr/share/doc/libgpg-error-1.38/THANKS.xz 990e27ad3246f52609e83ae6c86716e7 1612612450
+dir /usr/share/libgpg-error
+obj /usr/share/libgpg-error/errorref.txt a88c208999af9fed731cf668520ff84a 1612612450
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/gpgrt-config.1.xz d1af1cee18673957f94a2e4db4ffcc56 1612612450
+dir /usr/include
+obj /usr/include/gpg-error.h a131aa0d5b7f624e9fb62d083b93a077 1612612450
+obj /usr/include/gpgrt.h a131aa0d5b7f624e9fb62d083b93a077 1612612450
+dir /usr/bin
+obj /usr/bin/gpg-error 3ca6a875625f6a1f3fdb53646aa70335 1612612451
+obj /usr/bin/yat2m ad1e0f1233e7e930bbf8854b5e59d6cc 1612612451
+obj /usr/bin/gpgrt-config abb35feab96f75002c9dba0f789f9678 1612612450
+obj /usr/bin/aarch64-ares-linux-gnu-gpg-error-config e08d3e14fe3bf71bab459d3cbb8d7976 1612612450
+sym /usr/bin/gpg-error-config -> aarch64-ares-linux-gnu-gpg-error-config 1612612450

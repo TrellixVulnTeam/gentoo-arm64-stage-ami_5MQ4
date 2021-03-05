@@ -1,0 +1,1 @@
+arm_64: dirmngr dirmngr-client gpg gpg-agent gpg-check-pattern gpg-connect-agent gpg-preset-passphrase gpg-protect-tool gpg-wks-client gpgconf gpgparsemail gpgscm gpgsm gpgsplit gpgtar gpgv kbxutil symcryptrun watchgnupg

@@ -1,0 +1,1 @@
+arm_64: arpd bridge devlink genl ifstat ip lnstat m_xt.so nstat rdma rtacct rtmon ss tc tipc

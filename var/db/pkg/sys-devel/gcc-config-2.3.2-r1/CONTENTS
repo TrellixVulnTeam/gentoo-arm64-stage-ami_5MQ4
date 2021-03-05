@@ -1,0 +1,15 @@
+dir /usr
+dir /usr/share
+dir /usr/share/eselect
+dir /usr/share/eselect/modules
+obj /usr/share/eselect/modules/gcc.eselect 6eb56efe3ccda05d10731a9c987b1cd5 1612611165
+dir /usr/share/gcc-config
+obj /usr/share/gcc-config/c89 a76181b5101cbe17318d82165199c40b 1612611165
+obj /usr/share/gcc-config/c99 0e65783e044343cf8eff362d7b1a60a8 1612611165
+dir /usr/share/doc
+dir /usr/share/doc/gcc-config-2.3.2-r1
+obj /usr/share/doc/gcc-config-2.3.2-r1/README.xz 4102754d956f4b1c98f306d3b2bf343b 1612611165
+dir /usr/bin
+obj /usr/bin/c89 a76181b5101cbe17318d82165199c40b 1612611165
+obj /usr/bin/c99 0e65783e044343cf8eff362d7b1a60a8 1612611165
+obj /usr/bin/gcc-config d4ae9d9005bf7d7f3dfec3f25600e33a 1612611165

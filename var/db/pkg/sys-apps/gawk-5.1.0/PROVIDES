@@ -1,0 +1,1 @@
+arm_64: filefuncs.so fnmatch.so fork.so gawk grcat inplace.so intdiv.so ordchr.so pwcat readdir.so readfile.so revoutput.so revtwoway.so rwarray.so time.so

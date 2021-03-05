@@ -1,0 +1,4 @@
+dir /usr
+dir /usr/lib
+dir /usr/lib/sysusers.d
+obj /usr/lib/sysusers.d/acct-user-systemd-resolve.conf 6ae60398024314f8aa949e13d289c6ef 1612611149

@@ -1,0 +1,10 @@
+dir /usr
+dir /usr/lib
+dir /usr/lib/python3.8
+dir /usr/lib/python3.8/site-packages
+dir /usr/lib/python3.8/site-packages/zope
+dir /usr/lib/python3.8/site-packages/zope/__pycache__
+obj /usr/lib/python3.8/site-packages/zope/__pycache__/__init__.cpython-38.opt-2.pyc db98a6b85ec576f8702f2da5c885eef5 1613461525
+obj /usr/lib/python3.8/site-packages/zope/__pycache__/__init__.cpython-38.opt-1.pyc db98a6b85ec576f8702f2da5c885eef5 1613461525
+obj /usr/lib/python3.8/site-packages/zope/__pycache__/__init__.cpython-38.pyc db98a6b85ec576f8702f2da5c885eef5 1613461525
+obj /usr/lib/python3.8/site-packages/zope/__init__.py 050042c7144e01b0a29eb3d46929e962 1613461525

@@ -1,0 +1,4 @@
+# allow full llvm stack
+-libcxx
+-sanitize
+-default-libcxx

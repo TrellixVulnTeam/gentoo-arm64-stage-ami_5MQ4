@@ -1,0 +1,34 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/regex-2020.4.4-r1
+obj /usr/share/doc/regex-2020.4.4-r1/UnicodeProperties.rst.xz 400b49186d6fb8f1305bd4675ca058f7 1613461519
+obj /usr/share/doc/regex-2020.4.4-r1/Features.rst.xz d81bef7f292df13fb13194fc63261f67 1613461519
+obj /usr/share/doc/regex-2020.4.4-r1/README.rst.xz d81bef7f292df13fb13194fc63261f67 1613461519
+dir /usr/lib
+dir /usr/lib/python3.8
+dir /usr/lib/python3.8/site-packages
+dir /usr/lib/python3.8/site-packages/regex-2020.4.4-py3.8.egg-info
+obj /usr/lib/python3.8/site-packages/regex-2020.4.4-py3.8.egg-info/top_level.txt 0afc29b0f401fd47865c752ad298daee 1613461519
+obj /usr/lib/python3.8/site-packages/regex-2020.4.4-py3.8.egg-info/dependency_links.txt 68b329da9893e34099c7d8ad5cb9c940 1613461519
+obj /usr/lib/python3.8/site-packages/regex-2020.4.4-py3.8.egg-info/SOURCES.txt ff12c512445beb0ec1e162b284f693a2 1613461519
+obj /usr/lib/python3.8/site-packages/regex-2020.4.4-py3.8.egg-info/PKG-INFO 5db6567bf6466f2e97706173578cff5d 1613461519
+dir /usr/lib/python3.8/site-packages/regex
+obj /usr/lib/python3.8/site-packages/regex/_regex.cpython-38-aarch64-linux-gnu.so 58fa6b24cdc1420e47c9609a6a5f66d7 1613461520
+dir /usr/lib/python3.8/site-packages/regex/__pycache__
+obj /usr/lib/python3.8/site-packages/regex/__pycache__/test_regex.cpython-38.opt-2.pyc 3cec00b3369bbe2f0c9282f0af1c98f8 1613461519
+obj /usr/lib/python3.8/site-packages/regex/__pycache__/_regex_core.cpython-38.opt-2.pyc 4f4b2d32fb747062705129e93c044ed4 1613461519
+obj /usr/lib/python3.8/site-packages/regex/__pycache__/regex.cpython-38.opt-2.pyc 02088190e01226c8c5cf4ec9a564104f 1613461519
+obj /usr/lib/python3.8/site-packages/regex/__pycache__/__init__.cpython-38.opt-2.pyc 1c221661c3cd8ba1155c5566315df56d 1613461519
+obj /usr/lib/python3.8/site-packages/regex/__pycache__/test_regex.cpython-38.opt-1.pyc 3cec00b3369bbe2f0c9282f0af1c98f8 1613461519
+obj /usr/lib/python3.8/site-packages/regex/__pycache__/_regex_core.cpython-38.opt-1.pyc 4f4b2d32fb747062705129e93c044ed4 1613461518
+obj /usr/lib/python3.8/site-packages/regex/__pycache__/regex.cpython-38.opt-1.pyc 02088190e01226c8c5cf4ec9a564104f 1613461518
+obj /usr/lib/python3.8/site-packages/regex/__pycache__/__init__.cpython-38.opt-1.pyc 1c221661c3cd8ba1155c5566315df56d 1613461518
+obj /usr/lib/python3.8/site-packages/regex/__pycache__/test_regex.cpython-38.pyc 37df44a1c2fda3c0188ca1c492ce3bcd 1613461518
+obj /usr/lib/python3.8/site-packages/regex/__pycache__/_regex_core.cpython-38.pyc dc107479d087c6b2d3ba43dca011e8c2 1613461518
+obj /usr/lib/python3.8/site-packages/regex/__pycache__/regex.cpython-38.pyc 0767076c849bacbf30c47c537b01452b 1613461518
+obj /usr/lib/python3.8/site-packages/regex/__pycache__/__init__.cpython-38.pyc 1c221661c3cd8ba1155c5566315df56d 1613461518
+obj /usr/lib/python3.8/site-packages/regex/test_regex.py c48718c94a78cdb0a14ff9f2eb8b6474 1613461504
+obj /usr/lib/python3.8/site-packages/regex/_regex_core.py d393d9769d15a17674844259173d84d7 1586030537
+obj /usr/lib/python3.8/site-packages/regex/regex.py 9d9ea1f6e868617245a0ca29e5daf48e 1586030537
+obj /usr/lib/python3.8/site-packages/regex/__init__.py 94f7237b997ae991f7e9ebd2ac3dea9c 1586030537

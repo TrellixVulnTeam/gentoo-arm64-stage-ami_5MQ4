@@ -1,0 +1,4 @@
+dir /usr
+dir /usr/lib
+dir /usr/lib/sysusers.d
+obj /usr/lib/sysusers.d/acct-user-systemd-coredump.conf 53daa73973c00e9730a85117190483e3 1612611137

@@ -1,0 +1,17 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/gptfdisk-1.0.4
+obj /usr/share/doc/gptfdisk-1.0.4/README.xz a5524a4e82d1f6f918cb935258b4e3ac 1613461615
+obj /usr/share/doc/gptfdisk-1.0.4/NEWS.xz be2b03b4d8137556f5b44a5a221e78bc 1613461615
+dir /usr/share/man
+dir /usr/share/man/man8
+obj /usr/share/man/man8/fixparts.8.xz d79a315f4eb9390751f0235b3a5a6ea0 1613461615
+obj /usr/share/man/man8/gdisk.8.xz 5789ceef92fc061966829d5c35465460 1613461615
+obj /usr/share/man/man8/sgdisk.8.xz 2e0a7b01e061aa7403baf97a560289a0 1613461615
+obj /usr/share/man/man8/cgdisk.8.xz a194782c0c90fed6a8443fff018aaa48 1613461615
+dir /usr/sbin
+obj /usr/sbin/cgdisk c464039bb75da5af2d4c4d8b22409480 1613461616
+obj /usr/sbin/gdisk 00ca9dc2dbb3a5a02f4c708e996ceea4 1613461616
+obj /usr/sbin/sgdisk c69ef6e3349a592d3fa931ee3156e795 1613461616
+obj /usr/sbin/fixparts 2383495082ca264fac923a437e906f94 1613461616

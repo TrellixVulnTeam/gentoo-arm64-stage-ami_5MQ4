@@ -1,0 +1,4 @@
+dir /usr
+dir /usr/lib
+dir /usr/lib/sysusers.d
+obj /usr/lib/sysusers.d/acct-user-systemd-journal-remote.conf 74c8d298cab14b729a13c831374a51f2 1612611132

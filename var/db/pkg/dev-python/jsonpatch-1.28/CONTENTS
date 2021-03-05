@@ -1,0 +1,27 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/jsonpatch-1.28
+obj /usr/share/doc/jsonpatch-1.28/AUTHORS.xz 566ab6bab50b34f3abce229db67eb1a9 1613461600
+obj /usr/share/doc/jsonpatch-1.28/README.md.xz 0516760ead340f5319317583edc0f5c0 1613461600
+dir /usr/bin
+sym /usr/bin/jsonpatch -> ../lib/python-exec/python-exec2 1613461600
+sym /usr/bin/jsondiff -> ../lib/python-exec/python-exec2 1613461600
+dir /usr/lib
+dir /usr/lib/python-exec
+dir /usr/lib/python-exec/python3.8
+obj /usr/lib/python-exec/python3.8/jsonpatch 9f3ddb3c7da22468fec9a9d2d652806e 1613461598
+obj /usr/lib/python-exec/python3.8/jsondiff 5a5c8310ec7c9e275dc962c14a56589d 1613461598
+dir /usr/lib/python3.8
+dir /usr/lib/python3.8/site-packages
+dir /usr/lib/python3.8/site-packages/jsonpatch-1.28-py3.8.egg-info
+obj /usr/lib/python3.8/site-packages/jsonpatch-1.28-py3.8.egg-info/SOURCES.txt d546f308c715e9e6020783dd90da8889 1613461600
+obj /usr/lib/python3.8/site-packages/jsonpatch-1.28-py3.8.egg-info/top_level.txt 5f8a82da2c12f78668501f3f77f64c27 1613461600
+obj /usr/lib/python3.8/site-packages/jsonpatch-1.28-py3.8.egg-info/requires.txt e07bb94efdd320e7f4dd2192232b08b0 1613461600
+obj /usr/lib/python3.8/site-packages/jsonpatch-1.28-py3.8.egg-info/dependency_links.txt 68b329da9893e34099c7d8ad5cb9c940 1613461600
+obj /usr/lib/python3.8/site-packages/jsonpatch-1.28-py3.8.egg-info/PKG-INFO d6d833386a60a3fcd1e8e461e38357d3 1613461600
+dir /usr/lib/python3.8/site-packages/__pycache__
+obj /usr/lib/python3.8/site-packages/__pycache__/jsonpatch.cpython-38.opt-2.pyc 83f053f7a8a2266c2a6d66ff6ade0ef9 1613461600
+obj /usr/lib/python3.8/site-packages/__pycache__/jsonpatch.cpython-38.opt-1.pyc 83f053f7a8a2266c2a6d66ff6ade0ef9 1613461599
+obj /usr/lib/python3.8/site-packages/__pycache__/jsonpatch.cpython-38.pyc ff3954069540c6770928b753a7a1ff41 1613461599
+obj /usr/lib/python3.8/site-packages/jsonpatch.py fa1f72f39016563e36c050565d7e4d4a 1606852466

@@ -1,0 +1,1 @@
+arm_64: badblocks chattr debugfs dumpe2fs e2freefrag e2fsck e2image e2initrd_helper e2undo e4crypt e4defrag filefrag libe2p.so.2 libext2fs.so.2 logsave lsattr mke2fs mklost+found resize2fs tune2fs

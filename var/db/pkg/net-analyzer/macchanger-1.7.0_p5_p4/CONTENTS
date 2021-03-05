@@ -1,0 +1,22 @@
+dir /usr
+dir /usr/bin
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/macchanger-1.7.0_p5_p4
+obj /usr/share/doc/macchanger-1.7.0_p5_p4/debian.changelog.xz 9f415f180160631a9f736fddfe12174c 1613461457
+obj /usr/share/doc/macchanger-1.7.0_p5_p4/ChangeLog.xz 0957e135214c343340cf5c67eeb4ea93 1613461457
+obj /usr/share/doc/macchanger-1.7.0_p5_p4/README.xz e5d7d804437129529a141529c521cea5 1613461457
+obj /usr/share/doc/macchanger-1.7.0_p5_p4/AUTHORS 5250b13049e3e066f2e1f288a63db0c3 1613461457
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/macchanger.1.xz 6044e2fa42ebf6df3d43d016928acb5e 1613461457
+dir /usr/share/info
+obj /usr/share/info/macchanger.info.xz 90b5584c90eca49131508446f8f9d4db 1613461457
+dir /lib
+dir /lib/macchanger
+obj /lib/macchanger/wireless.list cec33bddd1e3406d8ca32c693137125c 1613461457
+obj /lib/macchanger/OUI.list 70be0cccbe93a4d77a360b6fdc567293 1613461457
+dir /sbin
+obj /sbin/macchanger 20c8713881da0dd42572298824651be9 1613461458
+sym /usr/share/macchanger -> ../../lib/macchanger 1613461457
+sym /usr/bin/macchanger -> ../../sbin/macchanger 1613461457

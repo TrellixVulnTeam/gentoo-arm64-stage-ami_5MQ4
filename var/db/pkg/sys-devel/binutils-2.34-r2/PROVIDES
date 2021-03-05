@@ -1,0 +1,1 @@
+arm_64: addr2line ar as c++filt dwp elfedit gprof ld ld.bfd ld.gold libbfd-2.34.0.gentoo-sys-devel-binutils-st.so libctf-nobfd.so.0 libctf.so.0 libopcodes-2.34.0.gentoo-sys-devel-binutils-st.so nm objcopy objdump ranlib readelf size strings strip

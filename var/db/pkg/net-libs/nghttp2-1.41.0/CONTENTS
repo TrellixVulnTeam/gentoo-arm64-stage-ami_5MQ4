@@ -1,0 +1,24 @@
+dir /usr
+dir /usr/lib64
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/libnghttp2.pc 47edb1097717ddcaec62aa1bbfeca0b5 1612611230
+sym /usr/lib64/libnghttp2.so.14 -> libnghttp2.so.14.20.0 1612611230
+sym /usr/lib64/libnghttp2.so -> libnghttp2.so.14.20.0 1612611230
+obj /usr/lib64/libnghttp2.so.14.20.0 261671d49d27e9a2697ef3f444065175 1612611231
+dir /usr/share
+dir /usr/share/nghttp2
+obj /usr/share/nghttp2/fetch-ocsp-response 55205275e5a11f395b9067c65a9cd4e9 1612611230
+dir /usr/share/doc
+dir /usr/share/doc/nghttp2-1.41.0
+obj /usr/share/doc/nghttp2-1.41.0/README.rst.xz 9af51c2adba18c0fac53347e9ddafb2f 1612611230
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/nghttpd.1.xz 0035f58ea6c728dfc1b6fd1efbbec167 1612611230
+obj /usr/share/man/man1/nghttpx.1.xz 7397337b222acdfcad8f824fa6b0c452 1612611230
+obj /usr/share/man/man1/nghttp.1.xz 5dcebe15b5e064aed6ea075d96806a71 1612611230
+obj /usr/share/man/man1/h2load.1.xz 44e1d61f7754398b35e9e6e71075cf2b 1612611230
+dir /usr/include
+dir /usr/include/nghttp2
+obj /usr/include/nghttp2/nghttp2.h 75552cd16b7bd68a7ec468fdb4cbea6d 1612611230
+obj /usr/include/nghttp2/nghttp2ver.h 3f543b39b3455b9b2a7d9f963d56b46e 1612611230
+dir /usr/bin

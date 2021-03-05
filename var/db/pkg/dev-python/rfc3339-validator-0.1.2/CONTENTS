@@ -1,0 +1,20 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/rfc3339-validator-0.1.2
+obj /usr/share/doc/rfc3339-validator-0.1.2/README.md.xz 496f833c344e66d684ecd1399067f288 1613461622
+dir /usr/lib
+dir /usr/lib/python3.8
+dir /usr/lib/python3.8/site-packages
+dir /usr/lib/python3.8/site-packages/rfc3339_validator-0.1.2-py3.8.egg-info
+obj /usr/lib/python3.8/site-packages/rfc3339_validator-0.1.2-py3.8.egg-info/SOURCES.txt a456fa08ac39f2731fae9fb305112ca7 1613461622
+obj /usr/lib/python3.8/site-packages/rfc3339_validator-0.1.2-py3.8.egg-info/top_level.txt 8f5ad9ade2bb9d7884fb022f3333dd60 1613461622
+obj /usr/lib/python3.8/site-packages/rfc3339_validator-0.1.2-py3.8.egg-info/requires.txt 5d2dfbea120f23e84e689374aa2ba84f 1613461622
+obj /usr/lib/python3.8/site-packages/rfc3339_validator-0.1.2-py3.8.egg-info/dependency_links.txt 68b329da9893e34099c7d8ad5cb9c940 1613461622
+obj /usr/lib/python3.8/site-packages/rfc3339_validator-0.1.2-py3.8.egg-info/not-zip-safe 68b329da9893e34099c7d8ad5cb9c940 1613461621
+obj /usr/lib/python3.8/site-packages/rfc3339_validator-0.1.2-py3.8.egg-info/PKG-INFO 07791d18643aed8556eacc36d646ec7e 1613461622
+dir /usr/lib/python3.8/site-packages/__pycache__
+obj /usr/lib/python3.8/site-packages/__pycache__/rfc3339_validator.cpython-38.opt-2.pyc 6a93c085dd3edc3430be560f428596aa 1613461622
+obj /usr/lib/python3.8/site-packages/__pycache__/rfc3339_validator.cpython-38.opt-1.pyc 6a93c085dd3edc3430be560f428596aa 1613461622
+obj /usr/lib/python3.8/site-packages/__pycache__/rfc3339_validator.cpython-38.pyc e98023b7f014e9e193723d538b1bbb62 1613461622
+obj /usr/lib/python3.8/site-packages/rfc3339_validator.py 47854f4f15d1410b73b2f23e9659bc31 1573763890

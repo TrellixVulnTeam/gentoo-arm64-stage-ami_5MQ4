@@ -1,0 +1,88 @@
+dir /usr
+dir /usr/lib64
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/libidn2.pc 992c98b024b43b432a20a83f16e1f689 1612612499
+sym /usr/lib64/libidn2.so -> libidn2.so.0.3.7 1612612499
+obj /usr/lib64/libidn2.so.0.3.7 eb0939e51901b648b32501df8b396628 1612612501
+sym /usr/lib64/libidn2.so.0 -> libidn2.so.0.3.7 1612612499
+dir /usr/share
+dir /usr/share/locale
+dir /usr/share/locale/ro
+dir /usr/share/locale/ro/LC_MESSAGES
+obj /usr/share/locale/ro/LC_MESSAGES/libidn2.mo 55c3bb7b4a39fe0834cb7b3d562a9a9d 1612612499
+dir /usr/share/locale/pl
+dir /usr/share/locale/pl/LC_MESSAGES
+obj /usr/share/locale/pl/LC_MESSAGES/libidn2.mo 655afcbb35a6be09cd4b39aea1292274 1612612499
+dir /usr/share/locale/da
+dir /usr/share/locale/da/LC_MESSAGES
+obj /usr/share/locale/da/LC_MESSAGES/libidn2.mo 2ae1e0c02633b711fff7403442300a5f 1612612499
+dir /usr/share/locale/hr
+dir /usr/share/locale/hr/LC_MESSAGES
+obj /usr/share/locale/hr/LC_MESSAGES/libidn2.mo 6913f03edd2d0a610f56affe8baf0115 1612612499
+dir /usr/share/locale/fur
+dir /usr/share/locale/fur/LC_MESSAGES
+obj /usr/share/locale/fur/LC_MESSAGES/libidn2.mo f6fe3e799fc5319c2343fbe3c1dd0ac3 1612612499
+dir /usr/share/locale/fr
+dir /usr/share/locale/fr/LC_MESSAGES
+obj /usr/share/locale/fr/LC_MESSAGES/libidn2.mo fa9040726ec51ca0148d547904941441 1612612499
+dir /usr/share/locale/sv
+dir /usr/share/locale/sv/LC_MESSAGES
+obj /usr/share/locale/sv/LC_MESSAGES/libidn2.mo ec0ee699c60ea754f7ae89515ad2e2eb 1612612499
+dir /usr/share/locale/eo
+dir /usr/share/locale/eo/LC_MESSAGES
+obj /usr/share/locale/eo/LC_MESSAGES/libidn2.mo 2ad6cabb12393370d0a0b90d7dc89020 1612612499
+dir /usr/share/locale/sr
+dir /usr/share/locale/sr/LC_MESSAGES
+obj /usr/share/locale/sr/LC_MESSAGES/libidn2.mo 807ec4168066e7540eafdfbb9399ada3 1612612499
+dir /usr/share/locale/de
+dir /usr/share/locale/de/LC_MESSAGES
+obj /usr/share/locale/de/LC_MESSAGES/libidn2.mo c2f230b4ab01d99b9d77df7374564d0d 1612612499
+dir /usr/share/locale/nl
+dir /usr/share/locale/nl/LC_MESSAGES
+obj /usr/share/locale/nl/LC_MESSAGES/libidn2.mo a4ac52f93e1babace9e76d9b3a037f99 1612612499
+dir /usr/share/locale/it
+dir /usr/share/locale/it/LC_MESSAGES
+obj /usr/share/locale/it/LC_MESSAGES/libidn2.mo 7e5dbd43708f69bc4c83819ea4c7da67 1612612499
+dir /usr/share/locale/zh_CN
+dir /usr/share/locale/zh_CN/LC_MESSAGES
+obj /usr/share/locale/zh_CN/LC_MESSAGES/libidn2.mo 077e10e2b2536fe5f566a2e041311359 1612612499
+dir /usr/share/locale/uk
+dir /usr/share/locale/uk/LC_MESSAGES
+obj /usr/share/locale/uk/LC_MESSAGES/libidn2.mo b609523db3f6ad3a24b26d15b7d3623d 1612612499
+dir /usr/share/locale/vi
+dir /usr/share/locale/vi/LC_MESSAGES
+obj /usr/share/locale/vi/LC_MESSAGES/libidn2.mo e30a4ea1c303e0e52eda93ddc23ce6d1 1612612499
+dir /usr/share/locale/ja
+dir /usr/share/locale/ja/LC_MESSAGES
+obj /usr/share/locale/ja/LC_MESSAGES/libidn2.mo 72cebe5a7263e4034fe7ff660021637a 1612612499
+dir /usr/share/locale/hu
+dir /usr/share/locale/hu/LC_MESSAGES
+obj /usr/share/locale/hu/LC_MESSAGES/libidn2.mo ce2e5603b8d9cc0292c270f726e4f5e5 1612612499
+dir /usr/share/locale/es
+dir /usr/share/locale/es/LC_MESSAGES
+obj /usr/share/locale/es/LC_MESSAGES/libidn2.mo 62ecbc10920d64ae1c3e848849d2d79f 1612612499
+dir /usr/share/locale/cs
+dir /usr/share/locale/cs/LC_MESSAGES
+obj /usr/share/locale/cs/LC_MESSAGES/libidn2.mo 62967e2ce75b0051293d572f7887c091 1612612499
+dir /usr/share/locale/pt_BR
+dir /usr/share/locale/pt_BR/LC_MESSAGES
+obj /usr/share/locale/pt_BR/LC_MESSAGES/libidn2.mo 736f911e29ab5f75186cfbdca71ffec5 1612612499
+dir /usr/share/locale/id
+dir /usr/share/locale/id/LC_MESSAGES
+obj /usr/share/locale/id/LC_MESSAGES/libidn2.mo ffabad0866b193ab7d3ac35138e7a370 1612612499
+dir /usr/share/locale/ru
+dir /usr/share/locale/ru/LC_MESSAGES
+obj /usr/share/locale/ru/LC_MESSAGES/libidn2.mo 387c48945d7f1495da5f43bd1da9d4e9 1612612499
+dir /usr/share/locale/fi
+dir /usr/share/locale/fi/LC_MESSAGES
+obj /usr/share/locale/fi/LC_MESSAGES/libidn2.mo a8c65925ca60f0b836ba4777b0dbcd87 1612612499
+dir /usr/share/doc
+dir /usr/share/doc/libidn2-2.3.0
+obj /usr/share/doc/libidn2-2.3.0/AUTHORS.xz 915bb5fd1c1953ac5b68c177315393ae 1612612500
+obj /usr/share/doc/libidn2-2.3.0/NEWS.xz 71ea209881a82e0a1ea582058f440311 1612612500
+obj /usr/share/doc/libidn2-2.3.0/README.md.xz 18a10bb3c9403694f53ad791a7b9b1a7 1612612500
+obj /usr/share/doc/libidn2-2.3.0/ChangeLog.xz 46bd8791436695ca688cc9c9737a992c 1612612500
+dir /usr/include
+obj /usr/include/idn2.h 816ef9141f3c1b4b1b2cf1d074998e0b 1612612499
+dir /usr/bin
+obj /usr/bin/idn2 f0dce48103fa5942cf2dddb4077b6bf5 1612612501

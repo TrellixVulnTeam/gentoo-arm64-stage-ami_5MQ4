@@ -1,0 +1,48 @@
+dir /etc
+dir /etc/init.d
+obj /etc/init.d/kmod-static-nodes e38c4acdc2b5b09cb81684e87bb7a769 1613460871
+dir /lib
+dir /lib/modprobe.d
+obj /lib/modprobe.d/usb-load-ehci-first.conf 76166c8e368b6a5d3d792322b4cb30d4 1613460871
+dir /sbin
+sym /sbin/rmmod -> ../bin/kmod 1613460871
+sym /sbin/modprobe -> ../bin/kmod 1613460871
+sym /sbin/insmod -> ../bin/kmod 1613460871
+sym /sbin/depmod -> ../bin/kmod 1613460871
+dir /lib64
+obj /lib64/libkmod.so.2.3.6 1e2e024dc598e5ba6e3ae0b50c3f0967 1613460872
+sym /lib64/libkmod.so.2 -> libkmod.so.2.3.6 1613460871
+dir /bin
+obj /bin/kmod 83baac08015adfebdd4a3f5ec23dc851 1613460872
+sym /bin/modinfo -> kmod 1613460871
+sym /bin/lsmod -> kmod 1613460871
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/kmod-28
+obj /usr/share/doc/kmod-28/TODO.xz 70a0134eef332abbf124911455be2183 1613460871
+obj /usr/share/doc/kmod-28/README.xz b84f81f21a5146f58ad14a00e43cad83 1613460871
+obj /usr/share/doc/kmod-28/NEWS.xz 8e959daceb71dba105b7bec782ac8c2e 1613460871
+dir /usr/share/man
+dir /usr/share/man/man8
+obj /usr/share/man/man8/modinfo.8.xz 89b4ac43650c5aceca3f8f4885ce6ae0 1613460871
+obj /usr/share/man/man8/modprobe.8.xz f91e9978b6fb4e575fe5930cbf34a964 1613460871
+obj /usr/share/man/man8/rmmod.8.xz 7bea4582d17d6d95539a198331a2c30b 1613460871
+obj /usr/share/man/man8/lsmod.8.xz 464e553066f8b961a7113d91c1353b72 1613460871
+obj /usr/share/man/man8/depmod.8.xz f595382c630f26b8495b9fc886c6be92 1613460871
+obj /usr/share/man/man8/insmod.8.xz 1176496bca10e0e8b48f49bfe3b20d00 1613460871
+obj /usr/share/man/man8/kmod.8.xz 4d820613dddc5dd3218f6bf5271fd472 1613460871
+dir /usr/share/man/man5
+obj /usr/share/man/man5/modprobe.d.5.xz a75fc6b52408e6fe7283781383fa2f19 1613460871
+obj /usr/share/man/man5/modules.dep.5.xz ceef2019394b68d12b8fbf67e0500ef0 1613460871
+obj /usr/share/man/man5/depmod.d.5.xz f681980bb613d4e991983d1088955f7a 1613460871
+obj /usr/share/man/man5/modules.dep.bin.5 39e905d6e0af6faea08d24cdd93d7975 1613460871
+dir /usr/share/bash-completion
+dir /usr/share/bash-completion/completions
+obj /usr/share/bash-completion/completions/kmod 3592da55a19f765ee35dffc6f8fa0215 1613460871
+dir /usr/include
+obj /usr/include/libkmod.h f3fd7d8f66e5396eb4e077203f50c5ce 1613460871
+dir /usr/lib64
+sym /usr/lib64/libkmod.so -> ../../lib64/libkmod.so.2.3.6 1613460871
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/libkmod.pc 3ee3183399f708e13b242113e82c4460 1613460871

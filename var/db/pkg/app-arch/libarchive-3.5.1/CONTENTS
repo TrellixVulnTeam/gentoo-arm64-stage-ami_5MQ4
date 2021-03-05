@@ -1,0 +1,67 @@
+dir /usr
+dir /usr/lib64
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/libarchive.pc cc18c3e99e3524207154606f027475ba 1612617639
+sym /usr/lib64/libarchive.so.13 -> libarchive.so.13.5.1 1612617639
+obj /usr/lib64/libarchive.so.13.5.1 2d7e1ffa56aa7b9a0f90590cdc28a5d4 1612617641
+sym /usr/lib64/libarchive.so -> libarchive.so.13.5.1 1612617639
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/libarchive-3.5.1
+obj /usr/share/doc/libarchive-3.5.1/NEWS.xz 9669368b04ba7302f45e24f9a6d9b21f 1612617640
+obj /usr/share/doc/libarchive-3.5.1/README.md.xz 0a34b4186e58833be297a8d048417a6f 1612617640
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/bsdtar.1.xz c59f7423090c5e888d4d4542fe7797d5 1612617639
+obj /usr/share/man/man1/bsdcat.1.xz f2b3fb55050d8746f8065a481f8e8658 1612617639
+obj /usr/share/man/man1/bsdcpio.1.xz d25d6427020c2871322c9f7dbeee21d6 1612617639
+dir /usr/share/man/man3
+obj /usr/share/man/man3/archive_write_format.3.xz 7bfd38cc0ede7bc0f1a16f6fc7e2d773 1612617639
+obj /usr/share/man/man3/archive_write_disk.3.xz a9b930559801f780d7430fee04bf894f 1612617639
+obj /usr/share/man/man3/archive_write_finish_entry.3.xz f1aafc20f4f122c3b1d62743d48823e9 1612617639
+obj /usr/share/man/man3/archive_read_format.3.xz c99685692e37f6e21918dae886be126e 1612617639
+obj /usr/share/man/man3/archive_write_set_options.3.xz 1e7cd6d27c3c80ae1df4833b2830c069 1612617639
+obj /usr/share/man/man3/archive_util.3.xz 4d204706c5a61198d9adc70524b76286 1612617639
+obj /usr/share/man/man3/archive_read.3.xz 01d6eb5098cea79eb468bbcb977d67fa 1612617639
+obj /usr/share/man/man3/archive_entry.3.xz e9f790b73721cef39ff1e554fa6867c6 1612617639
+obj /usr/share/man/man3/archive_entry_time.3.xz de3d341ba0f97edda7ebef086d2dc11e 1612617639
+obj /usr/share/man/man3/archive_entry_acl.3.xz c80cb22be54bc9af901d7c2883908bf5 1612617639
+obj /usr/share/man/man3/archive_entry_linkify.3.xz b52fde2d3e9e14e8016a09c84b021db3 1612617639
+obj /usr/share/man/man3/archive_write_open.3.xz bf2af09fc0af1179051830447b8c9d26 1612617639
+obj /usr/share/man/man3/archive_read_new.3.xz f1625736d7427ba83ddb5bf8de26342a 1612617639
+obj /usr/share/man/man3/archive_write_free.3.xz 39a47a9d92a59b14ea9be9c262c241b3 1612617639
+obj /usr/share/man/man3/archive_read_add_passphrase.3.xz e1be7d6ffdc5b7ec94ddaf3871b8375e 1612617639
+obj /usr/share/man/man3/archive_read_data.3.xz 9536250c99ba4435b4060beb224be9a1 1612617639
+obj /usr/share/man/man3/archive_read_set_options.3.xz 4ee96e9f5cf3a69e594dbe8178df63a3 1612617639
+obj /usr/share/man/man3/archive_read_extract.3.xz bf6379e983928d7f2dffc0dc0bbe75b5 1612617639
+obj /usr/share/man/man3/libarchive.3.xz ff1d9bc67ce97118e592d18b36cb8dd8 1612617639
+obj /usr/share/man/man3/archive_write_blocksize.3.xz 448599572753ec5d3f04a0cbf03ebc40 1612617639
+obj /usr/share/man/man3/archive_read_open.3.xz e159cba1a5e2db818e681729ca2fc6cd 1612617639
+obj /usr/share/man/man3/archive_read_header.3.xz 67e53676c50d4fcf18d54471e7e41a8d 1612617639
+obj /usr/share/man/man3/archive_read_disk.3.xz d8e89ce5e69a6a553e4402017a54b370 1612617639
+obj /usr/share/man/man3/archive_entry_perms.3.xz 79e1ca1911d0e1e503689f4a4c40e280 1612617639
+obj /usr/share/man/man3/archive_write.3.xz d5b12eb5a97bae809dbba626cf16aeae 1612617639
+obj /usr/share/man/man3/archive_write_filter.3.xz e89faddebf8812e84a643ff773f9a51a 1612617639
+obj /usr/share/man/man3/archive_entry_paths.3.xz c6fd2a63a592be79bf2fd7015d5481bf 1612617639
+obj /usr/share/man/man3/archive_read_free.3.xz 8aae34b3864d01a30ceb624111f8cd2e 1612617639
+obj /usr/share/man/man3/archive_write_header.3.xz fa0b2a1d5b1801de5c3a0a498ae6001f 1612617639
+obj /usr/share/man/man3/archive_read_filter.3.xz 824d57364fa7bbffd5979a38e8b972ae 1612617639
+obj /usr/share/man/man3/archive_entry_stat.3.xz 7f8f2aa358689e12cc9d2ef42325d81f 1612617639
+obj /usr/share/man/man3/archive_write_data.3.xz e27ddeb56632e24a996c1a5f3cf7d901 1612617639
+obj /usr/share/man/man3/libarchive_internals.3.xz 83da5a0c2a328cb7f78d45ad2b4b37e9 1612617639
+obj /usr/share/man/man3/archive_write_set_passphrase.3.xz 5af42fbed38ca6812562fe54c418d9d9 1612617639
+obj /usr/share/man/man3/archive_entry_misc.3.xz b6866e75f48a34b427fc4d6c6c2e3d60 1612617639
+obj /usr/share/man/man3/archive_write_new.3.xz 00c00e1e5fa6a906ff940bfeac898b98 1612617639
+obj /usr/share/man/man3/libarchive_changes.3.xz 0416ac81981fe9d527141709d38dd4e9 1612617639
+dir /usr/share/man/man5
+obj /usr/share/man/man5/tar.5.xz 72ccc70c79cec77cbf21d1f630f9f858 1612617639
+obj /usr/share/man/man5/cpio.5.xz 743c7aadf12ea722524d7ef04e37f72b 1612617639
+obj /usr/share/man/man5/mtree.5.xz 46980465e4f63d42e448f75a0b9dcbb3 1612617639
+obj /usr/share/man/man5/libarchive-formats.5.xz cb8c36caa3ec2c88d745f91a6942b513 1612617639
+dir /usr/include
+obj /usr/include/archive.h 63ad45161e954c1dc88fa4c171f51687 1612617639
+obj /usr/include/archive_entry.h 0dad5431bce39103f0b378fd76fe1b4f 1612617639
+dir /usr/bin
+obj /usr/bin/bsdcpio d180d0ebf23d2e0d9e14e37b39906b81 1612617641
+obj /usr/bin/bsdtar 6852b052441fe1bc24dab78de33645db 1612617641
+obj /usr/bin/bsdcat 6710ade02fbf34713b60fd88333755ad 1612617641

@@ -1,0 +1,55 @@
+dir /usr
+dir /usr/share
+dir /usr/share/info
+obj /usr/share/info/bison.info.xz 44d4e8eb8cc2a92e41a3828980e8a4ab 1612616936
+dir /usr/share/aclocal
+obj /usr/share/aclocal/bison-i18n.m4 7f0b2e11c592b2fd07f24db5ff77b41b 1612616935
+dir /usr/share/bison
+obj /usr/share/bison/bison-default.css 39e20a6a07fdbb6b68c28391f0c9513a 1612616936
+dir /usr/share/bison/skeletons
+obj /usr/share/bison/skeletons/stack.hh b744269da77b9ad83470af05650c37cf 1612616936
+obj /usr/share/bison/skeletons/lalr1.cc 20743930c27528956754a4069a86ba03 1612616936
+obj /usr/share/bison/skeletons/lalr1.java 3cb83e02b3641b3b59c23c2c0fc0d6ef 1612616936
+obj /usr/share/bison/skeletons/c++.m4 889c9aa95cf00ceb96ef5e79dd8a1751 1612616936
+obj /usr/share/bison/skeletons/README-D.txt 1db51f9e5e1a89b0408b621705dc51de 1612616936
+obj /usr/share/bison/skeletons/variant.hh 0da2d122d7b06bba581f62215b7d9572 1612616936
+obj /usr/share/bison/skeletons/traceon.m4 96df0af4a2e2eb28216e67651ce7f3ae 1612616936
+obj /usr/share/bison/skeletons/d-skel.m4 13b3de39aa60813c6c238da6b95b5e7d 1612616936
+obj /usr/share/bison/skeletons/glr.cc 5ec0f07cc687e7f6b86615efac187caf 1612616936
+obj /usr/share/bison/skeletons/location.cc d7521d19564f44626d6fd08ba6f9b477 1612616936
+obj /usr/share/bison/skeletons/lalr1.d ef7fd3b46570fd6c7c240761c674c335 1612616936
+obj /usr/share/bison/skeletons/d.m4 874ab6146dd23757b0d7c36204583ca4 1612616936
+obj /usr/share/bison/skeletons/c-skel.m4 e2df918af36eb6b32816bb460b455694 1612616936
+obj /usr/share/bison/skeletons/c-like.m4 37e291e95bb2fab6b7a03a6010338979 1612616936
+obj /usr/share/bison/skeletons/java.m4 311d68702002b59cb8f1f8edff90b81d 1612616936
+obj /usr/share/bison/skeletons/yacc.c 8f4f512df4c1c9c26bc6a25bfe1664f0 1612616936
+obj /usr/share/bison/skeletons/glr.c 87c3b90252fd0fbd5c720f83672e0b92 1612616936
+obj /usr/share/bison/skeletons/java-skel.m4 dbf968b0fc56daaac2a6b0f9da7dc472 1612616936
+obj /usr/share/bison/skeletons/c++-skel.m4 5cf0e8a1c08b536f4f4dbd2a6f2afebd 1612616936
+obj /usr/share/bison/skeletons/c.m4 3b2cedd34d25067c9348ace9b299943c 1612616936
+obj /usr/share/bison/skeletons/bison.m4 11232d1372e208c4f5ca8fee367645e9 1612616936
+dir /usr/share/bison/m4sugar
+obj /usr/share/bison/m4sugar/foreach.m4 f40eaacb35d3d8da4643210320dc9e21 1612616936
+obj /usr/share/bison/m4sugar/m4sugar.m4 9524f634c0f0d923d3f406c2d5fe4c23 1612616936
+obj /usr/share/bison/README.md 3c4c71d7d5b21a639915f37d2ca57932 1612616936
+dir /usr/share/bison/xslt
+obj /usr/share/bison/xslt/bison.xsl 028559ded1348f147dbe8721407630b3 1612616936
+obj /usr/share/bison/xslt/xml2text.xsl 5850acb7f06ad609425bd52f22eba6f2 1612616936
+obj /usr/share/bison/xslt/xml2xhtml.xsl b581bf9e0df9c5aec1143a6686287c6a 1612616936
+obj /usr/share/bison/xslt/xml2dot.xsl b4fda848ea93b7145f5012fc5e207045 1612616936
+dir /usr/share/doc
+dir /usr/share/doc/bison-3.7.3
+obj /usr/share/doc/bison-3.7.3/AUTHORS.xz bd407ef020ddea3bbeff88666ee57ec5 1612616936
+obj /usr/share/doc/bison-3.7.3/NEWS.xz ef7bb42082098d008143f5cef4dfc2c7 1612616936
+obj /usr/share/doc/bison-3.7.3/README.xz eea2b1410c531771bf9f1daf4c082f42 1612616936
+obj /usr/share/doc/bison-3.7.3/TODO.xz 8ad6126e6604e4a447554c57885c48d3 1612616936
+obj /usr/share/doc/bison-3.7.3/COPYING.xz c50d2c29fb1dfad155440101646e402a 1612616936
+obj /usr/share/doc/bison-3.7.3/ChangeLog.xz 8cd55a5d60453743006cdc5e468e2283 1612616936
+obj /usr/share/doc/bison-3.7.3/THANKS.xz cdc53e645b23e1ae43315b7033b06ac5 1612616936
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/bison.1.xz 114b2db7fd05234521ad8ae3973f0a35 1612616936
+obj /usr/share/man/man1/yacc.bison.1.xz 00e95e729a2546ff7b8e686851763f73 1612616936
+dir /usr/bin
+obj /usr/bin/bison 7f91b559acb985ab8808cc00c842efc5 1612616937
+obj /usr/bin/yacc.bison 739201f6d458357819e81e2ee04bcc1b 1612616935

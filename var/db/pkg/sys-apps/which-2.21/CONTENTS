@@ -1,0 +1,15 @@
+dir /usr
+dir /usr/share
+dir /usr/share/info
+obj /usr/share/info/which.info.xz 458cc184184e9c75da8f3611e82bb9b1 1612610763
+dir /usr/share/doc
+dir /usr/share/doc/which-2.21
+obj /usr/share/doc/which-2.21/AUTHORS.xz e08bd72a05fbc23671905b7f7380efd8 1612610764
+obj /usr/share/doc/which-2.21/NEWS.xz f6e7c91d3711a0e9784456b13dcc9f00 1612610764
+obj /usr/share/doc/which-2.21/README.xz c1e823d0f00f461e0774b67d7cdfc306 1612610764
+obj /usr/share/doc/which-2.21/README.alias.xz b9ee2ac67632049f9d5f5d58d0cb1b4d 1612610764
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/which.1.xz fad8ab5a6df6c0d42a22e2b3a359f5bd 1612610763
+dir /usr/bin
+obj /usr/bin/which 7dcdbd613f90c59a74ae9661ab6e9ef5 1612610765

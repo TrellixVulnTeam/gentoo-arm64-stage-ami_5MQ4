@@ -1,0 +1,22 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/PySocks-1.7.1-r1
+obj /usr/share/doc/PySocks-1.7.1-r1/README.md.xz 71519929ad3ae69198fe8f5998c04e53 1612618365
+dir /usr/lib
+dir /usr/lib/python3.8
+dir /usr/lib/python3.8/site-packages
+obj /usr/lib/python3.8/site-packages/socks.py d54ae9f865fa2a979360595a32be06d3 1568944711
+obj /usr/lib/python3.8/site-packages/sockshandler.py e60abfc2a8fb421d5e82d61a181bd770 1568944711
+dir /usr/lib/python3.8/site-packages/__pycache__
+obj /usr/lib/python3.8/site-packages/__pycache__/socks.cpython-38.opt-1.pyc 20c46dbad0536ea2319a79a66a44b684 1612618365
+obj /usr/lib/python3.8/site-packages/__pycache__/sockshandler.cpython-38.opt-1.pyc dcd708f9233198aed9d88bf8ced42a4a 1612618365
+obj /usr/lib/python3.8/site-packages/__pycache__/socks.cpython-38.pyc 8edf37007e543e79c80c80347c3b52c5 1612618365
+obj /usr/lib/python3.8/site-packages/__pycache__/socks.cpython-38.opt-2.pyc 20c46dbad0536ea2319a79a66a44b684 1612618365
+obj /usr/lib/python3.8/site-packages/__pycache__/sockshandler.cpython-38.pyc 7024b3104601283b78787e1474f2b2b9 1612618365
+obj /usr/lib/python3.8/site-packages/__pycache__/sockshandler.cpython-38.opt-2.pyc dcd708f9233198aed9d88bf8ced42a4a 1612618365
+dir /usr/lib/python3.8/site-packages/PySocks-1.7.1-py3.8.egg-info
+obj /usr/lib/python3.8/site-packages/PySocks-1.7.1-py3.8.egg-info/top_level.txt 9cea706425cc2d5019eaecb2761bb22a 1612618365
+obj /usr/lib/python3.8/site-packages/PySocks-1.7.1-py3.8.egg-info/PKG-INFO f686fc6966260b3b375623b50293b5dd 1612618365
+obj /usr/lib/python3.8/site-packages/PySocks-1.7.1-py3.8.egg-info/SOURCES.txt 948095261bdd736b2cb1077cebae7a87 1612618365
+obj /usr/lib/python3.8/site-packages/PySocks-1.7.1-py3.8.egg-info/dependency_links.txt 68b329da9893e34099c7d8ad5cb9c940 1612618365

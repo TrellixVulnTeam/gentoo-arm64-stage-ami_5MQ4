@@ -1,0 +1,45 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/ply-3.11-r1
+obj /usr/share/doc/ply-3.11-r1/ANNOUNCE.xz dfd81b9018ae3c38b88903cbf3748b3d 1612618358
+obj /usr/share/doc/ply-3.11-r1/CHANGES.xz cb0f9dc2e385a2de342c181205e12e00 1612618358
+obj /usr/share/doc/ply-3.11-r1/TODO.xz 30e2bd6508a34b58b6233df663a71ac0 1612618358
+dir /usr/share/doc/ply-3.11-r1/html
+obj /usr/share/doc/ply-3.11-r1/html/ply.html 7ce1d6f0f0a7e3c2a15e128dba4ab0e9 1612618358
+obj /usr/share/doc/ply-3.11-r1/html/makedoc.py 25f67fd4fc4d9feab13e0cba89390bc6 1612618358
+obj /usr/share/doc/ply-3.11-r1/html/internal.html fe42176178967003d4a49a119dccb4a0 1612618358
+dir /usr/lib
+dir /usr/lib/python3.8
+dir /usr/lib/python3.8/site-packages
+dir /usr/lib/python3.8/site-packages/ply-3.11-py3.8.egg-info
+obj /usr/lib/python3.8/site-packages/ply-3.11-py3.8.egg-info/top_level.txt 5e5859c72f4c1142181a8cc267aab1a0 1612618357
+obj /usr/lib/python3.8/site-packages/ply-3.11-py3.8.egg-info/PKG-INFO f47ee0616c06d326d3d7049e542c19fc 1612618357
+obj /usr/lib/python3.8/site-packages/ply-3.11-py3.8.egg-info/SOURCES.txt 06c8fde009930ade260f926b6a8b9a6c 1612618357
+obj /usr/lib/python3.8/site-packages/ply-3.11-py3.8.egg-info/dependency_links.txt 68b329da9893e34099c7d8ad5cb9c940 1612618357
+dir /usr/lib/python3.8/site-packages/ply
+obj /usr/lib/python3.8/site-packages/ply/ygen.py 2d43915610ec1eed8927ebd958ed008b 1518720254
+obj /usr/lib/python3.8/site-packages/ply/yacc.py d4a816b8a12b793fff3f788241526033 1612618355
+obj /usr/lib/python3.8/site-packages/ply/lex.py 13548d6937091a23df51966db53c955c 1518720254
+obj /usr/lib/python3.8/site-packages/ply/cpp.py ae3477d6111caf8a8b3a1520e871257b 1518720254
+dir /usr/lib/python3.8/site-packages/ply/__pycache__
+obj /usr/lib/python3.8/site-packages/ply/__pycache__/lex.cpython-38.pyc fd9af848db06342c56ca7f4a45305d61 1612618357
+obj /usr/lib/python3.8/site-packages/ply/__pycache__/ygen.cpython-38.pyc 2510d17b0ba6af26313e5a58b9651d47 1612618357
+obj /usr/lib/python3.8/site-packages/ply/__pycache__/yacc.cpython-38.pyc 5f91a160a221fa81df62484965958775 1612618357
+obj /usr/lib/python3.8/site-packages/ply/__pycache__/__init__.cpython-38.opt-1.pyc 92ae43c6690c70ba3fa1c23346786a8f 1612618357
+obj /usr/lib/python3.8/site-packages/ply/__pycache__/__init__.cpython-38.pyc f2faca78aa2ec3fba031253c7c76eacc 1612618357
+obj /usr/lib/python3.8/site-packages/ply/__pycache__/ctokens.cpython-38.opt-2.pyc 3f7ff3caba8300dbbe2365aebb8efa4d 1612618357
+obj /usr/lib/python3.8/site-packages/ply/__pycache__/ygen.cpython-38.opt-1.pyc ed83996d5e1458e41498701980bc3eaa 1612618357
+obj /usr/lib/python3.8/site-packages/ply/__pycache__/lex.cpython-38.opt-2.pyc 685bba5718948099b2df5550535d2ee4 1612618357
+obj /usr/lib/python3.8/site-packages/ply/__pycache__/ctokens.cpython-38.opt-1.pyc 3f7ff3caba8300dbbe2365aebb8efa4d 1612618357
+obj /usr/lib/python3.8/site-packages/ply/__pycache__/cpp.cpython-38.pyc 194e796b324f73601b5ee5730a060cfe 1612618357
+obj /usr/lib/python3.8/site-packages/ply/__pycache__/cpp.cpython-38.opt-2.pyc 2c21175054f4d397fc95d5a2754eccbd 1612618357
+obj /usr/lib/python3.8/site-packages/ply/__pycache__/cpp.cpython-38.opt-1.pyc 2c21175054f4d397fc95d5a2754eccbd 1612618357
+obj /usr/lib/python3.8/site-packages/ply/__pycache__/__init__.cpython-38.opt-2.pyc 92ae43c6690c70ba3fa1c23346786a8f 1612618357
+obj /usr/lib/python3.8/site-packages/ply/__pycache__/yacc.cpython-38.opt-2.pyc 00a9805cc4a9e16351a36010b41afb4f 1612618357
+obj /usr/lib/python3.8/site-packages/ply/__pycache__/ctokens.cpython-38.pyc 52c2bde258a0c3e39cc8f71abfcde839 1612618357
+obj /usr/lib/python3.8/site-packages/ply/__pycache__/yacc.cpython-38.opt-1.pyc 00a9805cc4a9e16351a36010b41afb4f 1612618357
+obj /usr/lib/python3.8/site-packages/ply/__pycache__/ygen.cpython-38.opt-2.pyc ed83996d5e1458e41498701980bc3eaa 1612618357
+obj /usr/lib/python3.8/site-packages/ply/__pycache__/lex.cpython-38.opt-1.pyc 685bba5718948099b2df5550535d2ee4 1612618357
+obj /usr/lib/python3.8/site-packages/ply/__init__.py 35b9be2f2de17428ce6f113d1297a6d6 1518720254
+obj /usr/lib/python3.8/site-packages/ply/ctokens.py d611ef154935cf306583d934b346c1c8 1518720254

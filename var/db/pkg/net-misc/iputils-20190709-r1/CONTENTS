@@ -1,0 +1,15 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/iputils-20190709-r1
+obj /usr/share/doc/iputils-20190709-r1/README.md.xz 166f132f23571f06d35bf8e7a3641e45 1612618380
+dir /usr/share/man
+dir /usr/share/man/man8
+obj /usr/share/man/man8/arping.8.xz 2476aabe8ff8ff454e060184ff6e276f 1612618380
+obj /usr/share/man/man8/ping.8.xz e193153765031dbe8adac094872044be 1612618380
+dir /usr/bin
+dir /bin
+sym /bin/ping6 -> ping 1612618380
+obj /bin/ping aa3da740bd42810dfa2859c5aaf031c7 1612618381
+obj /bin/arping 7b89372be7aff8c3687244eaaca2544a 1612618381
+sym /bin/ping4 -> ping 1612618380

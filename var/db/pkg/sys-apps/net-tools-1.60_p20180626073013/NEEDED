@@ -1,0 +1,10 @@
+/sbin/arp libc.so.6,ld-linux-aarch64.so.1
+/sbin/iptunnel libc.so.6,ld-linux-aarch64.so.1
+/sbin/rarp libc.so.6,ld-linux-aarch64.so.1
+/sbin/nameif libc.so.6,ld-linux-aarch64.so.1
+/sbin/ipmaddr libc.so.6,ld-linux-aarch64.so.1
+/sbin/mii-tool libc.so.6,ld-linux-aarch64.so.1
+/bin/hostname libc.so.6,ld-linux-aarch64.so.1
+/bin/ifconfig libc.so.6,ld-linux-aarch64.so.1
+/bin/route libc.so.6,ld-linux-aarch64.so.1
+/bin/netstat libc.so.6,ld-linux-aarch64.so.1

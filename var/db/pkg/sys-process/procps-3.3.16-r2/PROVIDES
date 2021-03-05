@@ -1,0 +1,1 @@
+arm_64: free kill libprocps.so.8 pgrep pidof pkill pmap ps pwdx slabtop sysctl tload top uptime vmstat w watch

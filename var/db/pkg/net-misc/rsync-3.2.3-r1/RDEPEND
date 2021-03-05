@@ -1,0 +1,1 @@
+app-arch/lz4 dev-libs/openssl:0/1.1= sys-apps/attr >=app-arch/zstd-1.4 >=dev-libs/popt-1.5 virtual/libiconv

@@ -1,0 +1,1 @@
+>=sys-apps/util-linux-2.30:0/0= sys-libs/libcap:0/0= net-misc/curl:0/0= >=dev-libs/elfutils-0.158:0/0= >=dev-libs/libgcrypt-1.4.5:0/20= >=sys-apps/kmod-15:0/0= >=app-arch/lz4-0_p131:0/r132= >=app-arch/xz-utils-5.0.5-r1:0/0= sys-libs/pam:0/0= dev-libs/libpcre2 >=sys-libs/libseccomp-2.3.3:0/0= >=app-arch/zstd-1.4.0:0/1= >=sys-kernel/linux-headers-3.11

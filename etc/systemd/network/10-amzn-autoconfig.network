@@ -1,0 +1,6 @@
+# autoconfigure all eno nics, this should  be done via cloud-init but gentoo only support OpenRC atm.
+[Match]
+Name=ens*
+
+[Network]
+DHCP=yes

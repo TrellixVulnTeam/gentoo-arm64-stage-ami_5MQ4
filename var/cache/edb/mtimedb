@@ -1,0 +1,79 @@
+{
+	"info": {
+		"/NEWSYS/usr/share/binutils-data/aarch64-ares-linux-gnu/2.34/info": 1607785446,
+		"/NEWSYS/usr/share/gcc-data/aarch64-ares-linux-gnu/9.3.0/info": 1607785446,
+		"/NEWSYS/usr/share/info": 1607786933,
+		"/aarch64-ares-linux-gnu/usr/share/binutils-data/aarch64-ares-linux-gnu/2.34/info": 1607787382,
+		"/aarch64-ares-linux-gnu/usr/share/gcc-data/aarch64-ares-linux-gnu/9.3.0/info": 1607787382,
+		"/aarch64-ares-linux-gnu/usr/share/info": 1607787383,
+		"/usr/share/binutils-data/aarch64-ares-linux-gnu/2.34/info": 1612625647,
+		"/usr/share/gcc-data/aarch64-ares-linux-gnu/9.3.0/info": 1612625647,
+		"/usr/share/info": 1613461674
+	},
+	"ldpath": {
+		"/lib": 1612616650,
+		"/lib64": 1613460996,
+		"/usr/lib": 1613461001,
+		"/usr/lib/llvm/11/lib64": 1613460948,
+		"/usr/lib64": 1613461001,
+		"/usr/local/lib": 1607774803,
+		"/usr/local/lib64": 1607774803
+	},
+	"resume_backup": {
+		"favorites": [
+			"sys-libs/libcxx",
+			"sys-devel/lld",
+			"sys-devel/clang",
+			"sys-devel/llvm",
+			"sys-libs/compiler-rt",
+			"sys-libs/libcxxabi",
+			"sys-libs/llvm-libunwind"
+		],
+		"mergelist": [
+			[
+				"ebuild",
+				"/",
+				"sys-devel/clang-11.0.0",
+				"merge"
+			],
+			[
+				"ebuild",
+				"/",
+				"sys-libs/compiler-rt-11.0.0",
+				"merge"
+			]
+		],
+		"myopts": {
+			"--oneshot": true,
+			"--regex-search-auto": "y",
+			"--verbose": true
+		}
+	},
+	"starttime": 0,
+	"updates": {
+		"/var/db/repos/gentoo/profiles/updates/1Q-2016": 1517011742,
+		"/var/db/repos/gentoo/profiles/updates/1Q-2017": 1603699760,
+		"/var/db/repos/gentoo/profiles/updates/1Q-2018": 1593257943,
+		"/var/db/repos/gentoo/profiles/updates/1Q-2019": 1555074579,
+		"/var/db/repos/gentoo/profiles/updates/1Q-2020": 1590228548,
+		"/var/db/repos/gentoo/profiles/updates/1Q-2021": 1610989757,
+		"/var/db/repos/gentoo/profiles/updates/2Q-2016": 1611535163,
+		"/var/db/repos/gentoo/profiles/updates/2Q-2017": 1497573154,
+		"/var/db/repos/gentoo/profiles/updates/2Q-2018": 1595961548,
+		"/var/db/repos/gentoo/profiles/updates/2Q-2019": 1561408788,
+		"/var/db/repos/gentoo/profiles/updates/2Q-2020": 1605303570,
+		"/var/db/repos/gentoo/profiles/updates/3Q-2015": 1555749625,
+		"/var/db/repos/gentoo/profiles/updates/3Q-2016": 1600699170,
+		"/var/db/repos/gentoo/profiles/updates/3Q-2017": 1582628985,
+		"/var/db/repos/gentoo/profiles/updates/3Q-2018": 1535740762,
+		"/var/db/repos/gentoo/profiles/updates/3Q-2019": 1612174152,
+		"/var/db/repos/gentoo/profiles/updates/3Q-2020": 1602529753,
+		"/var/db/repos/gentoo/profiles/updates/4Q-2015": 1601854766,
+		"/var/db/repos/gentoo/profiles/updates/4Q-2016": 1602056376,
+		"/var/db/repos/gentoo/profiles/updates/4Q-2017": 1514603403,
+		"/var/db/repos/gentoo/profiles/updates/4Q-2018": 1543190972,
+		"/var/db/repos/gentoo/profiles/updates/4Q-2019": 1602529753,
+		"/var/db/repos/gentoo/profiles/updates/4Q-2020": 1609166362
+	},
+	"version": "3.0.13"
+}

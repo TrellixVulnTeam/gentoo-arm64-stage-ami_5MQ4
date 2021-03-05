@@ -1,0 +1,4 @@
+app-crypt/gnupg -smartcard
+sys-fs/btrfs-progs -convert
+app-admin/sudo -sendmail
+net-misc/dhcp -server

@@ -1,0 +1,2 @@
+/usr/bin/aarch64-ares-linux-gnu-pkgconf libpkgconf.so.3,libc.so.6,ld-linux-aarch64.so.1
+/usr/lib64/libpkgconf.so.3.0.0 libc.so.6,ld-linux-aarch64.so.1

@@ -1,0 +1,17 @@
+dir /usr
+dir /usr/lib64
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/popt.pc a1fc634f6fe6574ac7f87afcc96bff6c 1612611536
+obj /usr/lib64/libpopt.so.0.0.1 178d9b6897031de0b26c57229339c38a 1612611537
+sym /usr/lib64/libpopt.so -> libpopt.so.0.0.1 1612611536
+sym /usr/lib64/libpopt.so.0 -> libpopt.so.0.0.1 1612611536
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/popt-1.18
+obj /usr/share/doc/popt-1.18/CHANGES.xz b2743a31f583993b7f9bfa58b3e2c9d3 1612611537
+obj /usr/share/doc/popt-1.18/README.xz c008a78807684e2242d185a7eb30b49b 1612611537
+dir /usr/share/man
+dir /usr/share/man/man3
+obj /usr/share/man/man3/popt.3.xz 6c07fd83100573a24764a6dbcd285fd5 1612611536
+dir /usr/include
+obj /usr/include/popt.h ef3aabfecde4e1d9bafae62c2832ab4b 1612611536

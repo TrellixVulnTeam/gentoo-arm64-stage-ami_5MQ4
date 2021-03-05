@@ -1,0 +1,14 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/patch-2.7.6-r4
+obj /usr/share/doc/patch-2.7.6-r4/AUTHORS.xz cfee45adb631039c1311ebde9a1c70db 1612611722
+obj /usr/share/doc/patch-2.7.6-r4/NEWS.xz 8727997e0543ba7476717aa54e6b0e2b 1612611722
+obj /usr/share/doc/patch-2.7.6-r4/README.xz 7eaecf267713d1d20cf028c382f8d322 1612611721
+obj /usr/share/doc/patch-2.7.6-r4/TODO.xz dbe314210c86edf3d8da6a5ff721f71b 1612611722
+obj /usr/share/doc/patch-2.7.6-r4/ChangeLog.xz b54d39c3519f3d1cfd26547bcb0f5730 1612611721
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/patch.1.xz ea89aa999a46e3474e3f0eedf3357c47 1612611721
+dir /usr/bin
+obj /usr/bin/patch 9c1a7e19485c83e2aaab038d5529a7ee 1612611723

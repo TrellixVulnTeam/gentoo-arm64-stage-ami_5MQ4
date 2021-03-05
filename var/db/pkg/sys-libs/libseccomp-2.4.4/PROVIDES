@@ -1,0 +1,1 @@
+arm_64: libseccomp.so.2 scmp_sys_resolver

@@ -1,0 +1,29 @@
+################################### Compiler ###################################
+
+# Compiler
+CC="${CHOST}-clang"
+CXX="${CHOST}-clang++"
+AR="llvm-ar"
+NM="llvm-nm"
+RANLIB="llvm-ranlib"
+
+#################################### Cflags ####################################
+
+CFLAGS_MAIN="-O2 -pipe -fomit-frame-pointer"
+CFLAGS_CPU="-mcpu=neoverse-n1"
+
+CFLAGS_LTO="-flto=thin"
+CFLAGS="${CFLAGS_MAIN} ${CFLAGS_CPU} ${CFLAGS_LTO}"
+CXXFLAGS="${CFLAGS} -fvisibility-inlines-hidden"
+
+################################### LDflags ####################################
+
+LDFLAGS_MAIN="-Wl,--hash-style=gnu -Wl,--enable-new-dtags"
+
+LDFLAGS_LD_BFD="-fuse-ld=bfd"
+LDFLAGS_LD_GOLD="-fuse-ld=gold"
+LDFLAGS_LD_LLD="-fuse-ld=lld"
+
+LDFLAGS_LTO="-flto=thin"
+
+LDFLAGS="${LDFLAGS_MAIN} ${LDFLAGS_LTO} ${LDFLAGS_LD_LLD}"

@@ -1,0 +1,23 @@
+dir /usr
+dir /usr/share
+dir /usr/share/info
+obj /usr/share/info/diffutils.info.xz 126843cb06805c2177ee35f5bacf2248 1612610980
+dir /usr/share/doc
+dir /usr/share/doc/diffutils-3.7-r1
+obj /usr/share/doc/diffutils-3.7-r1/AUTHORS.xz 4fd063e3c91d883c72f6d79e2e3ad986 1612610981
+obj /usr/share/doc/diffutils-3.7-r1/NEWS.xz a71037dff281b235d369c93a82e74d91 1612610981
+obj /usr/share/doc/diffutils-3.7-r1/README.xz a81294c79fa744356cc6a5250bf35f76 1612610981
+obj /usr/share/doc/diffutils-3.7-r1/TODO.xz c9489a17b3ea8ee661f7cfd4d978122c 1612610981
+obj /usr/share/doc/diffutils-3.7-r1/ChangeLog.xz 17660eaac0228a7af6b5df7d0a0ba5bc 1612610981
+obj /usr/share/doc/diffutils-3.7-r1/THANKS.xz 0982a07fb6c5b1227ed7dc495e895d5c 1612610981
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/diff.1.xz 6842908f0e6b47f14954728fff900d19 1612610980
+obj /usr/share/man/man1/sdiff.1.xz c450faa6ecc512291b2d5fb8d93629af 1612610980
+obj /usr/share/man/man1/cmp.1.xz f2b759218cb60309d65b79a2edd3163d 1612610980
+obj /usr/share/man/man1/diff3.1.xz c384f2fbf3e53deb98dc0e0060416ffb 1612610980
+dir /usr/bin
+obj /usr/bin/cmp d4a32632e4a1c3c9a492971415aecfcc 1612610982
+obj /usr/bin/diff e7cae73f835b76da4c4d63e8718165a3 1612610982
+obj /usr/bin/diff3 419213813b2556604fa4981a9d845566 1612610982
+obj /usr/bin/sdiff 2c64611b71227a8557d30524a7f5aa9f 1612610982

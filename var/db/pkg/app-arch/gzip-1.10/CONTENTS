@@ -1,0 +1,44 @@
+dir /usr
+dir /usr/share
+dir /usr/share/info
+obj /usr/share/info/gzip.info.xz 5e05c179dc0c85e36e0b32954ce6e1c6 1612610631
+dir /usr/share/doc
+dir /usr/share/doc/gzip-1.10
+obj /usr/share/doc/gzip-1.10/NEWS.xz a162eadb0958199aed4a4cd4295ceeb1 1612610632
+obj /usr/share/doc/gzip-1.10/README.xz 730062521c40c3c7a92d4f233a2df9e8 1612610631
+obj /usr/share/doc/gzip-1.10/AUTHORS c5dafa47bec6b3bdf6cbbf53174b195b 1612610632
+obj /usr/share/doc/gzip-1.10/TODO.xz df5ff1cdebe7b083400387fdb1d10299 1612610632
+obj /usr/share/doc/gzip-1.10/ChangeLog.xz 254d5223b2b7deb24f38d866bea3ea1a 1612610631
+dir /usr/share/doc/gzip-1.10/txt
+obj /usr/share/doc/gzip-1.10/txt/gzip.doc.xz efd82ee197fb64139992a21f0f304055 1612610632
+obj /usr/share/doc/gzip-1.10/txt/algorithm.doc.xz d3b4377fa0c8efb6ebbe5b1ae32c5778 1612610632
+obj /usr/share/doc/gzip-1.10/THANKS.xz 356836e0f7653fc728c44e8400599781 1612610632
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/znew.1.xz de128d876020db3004c2e9588d8fffb5 1612610631
+obj /usr/share/man/man1/zforce.1.xz f7bb41800eb32f201cd77afefbcf1bed 1612610631
+obj /usr/share/man/man1/zdiff.1.xz da911e2f91d02164bc968eb17eb61bed 1612610631
+obj /usr/share/man/man1/zcat.1 75206d5b43cee105871317c932cc3be7 1612610631
+obj /usr/share/man/man1/zmore.1.xz e2f69b53f7a3baf10f393ce86f09d659 1612610631
+obj /usr/share/man/man1/zcmp.1 1420f6a43af2ee86d401a4c7b042bea7 1612610631
+obj /usr/share/man/man1/zgrep.1.xz 958499d8d8e612c7885d269ae3bddf27 1612610631
+obj /usr/share/man/man1/gzexe.1.xz 658d440620e91ed139ebd392a6713503 1612610631
+obj /usr/share/man/man1/gunzip.1 75206d5b43cee105871317c932cc3be7 1612610631
+obj /usr/share/man/man1/gzip.1.xz 8bec32a9170d5e4e0312a292a17b1e06 1612610631
+obj /usr/share/man/man1/zless.1.xz 7a97c9aba79cb6879316c634a318e05e 1612610631
+dir /usr/bin
+obj /usr/bin/znew 8e4ae5ec90d57460f4cd551b7e50777a 1612610631
+obj /usr/bin/zfgrep 997a6cfb1a2b3f88160ffa320d29d735 1612610631
+obj /usr/bin/zmore 5cddc868d4348a41c2d27c617c4bd265 1612610631
+obj /usr/bin/zegrep 00a56ed99986d72fd5967de74d69470c 1612610631
+obj /usr/bin/zcmp 8790411c2ee8974bbb92c5f07cb886f9 1612610631
+obj /usr/bin/zless c6dcc5322a00a9d5e65d7a53ff40e4fb 1612610631
+obj /usr/bin/gzexe c8fbdeae9575795c503f75a334be0486 1612610631
+obj /usr/bin/zgrep 3e516d8ab9a3096e9e8c6a77ed134197 1612610631
+obj /usr/bin/zforce 141dc56be7c69c5e17bdbbdf9219ef6c 1612610631
+obj /usr/bin/zdiff fdc3896ef951b7a803d21ea544deccc2 1612610631
+dir /bin
+obj /bin/zcat 9b2a0a05018f1c3140b862eacc9eeedc 1612610631
+obj /bin/gzip 3bd7f7731d615b3671be6e94e7cbc268 1612610633
+sym /bin/uncompress -> gunzip 1612610631
+obj /bin/gunzip 6f4731ca77780f200f7913327fa9f864 1612610632

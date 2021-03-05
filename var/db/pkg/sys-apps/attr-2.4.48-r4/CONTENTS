@@ -1,0 +1,44 @@
+dir /lib64
+sym /lib64/libattr.so.1 -> libattr.so.1.1.2448 1612611441
+obj /lib64/libattr.so.1.1.2448 f2bdf0481267940ea9167e9f598938bc 1612611442
+dir /etc
+obj /etc/xattr.conf d1e7e7add29e247fdcf2a098fe5b37a0 1612611441
+dir /usr
+dir /usr/lib64
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/libattr.pc 124b026be0de0703c11b94e51d33a7b4 1612611441
+obj /usr/lib64/libattr.so 60c02cff456a3d4186febef03c337857 1612611441
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/attr-2.4.48-r4
+obj /usr/share/doc/attr-2.4.48-r4/PORTING.xz ff00a40c3585a92d69629a3275bcdfbb 1612611441
+obj /usr/share/doc/attr-2.4.48-r4/CHANGES.xz 761cd44200cc9d4ff8a1158141512df3 1612611441
+obj /usr/share/doc/attr-2.4.48-r4/COPYING.LGPL.xz df14846cdcf481ebafcba79365c4a047 1612611441
+obj /usr/share/doc/attr-2.4.48-r4/README.xz 44877c069abc2166d86a62c4236b2f5f 1612611442
+obj /usr/share/doc/attr-2.4.48-r4/COPYING.xz fa13c9559d725b0a4e17aa48fa0e9f0d 1612611441
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/attr.1.xz 8b98beb45d604f1906d8e21161ec5995 1612611441
+obj /usr/share/man/man1/getfattr.1.xz cc91c466f792c3f190eb0f1f553515ab 1612611441
+obj /usr/share/man/man1/setfattr.1.xz d41915f225034df460336068251efe07 1612611441
+dir /usr/share/man/man3
+obj /usr/share/man/man3/attr_list.3.xz e6c9af09789f9b237dd28aaa9e281546 1612611441
+sym /usr/share/man/man3/attr_multif.3.xz -> attr_multi.3.xz 1612611442
+sym /usr/share/man/man3/attr_removef.3.xz -> attr_remove.3.xz 1612611442
+obj /usr/share/man/man3/attr_set.3.xz 0bc2e43a7c13d80ec67731d1bc8d5f4b 1612611441
+obj /usr/share/man/man3/attr_multi.3.xz 49f373b1c8b3e499cb4064c4b71a5fdd 1612611441
+sym /usr/share/man/man3/attr_setf.3.xz -> attr_set.3.xz 1612611442
+sym /usr/share/man/man3/attr_listf.3.xz -> attr_list.3.xz 1612611442
+obj /usr/share/man/man3/attr_get.3.xz 516b08a8af2ec832b760007696331183 1612611441
+obj /usr/share/man/man3/attr_remove.3.xz 82c588cadbb82b8a040e6f43ecdaf2cf 1612611441
+sym /usr/share/man/man3/attr_getf.3.xz -> attr_get.3.xz 1612611442
+dir /usr/include
+dir /usr/include/attr
+obj /usr/include/attr/libattr.h e8f546cdbff5fa2397e839b00c0865d8 1612611441
+obj /usr/include/attr/error_context.h cb81ec9fe7117119f2492af7da824754 1612611441
+obj /usr/include/attr/xattr.h b60baecbe50cda11234bfee7550b3aff 1612611441
+obj /usr/include/attr/attributes.h f29e861a14605c524cac4e157901c888 1612611441
+dir /bin
+obj /bin/attr 0719084394ad2cb6bae7a98dee3e0d7b 1612611442
+obj /bin/setfattr 924bc4ebfeeefb2a0358f4c18398716a 1612611442
+obj /bin/getfattr 30eab13069e3c84e9f682717a231a325 1612611442

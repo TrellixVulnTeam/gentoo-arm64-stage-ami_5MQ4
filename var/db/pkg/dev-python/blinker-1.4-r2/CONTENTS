@@ -1,0 +1,33 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/blinker-1.4-r2
+obj /usr/share/doc/blinker-1.4-r2/AUTHORS.xz 02cacbb092a719b87750a29f2bd5cd6d 1613461557
+obj /usr/share/doc/blinker-1.4-r2/CHANGES.xz ff0d98e51d054d7c00a00c259395db89 1613461557
+obj /usr/share/doc/blinker-1.4-r2/README.md.xz 6636b83b24091be6b0f2a483ec0dc434 1613461556
+dir /usr/lib
+dir /usr/lib/python3.8
+dir /usr/lib/python3.8/site-packages
+dir /usr/lib/python3.8/site-packages/blinker-1.4-py3.8.egg-info
+obj /usr/lib/python3.8/site-packages/blinker-1.4-py3.8.egg-info/top_level.txt 387b5b9e6f96b628b83ed80c5ebe5e64 1613461556
+obj /usr/lib/python3.8/site-packages/blinker-1.4-py3.8.egg-info/SOURCES.txt e2183ec41c4a4df587908191d6eadb14 1613461556
+obj /usr/lib/python3.8/site-packages/blinker-1.4-py3.8.egg-info/PKG-INFO 9e03f9c98786ecaeeaa1e7b7e0d0a1ea 1613461556
+obj /usr/lib/python3.8/site-packages/blinker-1.4-py3.8.egg-info/dependency_links.txt 68b329da9893e34099c7d8ad5cb9c940 1613461556
+dir /usr/lib/python3.8/site-packages/blinker
+dir /usr/lib/python3.8/site-packages/blinker/__pycache__
+obj /usr/lib/python3.8/site-packages/blinker/__pycache__/base.cpython-38.opt-2.pyc c59d338657e6bdcfe682288872611230 1613461556
+obj /usr/lib/python3.8/site-packages/blinker/__pycache__/_utilities.cpython-38.opt-2.pyc b4df1f12f616767fa495ecd777bbe711 1613461556
+obj /usr/lib/python3.8/site-packages/blinker/__pycache__/_saferef.cpython-38.opt-2.pyc 499b9c9d99c249f8b1ce4322d21ed90c 1613461556
+obj /usr/lib/python3.8/site-packages/blinker/__pycache__/__init__.cpython-38.opt-2.pyc 15da78288d1ed5640a41629da202c878 1613461556
+obj /usr/lib/python3.8/site-packages/blinker/__pycache__/base.cpython-38.opt-1.pyc c59d338657e6bdcfe682288872611230 1613461556
+obj /usr/lib/python3.8/site-packages/blinker/__pycache__/_utilities.cpython-38.opt-1.pyc b4df1f12f616767fa495ecd777bbe711 1613461556
+obj /usr/lib/python3.8/site-packages/blinker/__pycache__/_saferef.cpython-38.opt-1.pyc 499b9c9d99c249f8b1ce4322d21ed90c 1613461556
+obj /usr/lib/python3.8/site-packages/blinker/__pycache__/__init__.cpython-38.opt-1.pyc 15da78288d1ed5640a41629da202c878 1613461556
+obj /usr/lib/python3.8/site-packages/blinker/__pycache__/base.cpython-38.pyc a72694389a8ddeb9c48cdeb066f5a6cd 1613461556
+obj /usr/lib/python3.8/site-packages/blinker/__pycache__/_utilities.cpython-38.pyc a5c2860a03b2fd1e8b75a240e8fd0cfd 1613461556
+obj /usr/lib/python3.8/site-packages/blinker/__pycache__/_saferef.cpython-38.pyc d7606ab8fdaa4162b4ff45719fd50835 1613461556
+obj /usr/lib/python3.8/site-packages/blinker/__pycache__/__init__.cpython-38.pyc f46c800ba0d41e2fcb8f21912266626d 1613461556
+obj /usr/lib/python3.8/site-packages/blinker/base.py 83733f47cb03be3713ce7a5860612e96 1437651282
+obj /usr/lib/python3.8/site-packages/blinker/_utilities.py 1aeb68e85d8ad0aa80295e5f29f42d18 1372848344
+obj /usr/lib/python3.8/site-packages/blinker/_saferef.py ced62e1fda983045da2076064a7db34d 1372848344
+obj /usr/lib/python3.8/site-packages/blinker/__init__.py 464a73bb96572aaf6c2ed191676d40a4 1437653948

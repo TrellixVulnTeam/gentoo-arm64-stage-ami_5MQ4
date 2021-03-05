@@ -1,0 +1,14 @@
+dir /etc
+dir /etc/init.d
+obj /etc/init.d/udev-trigger d6ef69e518202262997df79082c6a4e1 1612618830
+obj /etc/init.d/udev cb825bb560d730ee84423969b0df9f22 1612618830
+obj /etc/init.d/udev-settle 95a96623c4d67344e1b271696f9676a0 1612618830
+dir /etc/conf.d
+obj /etc/conf.d/udev-trigger a0d652150a3ab72d257934457fdb4fff 1612618830
+obj /etc/conf.d/udev 26311fb2544476f7551cd70222863811 1612618830
+obj /etc/conf.d/udev-settle a87fbb7e7b1f67a9d7f5bdc366378f83 1612618830
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/udev-init-scripts-34
+obj /usr/share/doc/udev-init-scripts-34/AUTHORS.xz 2a309af868357598eb2ce3761dce18fe 1612618830

@@ -1,0 +1,76 @@
+dir /lib64
+sym /lib64/libcap.so.2 -> libcap.so.2.43 1612616660
+dir /lib64/security
+obj /lib64/security/pam_cap.so 0e2b7824d86bbd888fd571438eaa65ec 1612616662
+obj /lib64/libcap.so.2.43 88239c3ee4ab51e2358d84237a84c0b7 1612616662
+dir /etc
+dir /etc/security
+obj /etc/security/capability.conf fa5804a90b16addeec23008102b4746d 1612616661
+dir /usr
+dir /usr/lib64
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/libpsx.pc 594dee5c8f23856221e287957ecd35cb 1612616660
+obj /usr/lib64/pkgconfig/libcap.pc 1aed3f7d8eff1ce6234f7b5e2d0f42a5 1612616660
+obj /usr/lib64/libcap.so 33dace4ccb6a48286cb472bd1d78f64f 1612616660
+obj /usr/lib64/libpsx.a 26243061cfb3a2ab77e77925654ad99a 1612616662
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/libcap-2.43
+obj /usr/share/doc/libcap-2.43/capability.notes.xz 7e3468545cd069dc821ed972f8f31e6a 1612616661
+obj /usr/share/doc/libcap-2.43/README.xz c2aa86afff8252727841178f2fbfe9c4 1612616661
+obj /usr/share/doc/libcap-2.43/CHANGELOG.xz 18a6d88fc4c84029fe12e0a83bec32d2 1612616661
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/capsh.1.xz be82e1c563b9b81b63d8fbdfd1bdea98 1612616660
+dir /usr/share/man/man3
+obj /usr/share/man/man3/psx_syscall.3 0385bd9dcc9b842d6f0f5a2f9622b849 1612616660
+obj /usr/share/man/man3/cap_from_text.3.xz ab645487143b2de86228c4e7a3dd7151 1612616660
+obj /usr/share/man/man3/cap_from_name.3 1a6ab1ace6ac21c6cc164bc437757ee7 1612616660
+obj /usr/share/man/man3/cap_copy_int.3 ef7de8d39fb0cd57edebbf003998cd54 1612616660
+obj /usr/share/man/man3/cap_free.3 8e5ca2bdc13e5b88bad99740fd76bbc5 1612616660
+obj /usr/share/man/man3/cap_size.3 ef7de8d39fb0cd57edebbf003998cd54 1612616660
+obj /usr/share/man/man3/cap_mode_name.3 34f9021eae5e363d38514c2341dd8ad2 1612616660
+obj /usr/share/man/man3/cap_to_name.3 1a6ab1ace6ac21c6cc164bc437757ee7 1612616660
+obj /usr/share/man/man3/cap_set_file.3 cee373feecddf5a26d77b85e61607234 1612616660
+obj /usr/share/man/man3/cap_get_secbits.3 34f9021eae5e363d38514c2341dd8ad2 1612616660
+obj /usr/share/man/man3/cap_init.3.xz 3ae8e2096f2995ee4862808d5af90d5f 1612616660
+obj /usr/share/man/man3/cap_set_proc.3 34f9021eae5e363d38514c2341dd8ad2 1612616660
+obj /usr/share/man/man3/cap_setgroups.3 34f9021eae5e363d38514c2341dd8ad2 1612616660
+obj /usr/share/man/man3/cap_set_fd.3 cee373feecddf5a26d77b85e61607234 1612616660
+obj /usr/share/man/man3/capsetp.3 34f9021eae5e363d38514c2341dd8ad2 1612616660
+obj /usr/share/man/man3/cap_setuid.3 34f9021eae5e363d38514c2341dd8ad2 1612616660
+obj /usr/share/man/man3/cap_drop_bound.3 34f9021eae5e363d38514c2341dd8ad2 1612616660
+obj /usr/share/man/man3/cap_get_pid.3 34f9021eae5e363d38514c2341dd8ad2 1612616660
+obj /usr/share/man/man3/cap_get_bound.3 34f9021eae5e363d38514c2341dd8ad2 1612616660
+obj /usr/share/man/man3/capgetp.3 34f9021eae5e363d38514c2341dd8ad2 1612616660
+obj /usr/share/man/man3/cap_get_fd.3 cee373feecddf5a26d77b85e61607234 1612616660
+obj /usr/share/man/man3/cap_compare.3 8e579d4e469738dae24f87ec2f9e0340 1612616660
+obj /usr/share/man/man3/cap_clear.3.xz 169da53a553e0ba358e56b5812b25c19 1612616660
+obj /usr/share/man/man3/psx_syscall3.3 0385bd9dcc9b842d6f0f5a2f9622b849 1612616660
+obj /usr/share/man/man3/cap_dup.3 8e5ca2bdc13e5b88bad99740fd76bbc5 1612616660
+obj /usr/share/man/man3/psx_syscall6.3 0385bd9dcc9b842d6f0f5a2f9622b849 1612616660
+obj /usr/share/man/man3/libpsx.3.xz 1b0bea29ddd024b20051e279bbc36f2c 1612616660
+obj /usr/share/man/man3/cap_get_file.3.xz c8e2aae4e4f8d08534643a8921c146a7 1612616660
+obj /usr/share/man/man3/cap_to_text.3 1a6ab1ace6ac21c6cc164bc437757ee7 1612616660
+obj /usr/share/man/man3/cap_get_mode.3 34f9021eae5e363d38514c2341dd8ad2 1612616660
+obj /usr/share/man/man3/cap_clear_flag.3 8e579d4e469738dae24f87ec2f9e0340 1612616660
+obj /usr/share/man/man3/cap_set_flag.3 8e579d4e469738dae24f87ec2f9e0340 1612616660
+obj /usr/share/man/man3/cap_set_secbits.3 34f9021eae5e363d38514c2341dd8ad2 1612616660
+obj /usr/share/man/man3/cap_get_flag.3 8e579d4e469738dae24f87ec2f9e0340 1612616660
+obj /usr/share/man/man3/cap_get_proc.3.xz a79e9a973e5202137351b75fe2781d78 1612616660
+obj /usr/share/man/man3/cap_copy_ext.3.xz d407ad3e84ee92e544d2164d2da8375a 1612616660
+obj /usr/share/man/man3/libcap.3.xz 0f1a46ca7c68a30865a17e772196eb71 1612616660
+obj /usr/share/man/man3/cap_set_mode.3 34f9021eae5e363d38514c2341dd8ad2 1612616660
+dir /usr/share/man/man8
+obj /usr/share/man/man8/setcap.8.xz 90cf482ab3ceada92c4296a2f476e80e 1612616660
+obj /usr/share/man/man8/getpcaps.8.xz 8a8f1e1b6adf854c790eb4f4dd6b011e 1612616660
+obj /usr/share/man/man8/getcap.8.xz bbe3d3dc4a53195be3b6fd7226d7b868 1612616660
+dir /usr/include
+dir /usr/include/sys
+obj /usr/include/sys/psx_syscall.h 2432130755a0803e15c9997ffdcf4bfa 1612616660
+obj /usr/include/sys/capability.h 6cb005be9f83de2e68bc6f42e6a74aaf 1612616660
+dir /sbin
+obj /sbin/getpcaps 0c1d956bc2cd3c5741aa68766de884e2 1612616662
+obj /sbin/setcap 60057202c7101dabb199c144f22b39ab 1612616662
+obj /sbin/capsh 4f0df75c43732c208a70186f87edb877 1612616662
+obj /sbin/getcap ce67af13f5477f248c9528cc4a0a8dab 1612616662

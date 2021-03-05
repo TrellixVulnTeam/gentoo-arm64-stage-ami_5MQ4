@@ -1,0 +1,7 @@
+haveged
+btrfs-progs
+cloud-init
+app-admin/sudo
+
+# systemctl enable haveged
+Created symlink /etc/systemd/system/multi-user.target.wants/haveged.service → /lib/systemd/system/haveged.service.

@@ -1,0 +1,14 @@
+dir /usr
+dir /usr/share
+dir /usr/share/zsh
+dir /usr/share/zsh/site-functions
+obj /usr/share/zsh/site-functions/_ninja 1fad99313077c1a4f2b37558256d7f28 1612616812
+dir /usr/share/bash-completion
+dir /usr/share/bash-completion/completions
+obj /usr/share/bash-completion/completions/ninja 8f9e41c1a0b3e4f7e3bf135bedc9ff00 1612616812
+dir /usr/share/doc
+dir /usr/share/doc/ninja-1.10.1
+obj /usr/share/doc/ninja-1.10.1/README.md.xz ede23efab6dcd8d7e65e8b0115443f27 1612616811
+obj /usr/share/doc/ninja-1.10.1/CONTRIBUTING.md.xz a05cb3ca1fddbbfb5194f507aec86b1a 1612616811
+dir /usr/bin
+obj /usr/bin/ninja 2b1184d6a262a5d6399b72148de02295 1612616813

@@ -1,0 +1,30 @@
+dir /lib64
+dir /lib64/security
+obj /lib64/security/pam_passwdqc.so 6beb5988883cc38923720ab1f71fa212 1612618302
+dir /etc
+dir /etc/security
+obj /etc/security/passwdqc.conf 55621ec57ea9c3628ffdbdc07d32e379 1612618301
+dir /usr
+dir /usr/lib64
+obj /usr/lib64/libpasswdqc.so.0 9c8018d5dd1abf19ae52172f632ef78b 1612618302
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/passwdqc-1.4.0-r1
+obj /usr/share/doc/passwdqc-1.4.0-r1/README.xz 29220a48132512e33c6cd852db7c3fb5 1612618301
+obj /usr/share/doc/passwdqc-1.4.0-r1/PLATFORMS.xz c29bb45fcff76cbf3eb8f52866bc9f0a 1612618301
+obj /usr/share/doc/passwdqc-1.4.0-r1/INTERNALS d3d31517d74d22af855fa0ac0a1dbb73 1612618301
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/pwqcheck.1.xz 4aa4141eeb4d19f767089f18abd8b296 1612618301
+obj /usr/share/man/man1/pwqgen.1.xz 4a306d0fdb01cf49ef73baf123418077 1612618301
+dir /usr/share/man/man8
+obj /usr/share/man/man8/pam_passwdqc.8.xz b98d0c1a0e46e7b11cfa76da5fa892ab 1612618301
+dir /usr/share/man/man5
+obj /usr/share/man/man5/passwdqc.conf.5.xz 40b56a608351a7970fcdd91bc30fe5fc 1612618301
+dir /usr/include
+obj /usr/include/passwdqc.h 9e8e6178f0ea5fd922435fc0e94e0669 1612618301
+dir /usr/lib
+sym /usr/lib/libpasswdqc.so -> ../../usr/lib64/libpasswdqc.so.0 1612618301
+dir /usr/bin
+obj /usr/bin/pwqcheck 089d5d8e766167eb864c98886610bf4a 1612618302
+obj /usr/bin/pwqgen 31afeb85f15c90ca90c5a5b17f51b9a6 1612618302

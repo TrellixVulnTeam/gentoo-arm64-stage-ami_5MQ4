@@ -1,0 +1,7 @@
+/usr/lib/python3.8/site-packages/lxml/html/diff.cpython-38-aarch64-linux-gnu.so libc.so.6,ld-linux-aarch64.so.1
+/usr/lib/python3.8/site-packages/lxml/html/clean.cpython-38-aarch64-linux-gnu.so libc.so.6,ld-linux-aarch64.so.1
+/usr/lib/python3.8/site-packages/lxml/etree.cpython-38-aarch64-linux-gnu.so libxslt.so.1,libexslt.so.0,libxml2.so.2,libc.so.6,ld-linux-aarch64.so.1
+/usr/lib/python3.8/site-packages/lxml/sax.cpython-38-aarch64-linux-gnu.so libc.so.6,ld-linux-aarch64.so.1
+/usr/lib/python3.8/site-packages/lxml/_elementpath.cpython-38-aarch64-linux-gnu.so libc.so.6,ld-linux-aarch64.so.1
+/usr/lib/python3.8/site-packages/lxml/objectify.cpython-38-aarch64-linux-gnu.so libxml2.so.2,libc.so.6,ld-linux-aarch64.so.1
+/usr/lib/python3.8/site-packages/lxml/builder.cpython-38-aarch64-linux-gnu.so libc.so.6,ld-linux-aarch64.so.1

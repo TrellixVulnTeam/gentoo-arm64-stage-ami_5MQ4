@@ -1,0 +1,88 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/cffi-1.14.4
+obj /usr/share/doc/cffi-1.14.4/AUTHORS.xz 8dd6fd7796ed900952883feaaf925425 1612619066
+obj /usr/share/doc/cffi-1.14.4/README.md.xz ee0384f97ca7d9ceb7435325cd7db030 1612619066
+dir /usr/lib
+dir /usr/lib/python3.8
+dir /usr/lib/python3.8/site-packages
+dir /usr/lib/python3.8/site-packages/cffi-1.14.4-py3.8.egg-info
+obj /usr/lib/python3.8/site-packages/cffi-1.14.4-py3.8.egg-info/not-zip-safe 68b329da9893e34099c7d8ad5cb9c940 1606226943
+obj /usr/lib/python3.8/site-packages/cffi-1.14.4-py3.8.egg-info/requires.txt 0de5b0e5c6df03da418eadb1a2731207 1612619065
+obj /usr/lib/python3.8/site-packages/cffi-1.14.4-py3.8.egg-info/entry_points.txt 5abe3588fda16b05df44a5c5ecca34df 1612619065
+obj /usr/lib/python3.8/site-packages/cffi-1.14.4-py3.8.egg-info/top_level.txt 67ea4a90c355e59a4eb7026e12e6aa43 1612619065
+obj /usr/lib/python3.8/site-packages/cffi-1.14.4-py3.8.egg-info/PKG-INFO 971e4adbaa5edcf614bbb1679f094691 1612619065
+obj /usr/lib/python3.8/site-packages/cffi-1.14.4-py3.8.egg-info/SOURCES.txt 50db978b100572833862cbfb173955dc 1612619066
+obj /usr/lib/python3.8/site-packages/cffi-1.14.4-py3.8.egg-info/dependency_links.txt 68b329da9893e34099c7d8ad5cb9c940 1612619065
+obj /usr/lib/python3.8/site-packages/_cffi_backend.cpython-38-aarch64-linux-gnu.so cca3db05077ddf11069f137967168b0a 1612619067
+dir /usr/lib/python3.8/site-packages/cffi
+obj /usr/lib/python3.8/site-packages/cffi/parse_c_type.h 0138c9742e437b5c5f5468acff804f27 1606226918
+obj /usr/lib/python3.8/site-packages/cffi/verifier.py f2cdfe1822866cbd041aea387d1f2026 1606226918
+obj /usr/lib/python3.8/site-packages/cffi/recompiler.py a3414a80d117b95d056d1b851fbf9569 1606226918
+obj /usr/lib/python3.8/site-packages/cffi/_cffi_errors.h 0993e99e667c4f887c96b7fc1373f50c 1606226918
+obj /usr/lib/python3.8/site-packages/cffi/commontypes.py 4ccc8c485780be1448bd0b5c048ca491 1606226918
+obj /usr/lib/python3.8/site-packages/cffi/vengine_gen.py 853ce58c8a48a8ba05d19d666954edb7 1606226918
+obj /usr/lib/python3.8/site-packages/cffi/pkgconfig.py dd1fc9c020281841aff3e724c61819ce 1606226918
+obj /usr/lib/python3.8/site-packages/cffi/vengine_cpy.py 56496cf892ad1a679ad38a08ac9d36a4 1606226918
+obj /usr/lib/python3.8/site-packages/cffi/ffiplatform.py 57fe8268ba0c2b569f4107a54b03af5c 1606226918
+dir /usr/lib/python3.8/site-packages/cffi/__pycache__
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/recompiler.cpython-38.opt-1.pyc 0036ccf00764afe76d2f007eec3f2481 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/lock.cpython-38.pyc f93c0d45711bb806aa9c5d795f1592b5 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/recompiler.cpython-38.opt-2.pyc 0036ccf00764afe76d2f007eec3f2481 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/api.cpython-38.opt-1.pyc f6b202c5daf785c2950ef97b6bb64d5b 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/pkgconfig.cpython-38.pyc f7b42a356bf3e5b402be1c758524acae 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/vengine_cpy.cpython-38.opt-1.pyc 4f45d0bac827cf4a344e8eb65b87116e 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/vengine_gen.cpython-38.opt-1.pyc b25451946a7048690b5b2ea352d279a1 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/backend_ctypes.cpython-38.pyc d136b458b44448e26fd7e1e3daf74fd3 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/setuptools_ext.cpython-38.opt-2.pyc 965e8c5d2723ac11f684d7cdda390074 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/cparser.cpython-38.opt-2.pyc c7bb6f383e9ad2e61accda925c0e0ce2 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/verifier.cpython-38.pyc 8bfb877270eadf7e316e44d5a539830b 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/__init__.cpython-38.opt-1.pyc c9dc9782c8e42060dc294d2fa0a5f007 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/vengine_cpy.cpython-38.pyc d1a601a2fef46743a3b5d334e5ad32cb 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/__init__.cpython-38.pyc cf914c3288c009653edc2bacaa26a424 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/verifier.cpython-38.opt-2.pyc 9e1e60625dababf303f7a9dce157ad80 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/setuptools_ext.cpython-38.pyc 4489183c1e64edb68e1c261577616f5e 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/error.cpython-38.opt-2.pyc 656d07662c4c7b7aebb7f9a1ad368549 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/model.cpython-38.opt-1.pyc 2639df87701ab7f2347f7251dae072bc 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/cffi_opcode.cpython-38.pyc 688230f280a7a128a8f947dc4ec367be 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/cffi_opcode.cpython-38.opt-2.pyc e5b2534490f424d6593304bb7aae3a13 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/api.cpython-38.opt-2.pyc f6b202c5daf785c2950ef97b6bb64d5b 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/commontypes.cpython-38.opt-1.pyc cef43a47d71201a944e6aae320a1bf40 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/model.cpython-38.pyc d988eab5efabb3fdaab20fc34c296852 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/vengine_cpy.cpython-38.opt-2.pyc 4f45d0bac827cf4a344e8eb65b87116e 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/commontypes.cpython-38.pyc 5e64310645c34ac11c3f2e6c296e6950 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/vengine_gen.cpython-38.pyc 523913874e2d125d05b08572e907b708 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/vengine_gen.cpython-38.opt-2.pyc b25451946a7048690b5b2ea352d279a1 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/backend_ctypes.cpython-38.opt-1.pyc 6ad66ad16c146d0bd18ee19e928c22d7 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/lock.cpython-38.opt-2.pyc f93c0d45711bb806aa9c5d795f1592b5 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/pkgconfig.cpython-38.opt-2.pyc a0e7f63c627e57203c3c431984a54f87 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/cparser.cpython-38.pyc ae89a734e8ab5d3ee24d2e241322aa0a 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/cffi_opcode.cpython-38.opt-1.pyc e5b2534490f424d6593304bb7aae3a13 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/error.cpython-38.opt-1.pyc 656d07662c4c7b7aebb7f9a1ad368549 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/recompiler.cpython-38.pyc e288c3624dfe5c0f67575c454acd9636 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/api.cpython-38.pyc b033235d243f558d09b92dc08eb4b0c7 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/__init__.cpython-38.opt-2.pyc c9dc9782c8e42060dc294d2fa0a5f007 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/pkgconfig.cpython-38.opt-1.pyc a0e7f63c627e57203c3c431984a54f87 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/cparser.cpython-38.opt-1.pyc c7bb6f383e9ad2e61accda925c0e0ce2 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/model.cpython-38.opt-2.pyc 2639df87701ab7f2347f7251dae072bc 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/setuptools_ext.cpython-38.opt-1.pyc 965e8c5d2723ac11f684d7cdda390074 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/ffiplatform.cpython-38.opt-2.pyc 7534fdfc43c6dd2b6a187d2538c8f2fa 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/error.cpython-38.pyc 656d07662c4c7b7aebb7f9a1ad368549 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/lock.cpython-38.opt-1.pyc f93c0d45711bb806aa9c5d795f1592b5 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/ffiplatform.cpython-38.pyc 4eb60c3b87da49b287aa516f6e5bfe72 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/backend_ctypes.cpython-38.opt-2.pyc 6ad66ad16c146d0bd18ee19e928c22d7 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/commontypes.cpython-38.opt-2.pyc cef43a47d71201a944e6aae320a1bf40 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/ffiplatform.cpython-38.opt-1.pyc 7534fdfc43c6dd2b6a187d2538c8f2fa 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/__pycache__/verifier.cpython-38.opt-1.pyc 9e1e60625dababf303f7a9dce157ad80 1612619065
+obj /usr/lib/python3.8/site-packages/cffi/api.py 09579287ef8662c2547e14fad6676071 1606226918
+obj /usr/lib/python3.8/site-packages/cffi/_cffi_include.h a9287a7d1b3e7ec308e503e42c97da96 1606226918
+obj /usr/lib/python3.8/site-packages/cffi/backend_ctypes.py cd7c9df758f20a9d6321e4ba47aa36f7 1606226918
+obj /usr/lib/python3.8/site-packages/cffi/cparser.py 8569adc9617588720176f27ec0dac835 1606226918
+obj /usr/lib/python3.8/site-packages/cffi/setuptools_ext.py 4623023eaba931cf126ee5d8a35e7f37 1606226918
+obj /usr/lib/python3.8/site-packages/cffi/error.py 7f02d866313a0d928aa9c1162eafb9e7 1606226918
+obj /usr/lib/python3.8/site-packages/cffi/__init__.py c8d062057e9463359dfe57d73dfe4ef0 1606226918
+obj /usr/lib/python3.8/site-packages/cffi/lock.py 4cc065d5df79eddf6bcfc06bd4a8e54a 1606226918
+obj /usr/lib/python3.8/site-packages/cffi/model.py e49a2eba0708cda612f8483adef09dad 1606226918
+obj /usr/lib/python3.8/site-packages/cffi/cffi_opcode.py 28c29f6bb1b4a4ad9d94769b233378af 1606226918
+obj /usr/lib/python3.8/site-packages/cffi/_embedding.h 48499a022d1f52ad95b1a6198403f1b4 1606226918

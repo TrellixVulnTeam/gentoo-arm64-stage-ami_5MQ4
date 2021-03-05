@@ -1,0 +1,21 @@
+dir /usr
+dir /usr/lib64
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/libuv.pc d13746fe96c0c95ee4aa30e937e10b00 1612612639
+sym /usr/lib64/libuv.so.1 -> libuv.so.1.0.0 1612612639
+sym /usr/lib64/libuv.so -> libuv.so.1.0.0 1612612639
+obj /usr/lib64/libuv.so.1.0.0 02c9783f6463f31a0be368dd4426d72b 1612612640
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/libuv-1.40.0
+obj /usr/share/doc/libuv-1.40.0/AUTHORS.xz eb779faa1b54820a8cf19d453a0a3f1c 1612612639
+obj /usr/share/doc/libuv-1.40.0/README.md.xz fe84d9dbfbe83cac0e721ca51b00ef4f 1612612639
+obj /usr/share/doc/libuv-1.40.0/ChangeLog.xz 0a6f8081d428f203bf6ce435116c973f 1612612639
+dir /usr/include
+dir /usr/include/uv
+obj /usr/include/uv/errno.h 76c63d4f7c7cf2ee65f2832dec6f0ea3 1612612639
+obj /usr/include/uv/threadpool.h 5521f38c04d85805897d75103d60937a 1612612639
+obj /usr/include/uv/version.h e36f92cd598293f920aba95cfcbc65ae 1612612639
+obj /usr/include/uv/linux.h a9c63da0614d480dbf129bfaa5cb0ad4 1612612639
+obj /usr/include/uv/unix.h ac08754c58be608003b7698e33608298 1612612639
+obj /usr/include/uv.h cade62b4c6a391229123a518633d0020 1612612639

@@ -1,0 +1,143 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/pyserial-3.5
+obj /usr/share/doc/pyserial-3.5/README.rst.xz 20e89e000b2dc3a173c1ae53c6caf3ec 1613461478
+obj /usr/share/doc/pyserial-3.5/CHANGES.rst.xz 581b6e9824b6253224132374faa27647 1613461478
+dir /usr/bin
+sym /usr/bin/pyserial-ports -> ../lib/python-exec/python-exec2 1613461478
+sym /usr/bin/pyserial-miniterm -> ../lib/python-exec/python-exec2 1613461478
+dir /usr/lib
+dir /usr/lib/python-exec
+dir /usr/lib/python-exec/python3.8
+obj /usr/lib/python-exec/python3.8/pyserial-ports 991ce6e9ffa48413570195d5c053eb9b 1613461477
+obj /usr/lib/python-exec/python3.8/pyserial-miniterm 540532c12b4c4c5cb515087b7ac3259c 1613461477
+dir /usr/lib/python3.8
+dir /usr/lib/python3.8/site-packages
+dir /usr/lib/python3.8/site-packages/pyserial-3.5-py3.8.egg-info
+obj /usr/lib/python3.8/site-packages/pyserial-3.5-py3.8.egg-info/entry_points.txt 6a48bbaec8bb54bfdd9c95c7ca39b35b 1613461477
+obj /usr/lib/python3.8/site-packages/pyserial-3.5-py3.8.egg-info/requires.txt c84a5e5e1dce2139ae4d3b88d3be65b1 1613461477
+obj /usr/lib/python3.8/site-packages/pyserial-3.5-py3.8.egg-info/SOURCES.txt d0b151f11411497d42201bae70825d61 1613461477
+obj /usr/lib/python3.8/site-packages/pyserial-3.5-py3.8.egg-info/top_level.txt 12a90ddc12e71614c3b7a6409f58ac46 1613461477
+obj /usr/lib/python3.8/site-packages/pyserial-3.5-py3.8.egg-info/dependency_links.txt 68b329da9893e34099c7d8ad5cb9c940 1613461477
+obj /usr/lib/python3.8/site-packages/pyserial-3.5-py3.8.egg-info/PKG-INFO aa9f9cc9cd26887c64ff05d3891a387e 1613461477
+dir /usr/lib/python3.8/site-packages/serial
+dir /usr/lib/python3.8/site-packages/serial/__pycache__
+obj /usr/lib/python3.8/site-packages/serial/__pycache__/__main__.cpython-38.opt-2.pyc 970e30da70dc3f5f1944625ecca0c9c1 1613461477
+obj /usr/lib/python3.8/site-packages/serial/__pycache__/rs485.cpython-38.opt-2.pyc 8a37d24bf541f46a77b87f47b84e9752 1613461477
+obj /usr/lib/python3.8/site-packages/serial/__pycache__/serialwin32.cpython-38.opt-2.pyc 84c899b9e7660828e827f7c34b9b8188 1613461477
+obj /usr/lib/python3.8/site-packages/serial/__pycache__/rfc2217.cpython-38.opt-2.pyc 17befd45d9f64cece35902b2bbb60601 1613461477
+obj /usr/lib/python3.8/site-packages/serial/__pycache__/serialposix.cpython-38.opt-2.pyc 7d32212ee4f5135cef50d44e8d303f96 1613461477
+obj /usr/lib/python3.8/site-packages/serial/__pycache__/__init__.cpython-38.opt-2.pyc 62274e2653f79fd4a65c0e3bc23f07f7 1613461477
+obj /usr/lib/python3.8/site-packages/serial/__pycache__/serialjava.cpython-38.opt-2.pyc 8286fe436cbf83e94d89de3cc8acdd8d 1613461477
+obj /usr/lib/python3.8/site-packages/serial/__pycache__/win32.cpython-38.opt-2.pyc 67e81ec961ea2564228ef5da7b79673b 1613461477
+obj /usr/lib/python3.8/site-packages/serial/__pycache__/serialcli.cpython-38.opt-2.pyc 476addb253a7cad000c0c65c4c6bb5e6 1613461477
+obj /usr/lib/python3.8/site-packages/serial/__pycache__/serialutil.cpython-38.opt-2.pyc f6837c29eb483501c09464b7dee343a9 1613461477
+obj /usr/lib/python3.8/site-packages/serial/__pycache__/__main__.cpython-38.opt-1.pyc 970e30da70dc3f5f1944625ecca0c9c1 1613461477
+obj /usr/lib/python3.8/site-packages/serial/__pycache__/rs485.cpython-38.opt-1.pyc 8a37d24bf541f46a77b87f47b84e9752 1613461477
+obj /usr/lib/python3.8/site-packages/serial/__pycache__/serialwin32.cpython-38.opt-1.pyc 84c899b9e7660828e827f7c34b9b8188 1613461477
+obj /usr/lib/python3.8/site-packages/serial/__pycache__/rfc2217.cpython-38.opt-1.pyc 17befd45d9f64cece35902b2bbb60601 1613461477
+obj /usr/lib/python3.8/site-packages/serial/__pycache__/serialposix.cpython-38.opt-1.pyc 7d32212ee4f5135cef50d44e8d303f96 1613461477
+obj /usr/lib/python3.8/site-packages/serial/__pycache__/__init__.cpython-38.opt-1.pyc 62274e2653f79fd4a65c0e3bc23f07f7 1613461477
+obj /usr/lib/python3.8/site-packages/serial/__pycache__/serialjava.cpython-38.opt-1.pyc 8286fe436cbf83e94d89de3cc8acdd8d 1613461477
+obj /usr/lib/python3.8/site-packages/serial/__pycache__/win32.cpython-38.opt-1.pyc 67e81ec961ea2564228ef5da7b79673b 1613461477
+obj /usr/lib/python3.8/site-packages/serial/__pycache__/serialcli.cpython-38.opt-1.pyc 476addb253a7cad000c0c65c4c6bb5e6 1613461477
+obj /usr/lib/python3.8/site-packages/serial/__pycache__/serialutil.cpython-38.opt-1.pyc f6837c29eb483501c09464b7dee343a9 1613461477
+obj /usr/lib/python3.8/site-packages/serial/__pycache__/__main__.cpython-38.pyc 5aa38987330763357250164ebc524b3a 1613461477
+obj /usr/lib/python3.8/site-packages/serial/__pycache__/rs485.cpython-38.pyc aba032a13abd267fbfd40d4a9eff05c0 1613461477
+obj /usr/lib/python3.8/site-packages/serial/__pycache__/serialwin32.cpython-38.pyc b0e4f6b928f6c4866e7ac6d63d71946d 1613461477
+obj /usr/lib/python3.8/site-packages/serial/__pycache__/rfc2217.cpython-38.pyc c83de9df03f25acbc36541c4490a2fde 1613461477
+obj /usr/lib/python3.8/site-packages/serial/__pycache__/serialposix.cpython-38.pyc b3be5c5b1efca946bda7159e0586e7fc 1613461477
+obj /usr/lib/python3.8/site-packages/serial/__pycache__/__init__.cpython-38.pyc 4d6538daacbbec024e23fd1c26c62980 1613461477
+obj /usr/lib/python3.8/site-packages/serial/__pycache__/serialjava.cpython-38.pyc d273f8bc7b89db47e1cede3934492b0d 1613461477
+obj /usr/lib/python3.8/site-packages/serial/__pycache__/win32.cpython-38.pyc 3bed17ba51403d7641604b8b2a460347 1613461477
+obj /usr/lib/python3.8/site-packages/serial/__pycache__/serialcli.cpython-38.pyc 84be11bc790fac56ff4dbd30ce97d216 1613461477
+obj /usr/lib/python3.8/site-packages/serial/__pycache__/serialutil.cpython-38.pyc f9a0062c950b72001a82594cb3973425 1613461477
+dir /usr/lib/python3.8/site-packages/serial/threaded
+dir /usr/lib/python3.8/site-packages/serial/threaded/__pycache__
+obj /usr/lib/python3.8/site-packages/serial/threaded/__pycache__/__init__.cpython-38.opt-2.pyc af5341f884f28ef1802000e6cf0f1e89 1613461477
+obj /usr/lib/python3.8/site-packages/serial/threaded/__pycache__/__init__.cpython-38.opt-1.pyc af5341f884f28ef1802000e6cf0f1e89 1613461477
+obj /usr/lib/python3.8/site-packages/serial/threaded/__pycache__/__init__.cpython-38.pyc 2e7e677da95662d5874eba8453ac0a65 1613461477
+obj /usr/lib/python3.8/site-packages/serial/threaded/__init__.py ea5725add92c439922476341340d2c13 1585966820
+dir /usr/lib/python3.8/site-packages/serial/urlhandler
+dir /usr/lib/python3.8/site-packages/serial/urlhandler/__pycache__
+obj /usr/lib/python3.8/site-packages/serial/urlhandler/__pycache__/protocol_rfc2217.cpython-38.opt-2.pyc 6bf0a991acdef2cbe0cb541d8b792bae 1613461477
+obj /usr/lib/python3.8/site-packages/serial/urlhandler/__pycache__/protocol_hwgrep.cpython-38.opt-2.pyc 772f9c6bcade2721f7c60d9982c41f03 1613461477
+obj /usr/lib/python3.8/site-packages/serial/urlhandler/__pycache__/protocol_socket.cpython-38.opt-2.pyc 056450673d9a3de02d48cf4d610ceada 1613461477
+obj /usr/lib/python3.8/site-packages/serial/urlhandler/__pycache__/protocol_spy.cpython-38.opt-2.pyc 98e6365e16b1665dced76cb164045617 1613461477
+obj /usr/lib/python3.8/site-packages/serial/urlhandler/__pycache__/__init__.cpython-38.opt-2.pyc c45f9117343499e244036dea1d40ce12 1613461477
+obj /usr/lib/python3.8/site-packages/serial/urlhandler/__pycache__/protocol_alt.cpython-38.opt-2.pyc e4c9efff872ea3ef42f46375a1a71e63 1613461477
+obj /usr/lib/python3.8/site-packages/serial/urlhandler/__pycache__/protocol_loop.cpython-38.opt-2.pyc 3028b945af83ab5b10b3824d0726c313 1613461477
+obj /usr/lib/python3.8/site-packages/serial/urlhandler/__pycache__/protocol_cp2110.cpython-38.opt-2.pyc d7ca03f3d31a17ff76d2df89a3fe8fc9 1613461477
+obj /usr/lib/python3.8/site-packages/serial/urlhandler/__pycache__/protocol_rfc2217.cpython-38.opt-1.pyc 6bf0a991acdef2cbe0cb541d8b792bae 1613461477
+obj /usr/lib/python3.8/site-packages/serial/urlhandler/__pycache__/protocol_hwgrep.cpython-38.opt-1.pyc 772f9c6bcade2721f7c60d9982c41f03 1613461477
+obj /usr/lib/python3.8/site-packages/serial/urlhandler/__pycache__/protocol_socket.cpython-38.opt-1.pyc 056450673d9a3de02d48cf4d610ceada 1613461477
+obj /usr/lib/python3.8/site-packages/serial/urlhandler/__pycache__/protocol_spy.cpython-38.opt-1.pyc 98e6365e16b1665dced76cb164045617 1613461477
+obj /usr/lib/python3.8/site-packages/serial/urlhandler/__pycache__/__init__.cpython-38.opt-1.pyc c45f9117343499e244036dea1d40ce12 1613461477
+obj /usr/lib/python3.8/site-packages/serial/urlhandler/__pycache__/protocol_alt.cpython-38.opt-1.pyc e4c9efff872ea3ef42f46375a1a71e63 1613461477
+obj /usr/lib/python3.8/site-packages/serial/urlhandler/__pycache__/protocol_loop.cpython-38.opt-1.pyc 3028b945af83ab5b10b3824d0726c313 1613461477
+obj /usr/lib/python3.8/site-packages/serial/urlhandler/__pycache__/protocol_cp2110.cpython-38.opt-1.pyc d7ca03f3d31a17ff76d2df89a3fe8fc9 1613461477
+obj /usr/lib/python3.8/site-packages/serial/urlhandler/__pycache__/protocol_rfc2217.cpython-38.pyc 99e2cca55e9402dc628978b39b58153a 1613461477
+obj /usr/lib/python3.8/site-packages/serial/urlhandler/__pycache__/protocol_hwgrep.cpython-38.pyc 8d062fec03c84e196f848ffc8a030965 1613461477
+obj /usr/lib/python3.8/site-packages/serial/urlhandler/__pycache__/protocol_socket.cpython-38.pyc b7b32c1216807a7360de68b04baf1c5a 1613461477
+obj /usr/lib/python3.8/site-packages/serial/urlhandler/__pycache__/protocol_spy.cpython-38.pyc cab87d1140fe5ce6a3f0ada378dc3bad 1613461477
+obj /usr/lib/python3.8/site-packages/serial/urlhandler/__pycache__/__init__.cpython-38.pyc c45f9117343499e244036dea1d40ce12 1613461477
+obj /usr/lib/python3.8/site-packages/serial/urlhandler/__pycache__/protocol_alt.cpython-38.pyc dae14377ee3602d4ac55862aba180236 1613461477
+obj /usr/lib/python3.8/site-packages/serial/urlhandler/__pycache__/protocol_loop.cpython-38.pyc d1635dc7ee99f3a114dcc8504a0977d5 1613461477
+obj /usr/lib/python3.8/site-packages/serial/urlhandler/__pycache__/protocol_cp2110.cpython-38.pyc e938445925c3bf274ccff5480e81590d 1613461477
+obj /usr/lib/python3.8/site-packages/serial/urlhandler/protocol_rfc2217.py 0420f100591660830345e3f0e23b1df0 1585966820
+obj /usr/lib/python3.8/site-packages/serial/urlhandler/protocol_hwgrep.py 060e94e3b9bbfd02f2f7df57fad0e106 1585966820
+obj /usr/lib/python3.8/site-packages/serial/urlhandler/protocol_socket.py af63d2389fa68e7ee5c8a8b2e728394d 1600038600
+obj /usr/lib/python3.8/site-packages/serial/urlhandler/protocol_spy.py c9be17bb80d1e3be577281e808a9a814 1606103495
+obj /usr/lib/python3.8/site-packages/serial/urlhandler/__init__.py d41d8cd98f00b204e9800998ecf8427e 1585966820
+obj /usr/lib/python3.8/site-packages/serial/urlhandler/protocol_alt.py a7af1b738d52c7e6d65a45de07b24d85 1585966820
+obj /usr/lib/python3.8/site-packages/serial/urlhandler/protocol_loop.py 38195e0320964c9d8baa0afe2c20631d 1600248449
+obj /usr/lib/python3.8/site-packages/serial/urlhandler/protocol_cp2110.py 35eba230d51ad19d43cd0adab9fe57a5 1600038602
+dir /usr/lib/python3.8/site-packages/serial/tools
+dir /usr/lib/python3.8/site-packages/serial/tools/__pycache__
+obj /usr/lib/python3.8/site-packages/serial/tools/__pycache__/miniterm.cpython-38.opt-2.pyc 1a14ee7f44e2e6fc3f95a6dead316b6e 1613461477
+obj /usr/lib/python3.8/site-packages/serial/tools/__pycache__/list_ports_osx.cpython-38.opt-2.pyc 2e033f651a890f5144e3739aa6fe02c7 1613461477
+obj /usr/lib/python3.8/site-packages/serial/tools/__pycache__/list_ports_posix.cpython-38.opt-2.pyc 375823f8bc4da678bdaac858a2a8809c 1613461477
+obj /usr/lib/python3.8/site-packages/serial/tools/__pycache__/__init__.cpython-38.opt-2.pyc 997c6df9f2f0e6f4e908df1a9117a8f1 1613461477
+obj /usr/lib/python3.8/site-packages/serial/tools/__pycache__/list_ports_common.cpython-38.opt-2.pyc d2f435afc9cf102e9353e4a92cc3942a 1613461477
+obj /usr/lib/python3.8/site-packages/serial/tools/__pycache__/list_ports_linux.cpython-38.opt-2.pyc f31f85c4b6b2a8b8163f2eb7dc4b731f 1613461477
+obj /usr/lib/python3.8/site-packages/serial/tools/__pycache__/list_ports.cpython-38.opt-2.pyc f2f6b033d28991509dd79bbd1ff1341b 1613461477
+obj /usr/lib/python3.8/site-packages/serial/tools/__pycache__/hexlify_codec.cpython-38.opt-2.pyc 2abd39ac37ccbd569718a22cedc53a48 1613461477
+obj /usr/lib/python3.8/site-packages/serial/tools/__pycache__/list_ports_windows.cpython-38.opt-2.pyc 1389649a1ffb1e0312aa28fba2fd1aa7 1613461477
+obj /usr/lib/python3.8/site-packages/serial/tools/__pycache__/miniterm.cpython-38.opt-1.pyc 1a14ee7f44e2e6fc3f95a6dead316b6e 1613461477
+obj /usr/lib/python3.8/site-packages/serial/tools/__pycache__/list_ports_osx.cpython-38.opt-1.pyc 2e033f651a890f5144e3739aa6fe02c7 1613461477
+obj /usr/lib/python3.8/site-packages/serial/tools/__pycache__/list_ports_posix.cpython-38.opt-1.pyc 375823f8bc4da678bdaac858a2a8809c 1613461477
+obj /usr/lib/python3.8/site-packages/serial/tools/__pycache__/__init__.cpython-38.opt-1.pyc 997c6df9f2f0e6f4e908df1a9117a8f1 1613461477
+obj /usr/lib/python3.8/site-packages/serial/tools/__pycache__/list_ports_common.cpython-38.opt-1.pyc d2f435afc9cf102e9353e4a92cc3942a 1613461477
+obj /usr/lib/python3.8/site-packages/serial/tools/__pycache__/list_ports_linux.cpython-38.opt-1.pyc f31f85c4b6b2a8b8163f2eb7dc4b731f 1613461477
+obj /usr/lib/python3.8/site-packages/serial/tools/__pycache__/list_ports.cpython-38.opt-1.pyc f2f6b033d28991509dd79bbd1ff1341b 1613461477
+obj /usr/lib/python3.8/site-packages/serial/tools/__pycache__/hexlify_codec.cpython-38.opt-1.pyc 2abd39ac37ccbd569718a22cedc53a48 1613461477
+obj /usr/lib/python3.8/site-packages/serial/tools/__pycache__/list_ports_windows.cpython-38.opt-1.pyc 1389649a1ffb1e0312aa28fba2fd1aa7 1613461477
+obj /usr/lib/python3.8/site-packages/serial/tools/__pycache__/miniterm.cpython-38.pyc c5d8a65b17c36ae73c18e15157ec8089 1613461477
+obj /usr/lib/python3.8/site-packages/serial/tools/__pycache__/list_ports_osx.cpython-38.pyc a7a2e104fbe89c6aef9b62eb46e42974 1613461477
+obj /usr/lib/python3.8/site-packages/serial/tools/__pycache__/list_ports_posix.cpython-38.pyc f2437027743514d362f1069e7a38b968 1613461477
+obj /usr/lib/python3.8/site-packages/serial/tools/__pycache__/__init__.cpython-38.pyc 997c6df9f2f0e6f4e908df1a9117a8f1 1613461477
+obj /usr/lib/python3.8/site-packages/serial/tools/__pycache__/list_ports_common.cpython-38.pyc 4d343b15be53996bf802340e4336b3c0 1613461477
+obj /usr/lib/python3.8/site-packages/serial/tools/__pycache__/list_ports_linux.cpython-38.pyc 4ac7a109dd6bd36b295fb44b3eb73975 1613461477
+obj /usr/lib/python3.8/site-packages/serial/tools/__pycache__/list_ports.cpython-38.pyc 3d578f8e5c4a8ba76e2e993ce235d8f4 1613461477
+obj /usr/lib/python3.8/site-packages/serial/tools/__pycache__/hexlify_codec.cpython-38.pyc db37c6f76ca47484295d50eee07557c0 1613461477
+obj /usr/lib/python3.8/site-packages/serial/tools/__pycache__/list_ports_windows.cpython-38.pyc d96cd263f117cf54e8e6d939d658bac9 1613461477
+obj /usr/lib/python3.8/site-packages/serial/tools/miniterm.py 5eaaf1ca75a5b9cc82d3389d13cde556 1606102158
+obj /usr/lib/python3.8/site-packages/serial/tools/list_ports_osx.py c142ac0c8aae6099e1e2822259dea9c7 1606103326
+obj /usr/lib/python3.8/site-packages/serial/tools/list_ports_posix.py 95a177085d613947da67a8d7f9957408 1585966820
+obj /usr/lib/python3.8/site-packages/serial/tools/__init__.py d41d8cd98f00b204e9800998ecf8427e 1585966820
+obj /usr/lib/python3.8/site-packages/serial/tools/list_ports_common.py 966bb5319b67ab0316eb221df9c69c2d 1585966820
+obj /usr/lib/python3.8/site-packages/serial/tools/list_ports_linux.py ab5f3f0b0a53bfbc51479cebe0df48e4 1600642774
+obj /usr/lib/python3.8/site-packages/serial/tools/list_ports.py 10b2d669a0fcb060406ec86e0ee81400 1585966820
+obj /usr/lib/python3.8/site-packages/serial/tools/hexlify_codec.py 185ed46d5c8b28f14410344d4be4e42e 1585966820
+obj /usr/lib/python3.8/site-packages/serial/tools/list_ports_windows.py 14deeced375d434edb2e2e94787cc1d6 1605750932
+obj /usr/lib/python3.8/site-packages/serial/__main__.py 476aa171511c1f130aa5513d2f0862dd 1600644785
+obj /usr/lib/python3.8/site-packages/serial/rs485.py 59e55486c4a3e013eb0bc359d24bd2cb 1585966820
+obj /usr/lib/python3.8/site-packages/serial/serialwin32.py efaa76aceb36f7373a78bede233fe36e 1600248363
+obj /usr/lib/python3.8/site-packages/serial/rfc2217.py 802eb281d930509e9156f897652b1608 1600038571
+obj /usr/lib/python3.8/site-packages/serial/serialposix.py 7848e35189b70543f0894c11309f98f9 1606103326
+obj /usr/lib/python3.8/site-packages/serial/__init__.py 81d1a2a8ae5bbcaf607412323c7c90cd 1606102792
+obj /usr/lib/python3.8/site-packages/serial/serialjava.py e54e8202a2eda76f7d4d17a200907ed1 1600038537
+obj /usr/lib/python3.8/site-packages/serial/win32.py 55998056526fb6408765e6ff130dec94 1585966820
+obj /usr/lib/python3.8/site-packages/serial/serialcli.py 96151ae352e10b2e1cb80921d87a4480 1600038536
+obj /usr/lib/python3.8/site-packages/serial/serialutil.py 80d4e31e55df3aae9686eb8847a9255e 1600248358

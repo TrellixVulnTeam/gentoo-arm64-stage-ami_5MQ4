@@ -1,0 +1,7 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/build-docbook-catalog-1.21
+obj /usr/share/doc/build-docbook-catalog-1.21/README.xz 29aa3093fba98097378d3af7da41142d 1612613259
+dir /usr/sbin
+obj /usr/sbin/build-docbook-catalog fa05933c0918079b98b26942ec1191f4 1612613259

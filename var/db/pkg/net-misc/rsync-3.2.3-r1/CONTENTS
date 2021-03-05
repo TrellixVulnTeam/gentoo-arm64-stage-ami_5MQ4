@@ -1,0 +1,31 @@
+dir /lib
+dir /lib/systemd
+dir /lib/systemd/system
+obj /lib/systemd/system/rsyncd.service 397a9c2bc8aee1254be7355c55039286 1612618279
+dir /etc
+dir /etc/init.d
+obj /etc/init.d/rsyncd 581f5f60999b3b74f1280b683d41fa06 1612618279
+dir /etc/logrotate.d
+obj /etc/logrotate.d/rsyncd 169cafc6907a4c3787bb0462e9d6a5c2 1612618279
+obj /etc/rsyncd.conf 6e3df8421b28ae1ff0fdef5d67988359 1612618279
+dir /etc/xinetd.d
+obj /etc/xinetd.d/rsyncd 9fe188afd112764c6fcf1d07b80ca8d1 1612618279
+dir /etc/conf.d
+obj /etc/conf.d/rsyncd e5e62e8cef29e09c22e8ba8152ec1751 1612618279
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/rsync-3.2.3-r1
+obj /usr/share/doc/rsync-3.2.3-r1/NEWS.md.xz 17199cc0d390bafe4b7460e62f3c5ac2 1612618279
+obj /usr/share/doc/rsync-3.2.3-r1/README.md.xz f03e2c58f52dc9769dfa938c25b9a9f6 1612618279
+obj /usr/share/doc/rsync-3.2.3-r1/tech_report.tex.xz dbfb4f9c2edc24fc95741f569bf1a783 1612618279
+obj /usr/share/doc/rsync-3.2.3-r1/TODO.xz b02126380c4f4308e10cbcc9bd7c931d 1612618279
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/rsync-ssl.1.xz 99d401d82bd3582e1e25fda8780169ed 1612618278
+obj /usr/share/man/man1/rsync.1.xz 50bffcfb07b37b967dc86db71718792d 1612618278
+dir /usr/share/man/man5
+obj /usr/share/man/man5/rsyncd.conf.5.xz d7583d96d9ce97e74d70a065f7d028e2 1612618278
+dir /usr/bin
+obj /usr/bin/rsync 096dac95da85e2609d0bd937559a19a6 1612618280
+obj /usr/bin/rsync-ssl dc33b51ba87de019e169eb4c890d6f20 1612618278

@@ -1,0 +1,15 @@
+dir /usr
+dir /usr/lib
+dir /usr/lib/python3.8
+dir /usr/lib/python3.8/site-packages
+obj /usr/lib/python3.8/site-packages/certifi-10001-py3.8.egg-info 22cdbdda8756e951a132a262148c2817 1612618772
+dir /usr/lib/python3.8/site-packages/certifi
+dir /usr/lib/python3.8/site-packages/certifi/__pycache__
+obj /usr/lib/python3.8/site-packages/certifi/__pycache__/core.cpython-38.pyc eca19757076e8ca5894b5694456fee06 1612618772
+obj /usr/lib/python3.8/site-packages/certifi/__pycache__/__init__.cpython-38.opt-1.pyc 23f4d706bda1caae5e5e970668260ead 1612618772
+obj /usr/lib/python3.8/site-packages/certifi/__pycache__/__init__.cpython-38.pyc 0acc9df39526b838897dc3b1e08acc5a 1612618772
+obj /usr/lib/python3.8/site-packages/certifi/__pycache__/core.cpython-38.opt-1.pyc eca19757076e8ca5894b5694456fee06 1612618772
+obj /usr/lib/python3.8/site-packages/certifi/__pycache__/core.cpython-38.opt-2.pyc eca19757076e8ca5894b5694456fee06 1612618772
+obj /usr/lib/python3.8/site-packages/certifi/__pycache__/__init__.cpython-38.opt-2.pyc 23f4d706bda1caae5e5e970668260ead 1612618772
+obj /usr/lib/python3.8/site-packages/certifi/__init__.py 0103f5d6e9af3a96b0d862159f88cb64 1596437993
+obj /usr/lib/python3.8/site-packages/certifi/core.py 9ebe176638656acc14df516cbb3d4837 1612618770

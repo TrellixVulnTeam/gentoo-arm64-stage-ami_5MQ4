@@ -1,0 +1,7 @@
+dir /var
+dir /var/empty
+obj /var/empty/.keep_acct-user_sshd-0 d41d8cd98f00b204e9800998ecf8427e 1612611176
+dir /usr
+dir /usr/lib
+dir /usr/lib/sysusers.d
+obj /usr/lib/sysusers.d/acct-user-sshd.conf 6b26f7c42aa71c4b74ec4f59f99cd649 1612611177

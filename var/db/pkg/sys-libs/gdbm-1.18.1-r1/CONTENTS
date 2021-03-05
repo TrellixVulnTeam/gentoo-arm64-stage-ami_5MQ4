@@ -1,0 +1,36 @@
+dir /usr
+dir /usr/lib64
+obj /usr/lib64/libgdbm_compat.so.4.0.0 cf7ef1458a6882e6c501ca72b3718e85 1612612117
+obj /usr/lib64/libgdbm.so.6.0.0 195ebcec169791a9e88c235dc9e61eb8 1612612117
+sym /usr/lib64/libgdbm_compat.so.4 -> libgdbm_compat.so.4.0.0 1612612115
+sym /usr/lib64/libgdbm.so -> libgdbm.so.6.0.0 1612612115
+sym /usr/lib64/libgdbm.so.6 -> libgdbm.so.6.0.0 1612612115
+sym /usr/lib64/libgdbm_compat.so -> libgdbm_compat.so.4.0.0 1612612115
+dir /usr/share
+dir /usr/share/info
+obj /usr/share/info/gdbm.info.xz a6c2a3ad1da38932eadfcd8ca283c3f9 1612612115
+dir /usr/share/doc
+dir /usr/share/doc/gdbm-1.18.1-r1
+obj /usr/share/doc/gdbm-1.18.1-r1/README-alpha.xz e4e27d8df4c19e2bf36a2ecfded2e6a5 1612612115
+obj /usr/share/doc/gdbm-1.18.1-r1/NEWS.xz a56a4b1b972d669663c897d8a58081ab 1612612116
+obj /usr/share/doc/gdbm-1.18.1-r1/README.xz 99892a551155e4b635dcc50592718b6d 1612612115
+obj /usr/share/doc/gdbm-1.18.1-r1/AUTHORS 8f58ec79b2fa7dd61baff91dbf9e43c2 1612612115
+obj /usr/share/doc/gdbm-1.18.1-r1/TODO.xz e0ecf9e550316849f57c5c16c159237c 1612612116
+obj /usr/share/doc/gdbm-1.18.1-r1/ChangeLog.xz 3b668671ce0eda3a75b1f00e789a9579 1612612115
+obj /usr/share/doc/gdbm-1.18.1-r1/THANKS.xz 141f088b1074b18ae2908d20e4649f2b 1612612116
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/gdbm_load.1.xz 0af3002706cf1834404ae4cd86d7b529 1612612115
+obj /usr/share/man/man1/gdbmtool.1.xz 22e2921d425f6fb8f2d294a503dad1f8 1612612115
+obj /usr/share/man/man1/gdbm_dump.1.xz cf6c7adb2c0e79de4b3758d9d3eee8dc 1612612115
+dir /usr/share/man/man3
+obj /usr/share/man/man3/gdbm.3.xz 9c6cfd6047a583eae055341e32f00fb7 1612612115
+dir /usr/include
+obj /usr/include/gdbm.h 98c44c4e782e37b7f2dbfc99942c4036 1612612115
+dir /usr/include/gdbm
+obj /usr/include/gdbm/ndbm.h 79250151080e123d086e4f3df924c846 1612612115
+obj /usr/include/gdbm/dbm.h fded6799ee501328f5dbaa173c593e3b 1612612115
+dir /usr/bin
+obj /usr/bin/gdbm_dump aa91113bebbf3d7446df90c3bb75014e 1612612117
+obj /usr/bin/gdbm_load 5c51a1f5e0eb169df57c0cb4111b79be 1612612117
+obj /usr/bin/gdbmtool b75072c691e61b736c7c119f4d945852 1612612117

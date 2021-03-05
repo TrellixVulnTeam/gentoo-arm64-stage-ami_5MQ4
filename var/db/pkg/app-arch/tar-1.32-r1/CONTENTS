@@ -1,0 +1,29 @@
+dir /etc
+obj /etc/rmt 9571f0a7864334a6c6bb069f647558fa 1612611771
+dir /usr
+dir /usr/share
+dir /usr/share/info
+obj /usr/share/info/tar.info-2.xz ca0799964188dd53fa96c5e9ba1a9626 1612611770
+obj /usr/share/info/tar.info-1.xz 8e754d0cef0dbac7789c0603918de262 1612611770
+obj /usr/share/info/tar.info.xz 50fc1fd834caa5030eee146c3df673b8 1612611770
+dir /usr/share/doc
+dir /usr/share/doc/tar-1.32-r1
+obj /usr/share/doc/tar-1.32-r1/AUTHORS.xz 781c32cbbf8700d8363028a73b2301c1 1612611771
+obj /usr/share/doc/tar-1.32-r1/NEWS.xz c600758f231f02bb36fb974603ae6e61 1612611771
+obj /usr/share/doc/tar-1.32-r1/README.xz fc2e936f5d8110b3f396b62112e4bcc8 1612611771
+obj /usr/share/doc/tar-1.32-r1/TODO.xz 74d40f4475fc2d22e180039959a34b65 1612611771
+obj /usr/share/doc/tar-1.32-r1/ChangeLog.xz f68f62b6dca273bff6a34a6f94bba202 1612611771
+obj /usr/share/doc/tar-1.32-r1/THANKS.xz cd70dd59cc08769569bdb98ff3992ea9 1612611771
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/tar.1.xz d7b4d248f57b380e2b358d8bcbfcdfa8 1612611770
+dir /usr/share/man/man8
+obj /usr/share/man/man8/rmt.8.xz 4076cb24434d35740d699e0377d241fc 1612611770
+dir /usr/sbin
+obj /usr/sbin/dump-remind edfe7d6049da2ce05fc076261fa55d81 1612611770
+obj /usr/sbin/restore-tar edcf53373a0b571ff8f5faae2d0d04a3 1612611770
+obj /usr/sbin/backup.sh eafd29173f1bac5630312a3aa12c4d7d 1612611770
+obj /usr/sbin/backup-tar 6480bf40fda4aabe58f3b4e153bffa46 1612611770
+obj /usr/sbin/rmt c6d6659796748a3cfc656c08dea80003 1612611772
+dir /bin
+obj /bin/tar 706bb2bc42deedbf7cc87ff382174b14 1612611772

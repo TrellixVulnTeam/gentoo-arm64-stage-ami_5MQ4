@@ -1,0 +1,1 @@
+-O2 -pipe -fno-ident -fexcess-precision=fast -fomit-frame-pointer -mcpu=native --param l1-cache-size=64 --param l1-cache-line-size=64 --param l2-cache-size=1024 -flto -fuse-linker-plugin -fvisibility-inlines-hidden -fwrapv

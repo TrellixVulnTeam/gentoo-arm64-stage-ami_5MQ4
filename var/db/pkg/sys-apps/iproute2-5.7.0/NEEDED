@@ -1,0 +1,15 @@
+/sbin/devlink libmnl.so.0,libc.so.6,ld-linux-aarch64.so.1
+/sbin/rdma libmnl.so.0,libc.so.6,ld-linux-aarch64.so.1
+/sbin/genl libbsd.so.0,libmnl.so.0,libdl.so.2,libc.so.6,ld-linux-aarch64.so.1
+/sbin/ifstat libmnl.so.0,libm.so.6,libc.so.6,ld-linux-aarch64.so.1
+/sbin/tipc libmnl.so.0,libc.so.6,ld-linux-aarch64.so.1
+/sbin/lnstat libc.so.6,ld-linux-aarch64.so.1
+/sbin/rtacct libm.so.6,libc.so.6,ld-linux-aarch64.so.1
+/sbin/ss libbsd.so.0,libmnl.so.0,libc.so.6,ld-linux-aarch64.so.1
+/sbin/tc libbsd.so.0,libmnl.so.0,libm.so.6,libdl.so.2,libxtables.so.12,libc.so.6,ld-linux-aarch64.so.1
+/sbin/bridge libmnl.so.0,libc.so.6,ld-linux-aarch64.so.1
+/sbin/rtmon libmnl.so.0,libc.so.6,ld-linux-aarch64.so.1
+/sbin/nstat libmnl.so.0,libm.so.6,libc.so.6,ld-linux-aarch64.so.1
+/bin/ip libbsd.so.0,libmnl.so.0,libdl.so.2,libc.so.6,ld-linux-aarch64.so.1
+/usr/bin/arpd libmnl.so.0,libdb-5.3.so,libc.so.6,ld-linux-aarch64.so.1
+/lib64/tc/m_xt.so libxtables.so.12,libc.so.6,ld-linux-aarch64.so.1

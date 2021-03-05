@@ -1,0 +1,26 @@
+dir /usr
+dir /usr/share
+dir /usr/share/info
+obj /usr/share/info/make.info-2.xz 3ab11ee0655f41f93f767ecc5966a050 1612610785
+obj /usr/share/info/make.info.xz 1317b98942020a9e8e7994785fb3dae3 1612610785
+obj /usr/share/info/make.info-1.xz cb2bf9122280c5457791dd257afdba80 1612610785
+dir /usr/share/doc
+dir /usr/share/doc/make-4.3
+obj /usr/share/doc/make-4.3/AUTHORS.xz 5cc277b96d5518711783f885d9a58969 1612610785
+obj /usr/share/doc/make-4.3/NEWS.xz 119446f3bb738f2ee3f8b7b4727fe823 1612610785
+obj /usr/share/doc/make-4.3/README.xz c9ac70e966571ca2d32fbc8f5fbdf365 1612610785
+obj /usr/share/doc/make-4.3/README.OS2.xz f116dc5b65d8b80034a2fccc278e44f9 1612610785
+obj /usr/share/doc/make-4.3/README.DOS.xz aecc20e6649efed8f2173a327491c92b 1612610785
+obj /usr/share/doc/make-4.3/README.VMS.xz af37400f01ca4ebd60d4f9f87ee54329 1612610785
+obj /usr/share/doc/make-4.3/README.W32.xz e5191ee4370de3969e69bf7e685d2d45 1612610785
+obj /usr/share/doc/make-4.3/README.customs.xz 70f9275a185697fce30e6e52bb15ab06 1612610785
+obj /usr/share/doc/make-4.3/README.Amiga.xz d82eefbe692d3f3e2dadc0328ab4dfc1 1612610785
+dir /usr/share/man
+dir /usr/share/man/man1
+sym /usr/share/man/man1/make.1.xz -> gmake.1.xz 1612610786
+obj /usr/share/man/man1/gmake.1.xz 8e3557323a63ca82176ae9dbeaf68176 1612610785
+dir /usr/include
+obj /usr/include/gnumake.h 50a8b7f2aea2df14eee5fc11d5516a87 1612610785
+dir /usr/bin
+sym /usr/bin/make -> gmake 1612610785
+obj /usr/bin/gmake 90278f5a72d07ac2d889e27ecf1089f5 1612610786

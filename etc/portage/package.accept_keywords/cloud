@@ -1,0 +1,3 @@
+app-emulation/cloud-init	~arm64
+net-analyzer/macchanger		~arm64
+sys-apps/haveged		amd64

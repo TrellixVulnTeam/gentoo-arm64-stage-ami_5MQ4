@@ -1,0 +1,73 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/attrs-20.3.0
+obj /usr/share/doc/attrs-20.3.0/README.rst.xz e978a1f8917640ce67e92de767c53fee 1613461643
+dir /usr/lib
+dir /usr/lib/python3.8
+dir /usr/lib/python3.8/site-packages
+dir /usr/lib/python3.8/site-packages/attrs-20.3.0-py3.8.egg-info
+obj /usr/lib/python3.8/site-packages/attrs-20.3.0-py3.8.egg-info/top_level.txt edf1e2b352ada96b2e7b6da09f5fefac 1613461642
+obj /usr/lib/python3.8/site-packages/attrs-20.3.0-py3.8.egg-info/requires.txt 17c40977c6e5251e81bfd045f0ac39b0 1613461642
+obj /usr/lib/python3.8/site-packages/attrs-20.3.0-py3.8.egg-info/not-zip-safe 68b329da9893e34099c7d8ad5cb9c940 1445000650
+obj /usr/lib/python3.8/site-packages/attrs-20.3.0-py3.8.egg-info/dependency_links.txt 68b329da9893e34099c7d8ad5cb9c940 1613461642
+obj /usr/lib/python3.8/site-packages/attrs-20.3.0-py3.8.egg-info/SOURCES.txt 4e37530a1744664958c853f0da5a3d31 1613461643
+obj /usr/lib/python3.8/site-packages/attrs-20.3.0-py3.8.egg-info/PKG-INFO 67e257c821b9e22dde3187cfdcd282c5 1613461642
+dir /usr/lib/python3.8/site-packages/attr
+dir /usr/lib/python3.8/site-packages/attr/__pycache__
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/validators.cpython-38.opt-2.pyc 1b876993f22f7e22ba5babf999cdf2c6 1613461642
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/setters.cpython-38.opt-2.pyc 70503f4e65a538125d81a8fb0d35f9cb 1613461642
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/filters.cpython-38.opt-2.pyc 1fd7370ee3da862c18e77a4c69904b76 1613461642
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/exceptions.cpython-38.opt-2.pyc 5a6dccd58cf7e7eebb035c6e1adb3133 1613461642
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/converters.cpython-38.opt-2.pyc d6eb15eccd8e25f85a85639661d01b2d 1613461642
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/_version_info.cpython-38.opt-2.pyc 2f082b058fc980cd8cc24630b9e559d8 1613461642
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/_next_gen.cpython-38.opt-2.pyc e8821e08d0265d63e25ea19d290c3e71 1613461642
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/_make.cpython-38.opt-2.pyc fe455b6b52d021253ecc0d5c41fbd77c 1613461642
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/_funcs.cpython-38.opt-2.pyc 3feef981bd852684d3dbce346f31c47a 1613461642
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/_config.cpython-38.opt-2.pyc 6f9f9c252de9ad197c1741cdd10a00ba 1613461642
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/_compat.cpython-38.opt-2.pyc 8892cd1a90707cc685e28ad1377cccc5 1613461642
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/__init__.cpython-38.opt-2.pyc 0e21e57d6e8238d05a76ee665d6a3a5d 1613461642
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/validators.cpython-38.opt-1.pyc 1b876993f22f7e22ba5babf999cdf2c6 1613461642
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/setters.cpython-38.opt-1.pyc 70503f4e65a538125d81a8fb0d35f9cb 1613461642
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/filters.cpython-38.opt-1.pyc 1fd7370ee3da862c18e77a4c69904b76 1613461642
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/exceptions.cpython-38.opt-1.pyc 5a6dccd58cf7e7eebb035c6e1adb3133 1613461642
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/converters.cpython-38.opt-1.pyc d6eb15eccd8e25f85a85639661d01b2d 1613461642
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/_version_info.cpython-38.opt-1.pyc 2f082b058fc980cd8cc24630b9e559d8 1613461642
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/_next_gen.cpython-38.opt-1.pyc e8821e08d0265d63e25ea19d290c3e71 1613461642
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/_make.cpython-38.opt-1.pyc fe455b6b52d021253ecc0d5c41fbd77c 1613461642
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/_funcs.cpython-38.opt-1.pyc 3feef981bd852684d3dbce346f31c47a 1613461642
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/_config.cpython-38.opt-1.pyc 6f9f9c252de9ad197c1741cdd10a00ba 1613461642
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/_compat.cpython-38.opt-1.pyc 8892cd1a90707cc685e28ad1377cccc5 1613461642
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/__init__.cpython-38.opt-1.pyc 0e21e57d6e8238d05a76ee665d6a3a5d 1613461642
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/validators.cpython-38.pyc 772308a8cf202d69d7bd2028a7be9989 1613461642
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/setters.cpython-38.pyc e4ddcf051a556d1ec371a8ad08b8e394 1613461642
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/filters.cpython-38.pyc b1b633309780c9c31dcaf80ec903be69 1613461642
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/exceptions.cpython-38.pyc fc7247180c7302ef2e4f59c7e25c01f9 1613461642
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/converters.cpython-38.pyc 277562bfe8641fd33b0120d6794325ec 1613461642
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/_version_info.cpython-38.pyc 245892b402f080898097659c797d7522 1613461642
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/_next_gen.cpython-38.pyc 6317abe8b29364fdbf1f6c903e610684 1613461642
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/_make.cpython-38.pyc 452ee93c3d5b2b84073d67ba855d18f9 1613461642
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/_funcs.cpython-38.pyc cf6335c6522fc5f56e92e6d75482cf61 1613461642
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/_config.cpython-38.pyc fbf09e1db74462e99a2f72ac66a4b309 1613461642
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/_compat.cpython-38.pyc 78a411e4e07cedc235d62bd9336521b5 1613461642
+obj /usr/lib/python3.8/site-packages/attr/__pycache__/__init__.cpython-38.pyc 6f1063620bc51a6c365e355fdd75c93a 1613461642
+obj /usr/lib/python3.8/site-packages/attr/validators.pyi c20d84dadb2c346f055a3724db021536 1585468609
+obj /usr/lib/python3.8/site-packages/attr/setters.pyi 8a10c55be424efea96f4f19f60875556 1595335066
+obj /usr/lib/python3.8/site-packages/attr/py.typed d41d8cd98f00b204e9800998ecf8427e 1531391333
+obj /usr/lib/python3.8/site-packages/attr/filters.pyi 5c47098f9546616baeaa08ebf7cd5a67 1539936733
+obj /usr/lib/python3.8/site-packages/attr/exceptions.pyi 6cbe49e6589682f720aa0413a26d8f20 1595241822
+obj /usr/lib/python3.8/site-packages/attr/converters.pyi 89a460abd8542619d4f97e5895d025aa 1595335175
+obj /usr/lib/python3.8/site-packages/attr/_version_info.pyi ea38221124a8a90c1fa60b3e4940cdf4 1585468609
+obj /usr/lib/python3.8/site-packages/attr/__init__.pyi 066a2cfe372ffe93e2e330d02bb64b5c 1604404638
+obj /usr/lib/python3.8/site-packages/attr/validators.py 7186bef494f8015027ca4de044a3379c 1595241822
+obj /usr/lib/python3.8/site-packages/attr/setters.py 1f048a1c61c8576e7fea7286c50732af 1595241822
+obj /usr/lib/python3.8/site-packages/attr/filters.py b819d6e1969e912cee4a6a063b817686 1585468609
+obj /usr/lib/python3.8/site-packages/attr/exceptions.py 7ee7142bae18da5f43b34c9f3c72a0fc 1595241822
+obj /usr/lib/python3.8/site-packages/attr/converters.py 0e9ddc9beff63747f692de93453200b6 1595335103
+obj /usr/lib/python3.8/site-packages/attr/_version_info.py 68fbf3f872f402eff14155c137fce517 1585468609
+obj /usr/lib/python3.8/site-packages/attr/_next_gen.py f811134eb12ada4a68258adf1530f685 1602829149
+obj /usr/lib/python3.8/site-packages/attr/_make.py a108081e2a4b45b6588771c3f73e7c7f 1604480104
+obj /usr/lib/python3.8/site-packages/attr/_funcs.py cd0908a5abf4f3671cf6885430c7ec70 1603255681
+obj /usr/lib/python3.8/site-packages/attr/_config.py 8d66c97485014bfe09a9b068a48ea730 1571300940
+obj /usr/lib/python3.8/site-packages/attr/_compat.py a9aa145579aa96d9fb540aa5983731b1 1604484964
+obj /usr/lib/python3.8/site-packages/attr/__init__.py 135ac1a386a2b7c78539a322749882f1 1604570377

@@ -1,0 +1,81 @@
+dir /usr
+dir /usr/share
+dir /usr/share/info
+obj /usr/share/info/autoconf-2.69.info.xz 1e7039ca3d1eda4f535806ab2ae397d3 1612612217
+obj /usr/share/info/standards-2.69.info.xz 102c458c3b82d8de2a2c396baaab157e 1612612217
+dir /usr/share/autoconf-2.69
+dir /usr/share/autoconf-2.69/autoconf
+obj /usr/share/autoconf-2.69/autoconf/types.m4 a31ee5ed977e2557daf8860bce8fa0ac 1612612216
+obj /usr/share/autoconf-2.69/autoconf/autoconf.m4f 0e885046af5021c370eaa5ea5dc0fc5b 1612612216
+obj /usr/share/autoconf-2.69/autoconf/erlang.m4 069e4c60419874989b5f36997b86c348 1612612216
+obj /usr/share/autoconf-2.69/autoconf/autoconf.m4 f8cda2c0bb3f94828350b77aac1e834a 1612612216
+obj /usr/share/autoconf-2.69/autoconf/libs.m4 96358447a9268023edba4484280e35cb 1612612216
+obj /usr/share/autoconf-2.69/autoconf/autoscan.m4 52e7313124a53bdc959c11e331ec28f1 1612612216
+obj /usr/share/autoconf-2.69/autoconf/autoupdate.m4 86ef31b879c53ad90e8be1ff36b0ecf4 1612612216
+obj /usr/share/autoconf-2.69/autoconf/oldnames.m4 d69b3e220049ff2249e20f3fdf6a8585 1612612216
+obj /usr/share/autoconf-2.69/autoconf/autoheader.m4 2b6cb9598dfc9f3007c8c7a25df6ed83 1612612216
+obj /usr/share/autoconf-2.69/autoconf/headers.m4 8a08b7b69cf4d581bfcc7f2b99f92d69 1612612216
+obj /usr/share/autoconf-2.69/autoconf/status.m4 5c4d196ea3e056786b90d12129598882 1612612216
+obj /usr/share/autoconf-2.69/autoconf/functions.m4 74a751e9dc477f94476b41896d634cf9 1612612216
+obj /usr/share/autoconf-2.69/autoconf/autotest.m4 062430bd78e078e60b44da107b02f099 1612612216
+obj /usr/share/autoconf-2.69/autoconf/lang.m4 04580bdc50623cdf8f4207aa172bc17a 1612612216
+obj /usr/share/autoconf-2.69/autoconf/programs.m4 cbd91b6b850d9479260391c3926d5dfe 1612612216
+obj /usr/share/autoconf-2.69/autoconf/general.m4 5ddf36017d2c1b5dc234aecf4258f264 1612612216
+obj /usr/share/autoconf-2.69/autoconf/fortran.m4 49967451ce74fa270e119d6534140ad8 1612612216
+obj /usr/share/autoconf-2.69/autoconf/go.m4 d6a37e03ed0837c0f21dac1beb3841d8 1612612216
+obj /usr/share/autoconf-2.69/autoconf/specific.m4 8dc5c47a1300ba2ee93ab2656bef9609 1612612216
+obj /usr/share/autoconf-2.69/autoconf/c.m4 0cb194c2c2eb63a8a0f748d22d9d9cc3 1612612216
+dir /usr/share/autoconf-2.69/autotest
+obj /usr/share/autoconf-2.69/autotest/autotest.m4 b84fdc70924c713f9dd226a77484b5c4 1612612216
+obj /usr/share/autoconf-2.69/autotest/general.m4 81dc4fcdfb840414a953eba840636b0e 1612612216
+obj /usr/share/autoconf-2.69/autotest/specific.m4 628d029049a03882d4d2729a5ae0ad2e 1612612216
+obj /usr/share/autoconf-2.69/autotest/autotest.m4f 5a19f44da4834079743a52eb1e41e7b7 1612612216
+obj /usr/share/autoconf-2.69/autom4te.cfg fb53d22784ec9df371019b7003c86297 1612612216
+dir /usr/share/autoconf-2.69/autoscan
+obj /usr/share/autoconf-2.69/autoscan/autoscan.list 630b08235cd3df19e549b20c2885bfaa 1612612216
+dir /usr/share/autoconf-2.69/m4sugar
+obj /usr/share/autoconf-2.69/m4sugar/foreach.m4 1331030e9b1ec1531a9a63fb91c3c4ae 1612612216
+obj /usr/share/autoconf-2.69/m4sugar/m4sugar.m4 5b9c3591ef55c5d5afebdebc64fe6bd8 1612612216
+obj /usr/share/autoconf-2.69/m4sugar/m4sh.m4f 2f429de695b6216d2a52fd9bdd833b56 1612612216
+obj /usr/share/autoconf-2.69/m4sugar/version.m4 b13d513c4c1541180e3f212fe4534d4e 1612612216
+obj /usr/share/autoconf-2.69/m4sugar/m4sh.m4 b647abee41e64a32499b99763abad888 1612612216
+obj /usr/share/autoconf-2.69/m4sugar/m4sugar.m4f 204142099b05a827bc326522655d09e8 1612612216
+obj /usr/share/autoconf-2.69/INSTALL ce6ce0281045fd70ce467094f18def1a 1612612216
+dir /usr/share/autoconf-2.69/Autom4te
+obj /usr/share/autoconf-2.69/Autom4te/ChannelDefs.pm 241a179ccb52118121f19cceda6155b0 1612612216
+obj /usr/share/autoconf-2.69/Autom4te/FileUtils.pm de1e8b79eaf2a5f96425aad07bac4b24 1612612216
+obj /usr/share/autoconf-2.69/Autom4te/Getopt.pm c9918ffdff756c91ac734824aebc60e7 1612612216
+obj /usr/share/autoconf-2.69/Autom4te/XFile.pm fc8a5743d8b2396b3cbe1b6313f371f0 1612612216
+obj /usr/share/autoconf-2.69/Autom4te/General.pm 35ac9e04ed149d7c5cdd48a5fde5b8a7 1612612216
+obj /usr/share/autoconf-2.69/Autom4te/Configure_ac.pm 53a780b579f2bb58a679ae1b8a076d44 1612612216
+obj /usr/share/autoconf-2.69/Autom4te/Request.pm 6edb11ed176b6b7cfbbdc1935eb05bd9 1612612216
+obj /usr/share/autoconf-2.69/Autom4te/Channels.pm e21a73685ef9d36617581e567ef008d2 1612612216
+obj /usr/share/autoconf-2.69/Autom4te/C4che.pm 4127faac7c3e9a70101af69ea3d2df67 1612612216
+dir /usr/share/doc
+dir /usr/share/doc/autoconf-2.69-r5
+obj /usr/share/doc/autoconf-2.69-r5/AUTHORS.xz 5b9ed27a61b70520b8e7e19f997c26af 1612612216
+obj /usr/share/doc/autoconf-2.69-r5/NEWS.xz e6961903bb680f2122d12c23c25e056b 1612612216
+obj /usr/share/doc/autoconf-2.69-r5/BUGS.xz 6eef1f94a9fc861854f36182cfc018f1 1612612217
+obj /usr/share/doc/autoconf-2.69-r5/README.xz d83caddd072d41746c787d683565586e 1612612216
+obj /usr/share/doc/autoconf-2.69-r5/TODO.xz 85ae118135ad9eb0b988d7ffdcab61f0 1612612216
+obj /usr/share/doc/autoconf-2.69-r5/ChangeLog.xz e47d598802e8833fb1a7ec07105d126a 1612612216
+obj /usr/share/doc/autoconf-2.69-r5/THANKS.xz edc8ab75e7f408163257069d74c4e00b 1612612217
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/autoscan-2.69.1.xz 0c443941529b7ffdf6fd496d7ef82194 1612612216
+obj /usr/share/man/man1/config.guess-2.69.1.xz 42947a75ad9c83e0fdbf1b99d7baad5e 1612612216
+obj /usr/share/man/man1/config.sub-2.69.1.xz 203a01690decf3aee4ec6f76eee29de7 1612612216
+obj /usr/share/man/man1/autoreconf-2.69.1.xz 8be2fe268291ecf8cb82bfd2b13ef021 1612612216
+obj /usr/share/man/man1/autom4te-2.69.1.xz 7a9a2a2d6c299d1602c9dcfee62484c7 1612612216
+obj /usr/share/man/man1/autoconf-2.69.1.xz 8e2ae0b6a22c87e9ff92cb02bd04ea43 1612612216
+obj /usr/share/man/man1/autoheader-2.69.1.xz 58baadc39d99934383a08057c955168a 1612612216
+obj /usr/share/man/man1/ifnames-2.69.1.xz 04f4d6dabe49ce8ca6c02c881856cf1d 1612612216
+obj /usr/share/man/man1/autoupdate-2.69.1.xz 67414b25c7e82e6f869e12ae1b4a123e 1612612216
+dir /usr/bin
+obj /usr/bin/ifnames-2.69 ad180b5eef7ecad19355614be82509cd 1612612216
+obj /usr/bin/autom4te-2.69 e4d16449411d6a99b688b1edd7351eaf 1612612216
+obj /usr/bin/autoreconf-2.69 9d7a29cb0eab65241b5327bdb7fadfc2 1612612216
+obj /usr/bin/autoupdate-2.69 b65c713f51d3e3e093ce18a0c83adbaf 1612612216
+obj /usr/bin/autoconf-2.69 f4f1e644e54552f1749f8f14ed9e0eae 1612612216
+obj /usr/bin/autoscan-2.69 7532be8a0145636bcedc5f398c3f7e4f 1612612216
+obj /usr/bin/autoheader-2.69 cb3e52b002ab620232dad0c870543bd2 1612612216

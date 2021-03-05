@@ -1,0 +1,155 @@
+dir /usr
+dir /usr/lib64
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/libexslt.pc 88fddca27a8058d7f712afab1dcb054e 1612616959
+obj /usr/lib64/pkgconfig/libxslt.pc d3e6c5d15763dd68162bdc71d94c4aa4 1612616959
+sym /usr/lib64/libexslt.so -> libexslt.so.0.8.20 1612616958
+sym /usr/lib64/libxslt.so -> libxslt.so.1.1.34 1612616957
+sym /usr/lib64/libexslt.so.0 -> libexslt.so.0.8.20 1612616958
+obj /usr/lib64/xsltConf.sh 857dc87436f204fe5ba89f951c3e1d52 1612616959
+obj /usr/lib64/libexslt.so.0.8.20 f4cbeff1e836e9f477f714749887c528 1612616960
+dir /usr/lib64/libxslt-plugins
+obj /usr/lib64/libxslt.so.1.1.34 0b2d0d8433834573840ed94fe049ba5f 1612616960
+sym /usr/lib64/libxslt.so.1 -> libxslt.so.1.1.34 1612616957
+dir /usr/share
+dir /usr/share/aclocal
+obj /usr/share/aclocal/libxslt.m4 7b0b8b6bd86eea30c617663c9e9439b3 1612616959
+dir /usr/share/doc
+dir /usr/share/doc/libxslt-1.1.34-r1
+obj /usr/share/doc/libxslt-1.1.34-r1/AUTHORS.xz e474d6d113c7df0041c4c57b20510520 1612616959
+obj /usr/share/doc/libxslt-1.1.34-r1/NEWS.xz 10e8fe22c47b66caeb68061e8e0a9bde 1612616959
+obj /usr/share/doc/libxslt-1.1.34-r1/README.xz 56f3ef3f5deff521dfe4af34e7cc48e3 1612616959
+obj /usr/share/doc/libxslt-1.1.34-r1/TODO.xz 3e4ad883fdcc29245393d44846981628 1612616959
+obj /usr/share/doc/libxslt-1.1.34-r1/ChangeLog.xz c216f0f2f1d0b6c6c79875e4d876aadc 1612616959
+obj /usr/share/doc/libxslt-1.1.34-r1/FEATURES.xz f771186b4af992d384a072483fca3fe0 1612616959
+dir /usr/share/doc/libxslt-1.1.34-r1/html
+obj /usr/share/doc/libxslt-1.1.34-r1/html/contribs.html 06426656757dfa9d63e2e25f7cc86496 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/FAQ.html 02feaf8ed528b4fffb1537866b1bd55f 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/xsltproc2.html 860eef94cf4ea84717452da3b6b0019e 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/downloads.html d1088704f6d439cec1a0a1b6444d50ba 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/APIchunk6.html 3748fd39dfb4dc99453e0287548d42ca 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/intro.html ca05691aa5682537e9e4d1c62f9e7a6a 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/redhat.gif dd0216f442bf6845c103aba1b4bcb869 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/APIchunk0.html 393346f160807a1dda5fb31574ee1457 1612616958
+dir /usr/share/doc/libxslt-1.1.34-r1/html/EXSLT
+obj /usr/share/doc/libxslt-1.1.34-r1/html/EXSLT/downloads.html 1393428e523072adf4fcb9433fb71273 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/EXSLT/intro.html 52af4215ed80a6e36269ea879dbf23e3 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/EXSLT/APIchunk0.html 7931b430411ef347e2080f39f7bbc6f7 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/EXSLT/help.html c7e39df0856121711d7bb92a408ed320 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/EXSLT/index.html 64d9d65df45301a81c181d213ceef803 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/EXSLT/APIsymbols.html 6669114987760e2853aff651b6c22377 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/EXSLT/APIfiles.html 8aafc65876afb28aff473f1502d067e8 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/EXSLT/exslt.html b267dcf1f3e36874bbcb67db54447411 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/EXSLT/APIfunctions.html a123fcaaa9396c834261eb0f734f65cf 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/EXSLT/APIconstructors.html 75b44d45225e2435c8cbccdb6aa617f0 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/EXSLT/bugs.html d7a0c23b923175a4055c311c219b3137 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/EXSLT/docs.html fc3defa0e87648748becf6092ec86487 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/xslt.html 1deceec55c7f85078216bf23dde147d9 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/docbook.html 9ca15cdd191b5acf369be447c4f27044 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/API.html 205e063f09d60a36b44a61c6b7af0af9 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/templates.gif e1ac04018d8f602adbd28a72153f9956 1612616958
+dir /usr/share/doc/libxslt-1.1.34-r1/html/tutorial2
+obj /usr/share/doc/libxslt-1.1.34-r1/html/tutorial2/libxslt_pipes.xml 0c0faafe5595b19ebe09f6110fe3a7fd 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/tutorial2/libxslt_pipes.html ac0dc678b3ab0da56681555c51e6fa64 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/tutorial2/libxslt_pipes.c 01a91d21b5e9a1e2259752d5325feaf0 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/python.html b96f9c0b03998d5eab3d0becdda47f8c 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/object.gif 879905dbfdc584f7a8543b7804cc3ff4 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/Libxslt-Logo-180x168.gif e6f8bb7e4a5a426380d387adaedadad9 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/help.html 0230faa6b8697315ba13452f96d66192 1612616958
+dir /usr/share/doc/libxslt-1.1.34-r1/html/tutorial
+obj /usr/share/doc/libxslt-1.1.34-r1/html/tutorial/libxslttutorial.html ee8ec694b4a88c4b6503f5301c998ecd 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/tutorial/libxslt_tutorial.c 0c3d2acbfb0be23b984c695600170d16 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/tutorial/libxslttutorial.xml 7f3bb19c2dcc54c5f76e953a65dbd339 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/contexts.gif 8d882ee509aaba54abf791a312fdb617 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/extensions.html bf062b7b72aeffcf356d06d7c859d46d 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/APIchunk2.html 017db5ec517e094b99eeea4b7f494348 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/node.gif e0b48d09fa64e4a64831c42c4f9e6331 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/index.html 28ef54704508981bac11ae159e5a1bdb 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/APIchunk12.html 1257ecf31f3ce181cac700a9b1674484 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/APIsymbols.html b1488e9773ab063203a9a9660e34c376 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/APIfiles.html 2eab4f8035f681bd9e8428311ba452f5 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/news.html c911411e4f3c62463442db3471622e47 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/xsltproc.html fa713b8a3fd6b30a19319a821d7bb238 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/APIchunk3.html 951071214af1942ef8d12c8d6e87f2a3 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/smallfootonly.gif e92b022a99a76d6fceeb35576bb7718f 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/APIchunk5.html 1e751df6345f2e6ae2f80d01ea4699b9 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/APIfunctions.html 4ab0b09bfc13d94f19dc2e390c1f54c8 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/APIconstructors.html bbacba9196901ab4df80744ded578d38 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/APIchunk7.html bb08a461eb51ca86034d7898eaa9779c 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/internals.html f009fed1b132f80788bfcc8e6ff735f9 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/Libxslt-Logo-90x34.gif 6b3ac58ce6c3e622db3dbf83d127f1ac 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/APIchunk4.html 035ac12ab5d1974ebf1a029ac1dee309 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/APIchunk10.html b2989e9c9c581006aecf89fe5360adbd 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/bugs.html 59f370f68224527bd966172ad84720fd 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/APIchunk11.html 3d13e19d8f480f37025f27d708c05fab 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/docs.html 9869f684c46bf9159de17319e94118a2 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/stylesheet.gif 15a7ac6844ef2b2a7f601ed6cb6cb277 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/processing.gif e6924e110962e92a04d6d3f1f1196b31 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/APIchunk9.html a45286d30316b24772a148d9ab3b107e 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/APIchunk1.html bc91cf0e6e08b6df806ca76efb1bf6f1 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/APIchunk8.html 80b83f24130a9adc03151245c71be0b4 1612616958
+dir /usr/share/doc/libxslt-1.1.34-r1/html/html
+obj /usr/share/doc/libxslt-1.1.34-r1/html/html/libxslt-namespaces.html 9f9397c7bb231cf0f99fe99457c5f8d8 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/html/libxslt-security.html e2aa152b3b51ba0e836f70e5ffb07086 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/html/right.png ebd7e6d206d73850d77d305ab548f957 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/html/libxslt-functions.html 30a16899d9a4aff2819a25301dcfa599 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/html/libxslt-transform.html d5dd4737d05b79fecb4641cb9d862ce4 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/html/libxslt-numbersInternals.html 69c3debdded54f0ea07690e3b6a59fbb 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/html/libxslt-preproc.html 3afc35f88d6394abb5344420696d560d 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/html/book1.html 4ac64efce7a076016eee8b91c65f19d4 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/html/libxslt-templates.html a62b46da774c809cca2108b24ca7683c 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/html/libxslt-imports.html 496f606d9a344631b9bba167b4c9f14d 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/html/libxslt-variables.html e8af85513e6e615ac9baa687cc76da78 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/html/index.html 4ac64efce7a076016eee8b91c65f19d4 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/html/libxslt-extra.html 49d72e4b1f453b324c9d73ddbabbccd6 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/html/libxslt-extensions.html bcda217cdad6c77d228e6540474e510f 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/html/libxslt-lib.html 4ac64efce7a076016eee8b91c65f19d4 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/html/libxslt-attributes.html a2dc8fa8e1482a6614e2febd235e9b72 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/html/libxslt-xsltlocale.html f4416a46860870961418ef64d4fc191a 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/html/libxslt-xsltutils.html 37364ec86deb0b6d41a65f012fccdbb5 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/html/libxslt-xsltexports.html 94a5ea4215bd82f9282919092f4abcf6 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/html/libxslt-xsltInternals.html bdeaba0346b5eeb0fe469eb6b5e5fe8a 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/html/home.png f6192f4292d744423df690e785d60fdf 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/html/left.png f771308152ab24a69682daed70ce136d 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/html/libxslt-pattern.html 908ed0ae7ca6e3e805c682a0191a0d38 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/html/up.png 2f07d9272deb4ae870ca6821117877fa 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/html/libxslt-xslt.html efc4daad4e8a928c3d4a6ed699411af1 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/html/libxslt-documents.html ff5544c5c06db000e21cffc45496e0e3 1612616958
+obj /usr/share/doc/libxslt-1.1.34-r1/html/html/libxslt-keys.html 92ed5acbac225c7cb4ace6ff02d41e69 1612616958
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/xsltproc.1.xz f63a183e1d1ba09e2751ec3e79ccfe4c 1612616958
+dir /usr/share/man/man3
+obj /usr/share/man/man3/libxslt.3.xz ead9755cce87df75b82f6c1d36105645 1612616957
+obj /usr/share/man/man3/libexslt.3.xz d1ecc66cd0444a072c355b3c66a494ad 1612616957
+dir /usr/include
+dir /usr/include/libxslt
+obj /usr/include/libxslt/keys.h 77a11ee3de841d02d3461b829cfcc11e 1612616957
+obj /usr/include/libxslt/numbersInternals.h 27c2c21ab1535f84710fe1c8c8829018 1612616957
+obj /usr/include/libxslt/xslt.h 0c08b8e7223b72f822a58457520b6387 1612616957
+obj /usr/include/libxslt/pattern.h adf6b78e6c68a7d34ae680f6dc3f5240 1612616957
+obj /usr/include/libxslt/xsltconfig.h 155678f6b4139cdbc98462ac29615cbd 1612616957
+obj /usr/include/libxslt/xsltexports.h 751f95448e71222d8e10d31ebf8822df 1612616957
+obj /usr/include/libxslt/extensions.h 0396b6be07f707b0c6ee171a63b2e520 1612616957
+obj /usr/include/libxslt/preproc.h 829de337aca8b15f699708e6b7340549 1612616957
+obj /usr/include/libxslt/security.h 1b24b61ea6afe01d18c647c94b1245c7 1612616957
+obj /usr/include/libxslt/xsltInternals.h 0c245b0fcc81bf537632a45adf8fcffb 1612616957
+obj /usr/include/libxslt/functions.h 052fd28e9971416b2bbebdc3d1103c4e 1612616957
+obj /usr/include/libxslt/imports.h 66e26ad969e3c37fdeedcbc2716d7cf3 1612616957
+obj /usr/include/libxslt/templates.h 6901f4c8fad239b588b9f6d4cdfef5ac 1612616957
+obj /usr/include/libxslt/namespaces.h c784b4b8e80274491fe023ce26d4847b 1612616957
+obj /usr/include/libxslt/variables.h ebd9b3b1f996c4a2ed79d4473ff0fd77 1612616957
+obj /usr/include/libxslt/documents.h 22a35bd1102fd1ac301e50cf650a8b8a 1612616957
+obj /usr/include/libxslt/transform.h ccbcce4553f3231003b1944002814246 1612616957
+obj /usr/include/libxslt/xsltlocale.h d7b200e408cefe5082b15d3a5e1bf600 1612616957
+obj /usr/include/libxslt/extra.h 94fe9ce1c0c47724aae4a1bcb8c29433 1612616957
+obj /usr/include/libxslt/xsltutils.h 5f7848088182b183e6d1fdb335b2616a 1612616957
+obj /usr/include/libxslt/attributes.h 32e43c08f66b85266c391301d322a21f 1612616957
+dir /usr/include/libexslt
+obj /usr/include/libexslt/exsltconfig.h 3dfe47466452a830a77a52c399d45d63 1612616957
+obj /usr/include/libexslt/exslt.h f01af3bf058520059ba6d50f42133717 1612616957
+obj /usr/include/libexslt/exsltexports.h 03a75a174bc5b056f014e592cfd4db36 1612616957
+dir /usr/bin
+obj /usr/bin/aarch64-ares-linux-gnu-xslt-config a5a10398bb65fa550fdda1cf557aa9ea 1612616959
+sym /usr/bin/xslt-config -> aarch64-ares-linux-gnu-xslt-config 1612616959
+obj /usr/bin/xsltproc 893e93be6c8dc2262c30281490523dc0 1612616960

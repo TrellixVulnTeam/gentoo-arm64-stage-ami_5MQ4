@@ -1,0 +1,19 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/rfc3986-validator-0.1.1
+obj /usr/share/doc/rfc3986-validator-0.1.1/README.md.xz 7be2d3d2d18cbfbcf116d859e0c4f017 1613461650
+dir /usr/lib
+dir /usr/lib/python3.8
+dir /usr/lib/python3.8/site-packages
+dir /usr/lib/python3.8/site-packages/rfc3986_validator-0.1.1-py3.8.egg-info
+obj /usr/lib/python3.8/site-packages/rfc3986_validator-0.1.1-py3.8.egg-info/top_level.txt f4bdad547414f342c3fa8f10e3438ce3 1613461649
+obj /usr/lib/python3.8/site-packages/rfc3986_validator-0.1.1-py3.8.egg-info/not-zip-safe 68b329da9893e34099c7d8ad5cb9c940 1572278395
+obj /usr/lib/python3.8/site-packages/rfc3986_validator-0.1.1-py3.8.egg-info/dependency_links.txt 68b329da9893e34099c7d8ad5cb9c940 1613461649
+obj /usr/lib/python3.8/site-packages/rfc3986_validator-0.1.1-py3.8.egg-info/SOURCES.txt 0e0dbad6633ede1b56b703488158b0bc 1613461649
+obj /usr/lib/python3.8/site-packages/rfc3986_validator-0.1.1-py3.8.egg-info/PKG-INFO 34d8151e1d5eba520ebb5bd180f3ea0b 1613461649
+dir /usr/lib/python3.8/site-packages/__pycache__
+obj /usr/lib/python3.8/site-packages/__pycache__/rfc3986_validator.cpython-38.opt-2.pyc 8bb7ced8023702deab08063e787d1f58 1613461649
+obj /usr/lib/python3.8/site-packages/__pycache__/rfc3986_validator.cpython-38.opt-1.pyc 8bb7ced8023702deab08063e787d1f58 1613461649
+obj /usr/lib/python3.8/site-packages/__pycache__/rfc3986_validator.cpython-38.pyc 2b113ab6a19a8c274ee8d1c5ba935be3 1613461649
+obj /usr/lib/python3.8/site-packages/rfc3986_validator.py 50f6681632f9361ada96f357761e24b3 1572277132

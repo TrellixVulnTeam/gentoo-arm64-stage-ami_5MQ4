@@ -1,0 +1,19 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/webcolors-1.11.1
+obj /usr/share/doc/webcolors-1.11.1/README.rst.xz ba1b6f4252e1ac3867429bddad8c10d6 1613461499
+dir /usr/lib
+dir /usr/lib/python3.8
+dir /usr/lib/python3.8/site-packages
+dir /usr/lib/python3.8/site-packages/webcolors-1.11.1-py3.8.egg-info
+obj /usr/lib/python3.8/site-packages/webcolors-1.11.1-py3.8.egg-info/dependency_links.txt 68b329da9893e34099c7d8ad5cb9c940 1613461499
+obj /usr/lib/python3.8/site-packages/webcolors-1.11.1-py3.8.egg-info/top_level.txt 107610d94be8f03a76b0329eeb9aa376 1613461499
+obj /usr/lib/python3.8/site-packages/webcolors-1.11.1-py3.8.egg-info/SOURCES.txt 3be5f55d0928a593cc0112ce0c09de82 1613461499
+obj /usr/lib/python3.8/site-packages/webcolors-1.11.1-py3.8.egg-info/not-zip-safe 68b329da9893e34099c7d8ad5cb9c940 1581956317
+obj /usr/lib/python3.8/site-packages/webcolors-1.11.1-py3.8.egg-info/PKG-INFO 1e5c512b827b8520fa2645507c76d09c 1613461499
+dir /usr/lib/python3.8/site-packages/__pycache__
+obj /usr/lib/python3.8/site-packages/__pycache__/webcolors.cpython-38.opt-2.pyc 71233cbbded0c4217fdedcfc489caeee 1613461499
+obj /usr/lib/python3.8/site-packages/__pycache__/webcolors.cpython-38.opt-1.pyc 71233cbbded0c4217fdedcfc489caeee 1613461499
+obj /usr/lib/python3.8/site-packages/__pycache__/webcolors.cpython-38.pyc 13845585001d047b6c708d7e423574df 1613461499
+obj /usr/lib/python3.8/site-packages/webcolors.py 089d35014778cccf73ebfbc71bc52d70 1581956190

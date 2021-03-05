@@ -1,0 +1,47 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/idna-2.10-r1
+obj /usr/share/doc/idna-2.10-r1/README.rst.xz a52767f4e498a3383348e120283c31ae 1612618239
+dir /usr/lib
+dir /usr/lib/python3.8
+dir /usr/lib/python3.8/site-packages
+dir /usr/lib/python3.8/site-packages/idna
+obj /usr/lib/python3.8/site-packages/idna/compat.py 2f0d04609da1142c3a3f74c336ea5744 1593301046
+obj /usr/lib/python3.8/site-packages/idna/uts46data.py 783e04a79bb43145731b33a3372f4e05 1593301051
+obj /usr/lib/python3.8/site-packages/idna/package_data.py 1a56c43e488b6aa863596fb0086b01b7 1593301273
+obj /usr/lib/python3.8/site-packages/idna/idnadata.py 1e1b60e5123a4d9ba471dd3f4bedc4d7 1593301051
+dir /usr/lib/python3.8/site-packages/idna/__pycache__
+obj /usr/lib/python3.8/site-packages/idna/__pycache__/idnadata.cpython-38.opt-2.pyc 8e9d99ce98605819b4101c03488c0470 1612618238
+obj /usr/lib/python3.8/site-packages/idna/__pycache__/idnadata.cpython-38.opt-1.pyc 8e9d99ce98605819b4101c03488c0470 1612618238
+obj /usr/lib/python3.8/site-packages/idna/__pycache__/core.cpython-38.pyc 0fbcfc76e34f778327c12e98f6027f21 1612618238
+obj /usr/lib/python3.8/site-packages/idna/__pycache__/__init__.cpython-38.opt-1.pyc f0fbf7a4375b43e2ab2c144e3e6b7f1b 1612618238
+obj /usr/lib/python3.8/site-packages/idna/__pycache__/__init__.cpython-38.pyc 0fa0c5cc919b506c9d244d8659c4ec70 1612618238
+obj /usr/lib/python3.8/site-packages/idna/__pycache__/codec.cpython-38.pyc 33ee740916a9f91dbf450feec1d4d8b4 1612618238
+obj /usr/lib/python3.8/site-packages/idna/__pycache__/idnadata.cpython-38.pyc 01c9760127dd12384cf82dcc8a342118 1612618238
+obj /usr/lib/python3.8/site-packages/idna/__pycache__/compat.cpython-38.pyc f63c04359092ae60f5ab3a26481f2cd9 1612618238
+obj /usr/lib/python3.8/site-packages/idna/__pycache__/uts46data.cpython-38.opt-1.pyc ff53fd9c7b711b172337d317b3cfb417 1612618238
+obj /usr/lib/python3.8/site-packages/idna/__pycache__/package_data.cpython-38.pyc 90d2e079a0074dc31d28e57e170c7a20 1612618238
+obj /usr/lib/python3.8/site-packages/idna/__pycache__/intranges.cpython-38.opt-1.pyc 3e37af32dc0cf8e983bbaea3789eb49b 1612618238
+obj /usr/lib/python3.8/site-packages/idna/__pycache__/intranges.cpython-38.opt-2.pyc 3e37af32dc0cf8e983bbaea3789eb49b 1612618238
+obj /usr/lib/python3.8/site-packages/idna/__pycache__/compat.cpython-38.opt-2.pyc ac6f08bbd70567d3a54ba113def92dca 1612618238
+obj /usr/lib/python3.8/site-packages/idna/__pycache__/uts46data.cpython-38.opt-2.pyc ff53fd9c7b711b172337d317b3cfb417 1612618238
+obj /usr/lib/python3.8/site-packages/idna/__pycache__/intranges.cpython-38.pyc 419481210e0ef7e99583d3d6c556a985 1612618238
+obj /usr/lib/python3.8/site-packages/idna/__pycache__/core.cpython-38.opt-1.pyc 5477d8598eb89a0e0dbbd2374aa2c5ff 1612618238
+obj /usr/lib/python3.8/site-packages/idna/__pycache__/core.cpython-38.opt-2.pyc 5477d8598eb89a0e0dbbd2374aa2c5ff 1612618238
+obj /usr/lib/python3.8/site-packages/idna/__pycache__/codec.cpython-38.opt-1.pyc 6495465850fb45239ec43157361a2594 1612618238
+obj /usr/lib/python3.8/site-packages/idna/__pycache__/package_data.cpython-38.opt-2.pyc 90d2e079a0074dc31d28e57e170c7a20 1612618238
+obj /usr/lib/python3.8/site-packages/idna/__pycache__/__init__.cpython-38.opt-2.pyc f0fbf7a4375b43e2ab2c144e3e6b7f1b 1612618238
+obj /usr/lib/python3.8/site-packages/idna/__pycache__/package_data.cpython-38.opt-1.pyc 90d2e079a0074dc31d28e57e170c7a20 1612618238
+obj /usr/lib/python3.8/site-packages/idna/__pycache__/codec.cpython-38.opt-2.pyc 6495465850fb45239ec43157361a2594 1612618238
+obj /usr/lib/python3.8/site-packages/idna/__pycache__/uts46data.cpython-38.pyc 051d43aea09e2feb969562297a657df4 1612618238
+obj /usr/lib/python3.8/site-packages/idna/__pycache__/compat.cpython-38.opt-1.pyc ac6f08bbd70567d3a54ba113def92dca 1612618238
+obj /usr/lib/python3.8/site-packages/idna/intranges.py 5d37b041d01aefd92ccac0bff286a7c9 1575768780
+obj /usr/lib/python3.8/site-packages/idna/__init__.py 8acff87ead0244330c22125c16fcaadb 1575768780
+obj /usr/lib/python3.8/site-packages/idna/codec.py a36c9a662f4dd0e6d8d4a48dbe68ade5 1593301046
+obj /usr/lib/python3.8/site-packages/idna/core.py 4c71b8f90036f3a177ee082611e43867 1593301046
+dir /usr/lib/python3.8/site-packages/idna-2.10-py3.8.egg-info
+obj /usr/lib/python3.8/site-packages/idna-2.10-py3.8.egg-info/top_level.txt 1929d9f7c81f25c32830ebfe29fec2b2 1612618238
+obj /usr/lib/python3.8/site-packages/idna-2.10-py3.8.egg-info/PKG-INFO de9593b3532cb2e0c421b1fabe41eeca 1612618238
+obj /usr/lib/python3.8/site-packages/idna-2.10-py3.8.egg-info/SOURCES.txt baa9b66c0c224e0ea9984449800c6b54 1612618238
+obj /usr/lib/python3.8/site-packages/idna-2.10-py3.8.egg-info/dependency_links.txt 68b329da9893e34099c7d8ad5cb9c940 1612618238

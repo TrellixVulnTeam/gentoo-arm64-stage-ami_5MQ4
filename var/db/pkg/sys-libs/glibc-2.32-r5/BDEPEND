@@ -1,0 +1,1 @@
+|| ( dev-lang/python:3.9 dev-lang/python:3.8 dev-lang/python:3.7 ) >=app-misc/pax-utils-0.1.10 sys-devel/bison app-arch/gzip sys-apps/grep virtual/awk >=sys-devel/binutils-2.24 >=sys-devel/gcc-6 virtual/pkgconfig

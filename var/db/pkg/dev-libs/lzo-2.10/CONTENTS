@@ -1,0 +1,32 @@
+dir /lib64
+sym /lib64/liblzo2.so.2 -> liblzo2.so.2.0.0 1612611065
+obj /lib64/liblzo2.so.2.0.0 9809984359c56e47a0effc9271babd31 1612611066
+dir /usr
+dir /usr/lib64
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/lzo2.pc fe68fe5b5ece118ab59d0f93acdd6b69 1612611065
+obj /usr/lib64/liblzo2.so 6ba48e8546b11f4a7411f24eb627a60a 1612611065
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/lzo-2.10
+obj /usr/share/doc/lzo-2.10/NEWS.xz 9041f00404d01c66a9c5bb96766ef17f 1612611065
+obj /usr/share/doc/lzo-2.10/LZOAPI.TXT.xz 394bfa0e8501da71eaa905ba7c19f39a 1612611065
+obj /usr/share/doc/lzo-2.10/LZO.FAQ.xz 9d492a3bae3ee2910440211fe2cad6c5 1612611065
+obj /usr/share/doc/lzo-2.10/AUTHORS 608a6f4237d1480a6953f2218eb34a2f 1612611065
+obj /usr/share/doc/lzo-2.10/LZO.TXT.xz 391e00e8994b469e55e2a4f9905bbcfc 1612611065
+obj /usr/share/doc/lzo-2.10/THANKS.xz e4e92810ddc5230444bd5ac5348567bc 1612611065
+dir /usr/include
+dir /usr/include/lzo
+obj /usr/include/lzo/lzo2a.h 6aff3f179c49d688a388544baed71c58 1612611065
+obj /usr/include/lzo/lzoconf.h eef5e567516707cf02ceeef4c00b54c0 1612611065
+obj /usr/include/lzo/lzo_asm.h 5b5cb0f56f4f8d23ecc39f19fe595b87 1612611065
+obj /usr/include/lzo/lzo1.h 22732bfa5b08866675938051681aca23 1612611065
+obj /usr/include/lzo/lzo1z.h 596dad27d07ce65ca27c0790e6cd4720 1612611065
+obj /usr/include/lzo/lzo1b.h 430819892b421e2ac2e9b5d822bbb4af 1612611065
+obj /usr/include/lzo/lzo1c.h 6431a688dbbb8d84ff2c3ee1d49d5faf 1612611065
+obj /usr/include/lzo/lzo1y.h 25168826cfa884e7685a8fc2a55bc4a4 1612611065
+obj /usr/include/lzo/lzoutil.h dec319752312146c4bff54b6fde0e36b 1612611065
+obj /usr/include/lzo/lzodefs.h 635a2cd32d46939cd412a41f8fb6b909 1612611065
+obj /usr/include/lzo/lzo1x.h 974083ad40a0cd2fb5c4f230843998cd 1612611065
+obj /usr/include/lzo/lzo1a.h b32808e69015a237caf1b909cfede92c 1612611065
+obj /usr/include/lzo/lzo1f.h 6c2679f910b1541878fd42fed5016d43 1612611065

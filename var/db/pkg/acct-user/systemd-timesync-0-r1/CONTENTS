@@ -1,0 +1,4 @@
+dir /usr
+dir /usr/lib
+dir /usr/lib/sysusers.d
+obj /usr/lib/sysusers.d/acct-user-systemd-timesync.conf 51097c8c98b398fb26267c06e759e000 1612611154

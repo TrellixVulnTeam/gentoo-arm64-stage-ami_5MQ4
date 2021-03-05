@@ -1,0 +1,13 @@
+dir /usr
+dir /usr/lib64
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/libb2.pc f9281e36b27a056c887d1be56e7fda28 1612618765
+sym /usr/lib64/libb2.so -> libb2.so.1.0.4 1612618765
+obj /usr/lib64/libb2.so.1.0.4 e547d239e6eafe4e6761c2d58a475e64 1612618766
+sym /usr/lib64/libb2.so.1 -> libb2.so.1.0.4 1612618765
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/libb2-0.98.1-r2
+obj /usr/share/doc/libb2-0.98.1-r2/README.md.xz 4e00c1bec522c5371c1f8a39729e2691 1612618766
+dir /usr/include
+obj /usr/include/blake2.h e0569b8d4de451294d2a3188411e0a1d 1612618765

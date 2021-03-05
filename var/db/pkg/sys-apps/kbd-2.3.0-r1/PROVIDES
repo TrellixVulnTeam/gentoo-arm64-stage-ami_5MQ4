@@ -1,0 +1,1 @@
+arm_64: chvt deallocvt dumpkeys fgconsole getkeycodes kbd_mode kbdinfo kbdrate loadkeys loadunimap mapscrn openvt psfxtable setfont setkeycodes setleds setmetamode setvtrgb showconsolefont showkey vlock

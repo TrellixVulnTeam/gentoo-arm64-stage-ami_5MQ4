@@ -1,0 +1,9 @@
+dir /usr
+dir /usr/lib64
+obj /usr/lib64/libyaml-0.so.2.0.9 9a3b21bfa67de3aec1e830048d622670 1613461543
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/yaml-0.1.pc bc10800be4eee83945653d9af434da6f 1613461542
+sym /usr/lib64/libyaml.so -> libyaml-0.so.2.0.9 1613461542
+sym /usr/lib64/libyaml-0.so.2 -> libyaml-0.so.2.0.9 1613461542
+dir /usr/include
+obj /usr/include/yaml.h 11d060175ea0cbb1fb94f2459f1bd6e3 1613461542

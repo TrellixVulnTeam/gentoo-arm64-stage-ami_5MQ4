@@ -1,0 +1,1 @@
+fixlafiles multilib-strict unmerge-orphans unknown-features-warn xattr sandbox ipc-sandbox pid-sandbox assume-digests sfperms strict qa-unresolved-soname-deps unmerge-logs usersync binpkg-dostrip config-protect-if-modified distlocks binpkg-docompress usersandbox userfetch parallel-fetch news protect-owned userpriv binpkg-logs merge-sync network-sandbox ebuild-locks preserve-libs

@@ -1,0 +1,23 @@
+dir /usr
+dir /usr/share
+dir /usr/share/info
+obj /usr/share/info/find-maint.info.xz 2aff0297af7ef7cf8315f558150c4058 1612610731
+obj /usr/share/info/find.info.xz e74f0b406b04114065ace59bcee62dc2 1612610731
+obj /usr/share/info/find.info-2.xz 519698f85e6f7524f456481bd24db3d3 1612610731
+obj /usr/share/info/find.info-1.xz 0343399463ae4f2e6e2cc601591f2b86 1612610731
+dir /usr/share/doc
+dir /usr/share/doc/findutils-4.7.0
+obj /usr/share/doc/findutils-4.7.0/AUTHORS.xz 93d7ffd1e67fdd7e01d17ae8af3c8a8f 1612610732
+obj /usr/share/doc/findutils-4.7.0/NEWS.xz 16d304466bf45c0596e57227ac080070 1612610732
+obj /usr/share/doc/findutils-4.7.0/README.xz 724021e65eb123ceffd14c30ff97bb2d 1612610731
+obj /usr/share/doc/findutils-4.7.0/TODO.xz fadf6d375787bf7f77d715281c03d79b 1612610732
+obj /usr/share/doc/findutils-4.7.0/ChangeLog.xz 01a1f6ded5a77d6557105f452c8014ca 1612610731
+obj /usr/share/doc/findutils-4.7.0/README-hacking.xz 2d90b0c7b7bc45a4185fc7d1dcded003 1612610731
+obj /usr/share/doc/findutils-4.7.0/THANKS.xz a5ddbe9f0bd87c315b6097120414ce69 1612610732
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/find.1.xz 7475d4f554b5d4a6db681e7be2547602 1612610731
+obj /usr/share/man/man1/xargs.1.xz eb08f2dd409e455bae9fca6348049c4e 1612610731
+dir /usr/bin
+obj /usr/bin/xargs cd8bd50889c25c5823e14ef6a7aa8fda 1612610733
+obj /usr/bin/find 629fdb502a041fe298feb18ef66e122e 1612610733

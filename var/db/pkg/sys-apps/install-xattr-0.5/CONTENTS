@@ -1,0 +1,7 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/install-xattr-0.5
+obj /usr/share/doc/install-xattr-0.5/ChangeLog.xz b05edb6e28c8684d753b349573ab7dff 1612610944
+dir /usr/bin
+obj /usr/bin/install-xattr f40fa524b76fb31db5e955298ec4ae0f 1612610945

@@ -1,0 +1,1 @@
+arm_64: libhogweed.so.6 libnettle.so.8 nettle-hash nettle-lfib-stream nettle-pbkdf2 pkcs1-conv sexp-conv

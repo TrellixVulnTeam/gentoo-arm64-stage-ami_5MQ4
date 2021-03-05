@@ -1,0 +1,8 @@
+GCC_PATH="/usr/aarch64-ares-linux-gnu/gcc-bin/9.3.0"
+LDPATH="/usr/lib/gcc/aarch64-ares-linux-gnu/9.3.0"
+MANPATH="/usr/share/gcc-data/aarch64-ares-linux-gnu/9.3.0/man"
+INFOPATH="/usr/share/gcc-data/aarch64-ares-linux-gnu/9.3.0/info"
+STDCXX_INCDIR="g++-v9"
+CTARGET="aarch64-ares-linux-gnu"
+GCC_SPECS=""
+MULTIOSDIRS="../lib64"

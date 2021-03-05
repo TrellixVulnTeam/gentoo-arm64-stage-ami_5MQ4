@@ -1,0 +1,89 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/requests-2.25.1-r1
+obj /usr/share/doc/requests-2.25.1-r1/README.md.xz 576635cdcdf40c1b01adbb53cdcb8ec7 1613460917
+dir /usr/lib
+dir /usr/lib/python3.8
+dir /usr/lib/python3.8/site-packages
+dir /usr/lib/python3.8/site-packages/requests-2.25.1-py3.8.egg-info
+obj /usr/lib/python3.8/site-packages/requests-2.25.1-py3.8.egg-info/dependency_links.txt 68b329da9893e34099c7d8ad5cb9c940 1613460916
+obj /usr/lib/python3.8/site-packages/requests-2.25.1-py3.8.egg-info/top_level.txt 197b4deb87ffa3decd9f045926a86cd0 1613460916
+obj /usr/lib/python3.8/site-packages/requests-2.25.1-py3.8.egg-info/requires.txt 4362a0e861e925e4e16a63eca6cf5280 1613460916
+obj /usr/lib/python3.8/site-packages/requests-2.25.1-py3.8.egg-info/SOURCES.txt f574400357b69fb3bd2fd239fbbb047e 1613460916
+obj /usr/lib/python3.8/site-packages/requests-2.25.1-py3.8.egg-info/not-zip-safe 68b329da9893e34099c7d8ad5cb9c940 1605062562
+obj /usr/lib/python3.8/site-packages/requests-2.25.1-py3.8.egg-info/PKG-INFO 4dfb49158f466c54750e333f928374b1 1613460916
+dir /usr/lib/python3.8/site-packages/requests
+dir /usr/lib/python3.8/site-packages/requests/__pycache__
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/adapters.cpython-38.opt-2.pyc adc19f955e6be26bec9a9932f8e1749d 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/help.cpython-38.opt-2.pyc 1e19b14bff09385da4929259e7694917 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/structures.cpython-38.opt-2.pyc 25de218a16e24892f1833f8287a1e72c 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/exceptions.cpython-38.opt-2.pyc fb90e804ffa1fe70f78e42074e454ae1 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/utils.cpython-38.opt-2.pyc de9d0e0c86ed4f0b744bd455d451c978 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/_internal_utils.cpython-38.opt-2.pyc 9671901bed8de6946e5f27d193082134 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/api.cpython-38.opt-2.pyc 133394fe8356d77c1a0c3e0083677984 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/__version__.cpython-38.opt-2.pyc 98301a0d1f37abbe07cca360f2356428 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/packages.cpython-38.opt-2.pyc 3898584714d456aac9155270252dfa4c 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/status_codes.cpython-38.opt-2.pyc 28a7bba646f78bf9e96fdb1b44aeb5c0 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/__init__.cpython-38.opt-2.pyc 98a1e440a5a2b71ee6b19d6f6d7084a3 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/certs.cpython-38.opt-2.pyc 1896a14647af503350e98cdad54d1142 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/models.cpython-38.opt-2.pyc 8a6af79b89bbeaa4abf950b46f668729 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/compat.cpython-38.opt-2.pyc 4ad65b9b3b33aa1098970b80463f5204 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/hooks.cpython-38.opt-2.pyc 08f46d8f41777dea522607fc74c06290 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/sessions.cpython-38.opt-2.pyc 9e9986f6b17ca5edbbd13b7d34f69c63 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/auth.cpython-38.opt-2.pyc b2736b381450750bcdeeacbc9915cee0 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/cookies.cpython-38.opt-2.pyc d162f743a3b91f3c1ace233152c353d4 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/adapters.cpython-38.opt-1.pyc adc19f955e6be26bec9a9932f8e1749d 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/help.cpython-38.opt-1.pyc 1e19b14bff09385da4929259e7694917 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/structures.cpython-38.opt-1.pyc 25de218a16e24892f1833f8287a1e72c 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/exceptions.cpython-38.opt-1.pyc fb90e804ffa1fe70f78e42074e454ae1 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/utils.cpython-38.opt-1.pyc de9d0e0c86ed4f0b744bd455d451c978 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/_internal_utils.cpython-38.opt-1.pyc 9671901bed8de6946e5f27d193082134 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/api.cpython-38.opt-1.pyc 133394fe8356d77c1a0c3e0083677984 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/__version__.cpython-38.opt-1.pyc 98301a0d1f37abbe07cca360f2356428 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/packages.cpython-38.opt-1.pyc 3898584714d456aac9155270252dfa4c 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/status_codes.cpython-38.opt-1.pyc 28a7bba646f78bf9e96fdb1b44aeb5c0 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/__init__.cpython-38.opt-1.pyc 98a1e440a5a2b71ee6b19d6f6d7084a3 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/certs.cpython-38.opt-1.pyc 1896a14647af503350e98cdad54d1142 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/models.cpython-38.opt-1.pyc 8a6af79b89bbeaa4abf950b46f668729 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/compat.cpython-38.opt-1.pyc 4ad65b9b3b33aa1098970b80463f5204 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/hooks.cpython-38.opt-1.pyc 08f46d8f41777dea522607fc74c06290 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/sessions.cpython-38.opt-1.pyc 9e9986f6b17ca5edbbd13b7d34f69c63 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/auth.cpython-38.opt-1.pyc b2736b381450750bcdeeacbc9915cee0 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/cookies.cpython-38.opt-1.pyc d162f743a3b91f3c1ace233152c353d4 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/adapters.cpython-38.pyc c6f909c61616e02d3e74d5a75ecf0d71 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/help.cpython-38.pyc 6a714d893521a344b99d74e583270c13 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/structures.cpython-38.pyc 25de218a16e24892f1833f8287a1e72c 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/exceptions.cpython-38.pyc fb90e804ffa1fe70f78e42074e454ae1 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/utils.cpython-38.pyc 7664a2605e8637ce19d093f104c41815 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/_internal_utils.cpython-38.pyc 9671901bed8de6946e5f27d193082134 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/api.cpython-38.pyc c87f4b55d850997e3359faa25ced3ce7 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/__version__.cpython-38.pyc 7e4fadd25477cf0a4c3d3f09acd5f1b4 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/packages.cpython-38.pyc 28ca15cf9e6ff741575c7c8c36e890b0 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/status_codes.cpython-38.pyc 1fbca210d00bd42b1c236313c9aa0296 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/__init__.cpython-38.pyc e88cddc528fd03a02741886476f85b7d 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/certs.cpython-38.pyc 1896a14647af503350e98cdad54d1142 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/models.cpython-38.pyc 6df1b96011aa303c5b0865dfbd11ef8e 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/compat.cpython-38.pyc 4ef3fe41b584af4a10b7983e5147f12d 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/hooks.cpython-38.pyc b2c4e0847b8d99d648777ede42c983fe 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/sessions.cpython-38.pyc 3b0640f5bd7cf5541e08559ff90453ea 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/auth.cpython-38.pyc fc486d3ccd0f9c71d2f4c3f7246b4377 1613460916
+obj /usr/lib/python3.8/site-packages/requests/__pycache__/cookies.cpython-38.pyc b902f7d9b593246bbe19b5abaa059cf4 1613460916
+obj /usr/lib/python3.8/site-packages/requests/adapters.py 460488f3cf569c8943bab515db82be6b 1607661360
+obj /usr/lib/python3.8/site-packages/requests/help.py 4c5656aaeaa0607f09ca5daee3954ea0 1607661360
+obj /usr/lib/python3.8/site-packages/requests/structures.py 6704e7e48ffba962d36e10e836b45ac3 1607661360
+obj /usr/lib/python3.8/site-packages/requests/exceptions.py 8a8fb277810222b25dc146f83a6696d4 1607661360
+obj /usr/lib/python3.8/site-packages/requests/utils.py 0599b4790fa7d41b664f2ee6796cbce9 1608140605
+obj /usr/lib/python3.8/site-packages/requests/_internal_utils.py a99425ae18678a77b272542bdb253ade 1558016296
+obj /usr/lib/python3.8/site-packages/requests/api.py 436881e36d8e6468f5626de2b95d93b3 1607661360
+obj /usr/lib/python3.8/site-packages/requests/__version__.py 0aeeb3179fc89d011cae7bd1080743c6 1608147418
+obj /usr/lib/python3.8/site-packages/requests/packages.py d9278c04aa1dd897fe81f76a52897a63 1607661360
+obj /usr/lib/python3.8/site-packages/requests/status_codes.py f5bca2603d8660bdfe7f156557b9811c 1607661360
+obj /usr/lib/python3.8/site-packages/requests/__init__.py 1257f424a82ec1ac4cf98ff637dbbf6c 1608140605
+obj /usr/lib/python3.8/site-packages/requests/certs.py e15c9d52beddfba17b72c885b5cd0f3f 1605639336
+obj /usr/lib/python3.8/site-packages/requests/models.py 68af1c7fa20d50d121005f1208e053dd 1607661360
+obj /usr/lib/python3.8/site-packages/requests/compat.py f5ed9b72695c1bfa2d51d9838c6ef691 1607661360
+obj /usr/lib/python3.8/site-packages/requests/hooks.py e95d38cc4c7540b3f338af0b106c823e 1568902567
+obj /usr/lib/python3.8/site-packages/requests/sessions.py 913efdfdda01acaa3e0bb953a856a00b 1608140605
+obj /usr/lib/python3.8/site-packages/requests/auth.py 1a21f3f8f2851b46f099fbcbd5748867 1607661360
+obj /usr/lib/python3.8/site-packages/requests/cookies.py 9d61a7e703c15b12e785f2b4a243cf73 1607661360

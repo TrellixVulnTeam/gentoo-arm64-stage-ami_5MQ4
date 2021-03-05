@@ -1,0 +1,64 @@
+dir /usr
+dir /usr/lib64
+obj /usr/lib64/libelf-0.182.so aaeb286b3fdc6e4f5a657ab5eb0d9c9d 1612617387
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/libelf.pc 5db057359e55fe33b4109abb33e7f877 1612617385
+obj /usr/lib64/pkgconfig/libdw.pc 22b4bf2982f3b376186eacb1b10b08d2 1612617385
+sym /usr/lib64/libdw.so -> libdw.so.1 1612617385
+sym /usr/lib64/libasm.so -> libasm.so.1 1612617385
+sym /usr/lib64/libasm.so.1 -> libasm-0.182.so 1612617385
+sym /usr/lib64/libdw.so.1 -> libdw-0.182.so 1612617385
+obj /usr/lib64/libdw-0.182.so 597d7ccb48e96f1d14fee160af8b426b 1612617387
+sym /usr/lib64/libelf.so -> libelf.so.1 1612617385
+sym /usr/lib64/libelf.so.1 -> libelf-0.182.so 1612617385
+obj /usr/lib64/libasm-0.182.so bd88b4cddb98cba8430be3d70e92ff6d 1612617387
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/elfutils-0.182
+obj /usr/share/doc/elfutils-0.182/NEWS.xz 32c934b8b1af96b76fc518b6096a55ce 1612617386
+obj /usr/share/doc/elfutils-0.182/README.xz a12fcf86dae4bc28ba7ec567ebcda79b 1612617385
+obj /usr/share/doc/elfutils-0.182/NOTES.xz 68c0bd74580ac6f17e96358f929d9825 1612617386
+obj /usr/share/doc/elfutils-0.182/AUTHORS ded51a1976a7cfd887e50a228a0913e6 1612617386
+obj /usr/share/doc/elfutils-0.182/TODO.xz 046baee8f15727ab5e742c350ead38e1 1612617386
+obj /usr/share/doc/elfutils-0.182/ChangeLog.xz 9272cc82484d38f111c8ef5104a8a743 1612617386
+obj /usr/share/doc/elfutils-0.182/THANKS.xz 3071ad5dab2bc0ab44b06476e5615415 1612617386
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/eu-elfclassify.1.xz ca66165ae2085d07aa51e699bb69dd9f 1612617385
+obj /usr/share/man/man1/eu-readelf.1.xz 98f31096f7b2e91a47aa98377d9476dd 1612617385
+dir /usr/share/man/man3
+obj /usr/share/man/man3/elf_update.3.xz 9ba798daf1f9429cb46487db6f2be70b 1612617385
+obj /usr/share/man/man3/elf_getdata.3.xz 2e9bae6296cf61f2bed75fd2527011f9 1612617385
+obj /usr/share/man/man3/elf_begin.3.xz e635fad67c207a4e509d1de7663b5199 1612617385
+obj /usr/share/man/man3/elf_clone.3.xz 22bdfcfde97cf3aad669fd1b5f487071 1612617385
+dir /usr/include
+obj /usr/include/gelf.h 273afd7015cac7334fa770efee5f56b4 1612617385
+obj /usr/include/libelf.h 72da4d429c4c38818414c28758c225e9 1612617385
+obj /usr/include/nlist.h ce6c40d6edbd166d0326d342a677d82c 1612617385
+dir /usr/include/elfutils
+obj /usr/include/elfutils/libdw.h b9c378a1b94298310e5c504e61d67363 1612617385
+obj /usr/include/elfutils/libasm.h b717398ea93ae76ab215c3a864e4c895 1612617385
+obj /usr/include/elfutils/known-dwarf.h 9b178c24f4ca886c5ace088a6a317933 1612617385
+obj /usr/include/elfutils/version.h fa610df9e0e11d77f52a379144f67b3c 1612617385
+obj /usr/include/elfutils/libdwelf.h 983f59ef5c27f70e4be720576254cfa4 1612617385
+obj /usr/include/elfutils/libdwfl.h 15a6fb611f151b9566bfc28d11281fb6 1612617385
+obj /usr/include/elfutils/elf-knowledge.h 6a1b6b027a5d295a2b49ff4adb8d5f93 1612617385
+obj /usr/include/dwarf.h d36ab896ac09ba21bb976d2fade5e94b 1612617385
+dir /usr/bin
+obj /usr/bin/eu-unstrip 57cc2e209db3956e7ef5416a162e0e4c 1612617387
+obj /usr/bin/eu-nm f49fa3523af63e20be22c4c9a1404bab 1612617387
+obj /usr/bin/eu-elfclassify 7ad71f362428a8547abf540e73f1f72a 1612617387
+obj /usr/bin/eu-objdump 91ebedcecc771845fc8bd53614b7bde7 1612617387
+obj /usr/bin/eu-size a1548f84cfcb8b6595b642b340c60569 1612617387
+obj /usr/bin/eu-elfcompress 71a6f69a4031d8d4a7cd68d87add52f0 1612617387
+obj /usr/bin/eu-elflint 28834d1a69839993eec3ab2ca72c5255 1612617387
+obj /usr/bin/eu-findtextrel d1f76bf35e2744d9261f7cc44f3370b4 1612617387
+obj /usr/bin/eu-addr2line 30166b11dd45c781ab3f8a0f6f394d90 1612617387
+obj /usr/bin/eu-strings a9f3652ccd2ddf272563c4dd6a04e298 1612617387
+obj /usr/bin/eu-stack 84d480472da137d9df955d007bc10881 1612617387
+obj /usr/bin/eu-ranlib 13caf26cef1e4d739c7486a51c76626e 1612617387
+obj /usr/bin/eu-strip 61dd8388e1747bd2713bfef3b464cb23 1612617387
+obj /usr/bin/eu-make-debug-archive 62073abd567d3d6a4738e8a2bc4b6875 1612617385
+obj /usr/bin/eu-readelf 1b233914a9e8d35e1d1ea29459e72737 1612617387
+obj /usr/bin/eu-elfcmp ca0133d2f20267e8ca5269f3438f1838 1612617387
+obj /usr/bin/eu-ar 460eb6533274e953e3f450e1c659a339 1612617387

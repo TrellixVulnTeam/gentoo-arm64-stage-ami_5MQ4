@@ -1,0 +1,44 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/portage-utils-0.90
+obj /usr/share/doc/portage-utils-0.90/README.md.xz 20259b2a75262fdc09a20b935a0e9065 1612619289
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/qsize.1.xz 3f9bfc0d6df47a5ae593bf2e49f3361f 1612619289
+obj /usr/share/man/man1/qlop.1.xz d4932761ec7a3a03e4af8d1f6b34c164 1612619289
+obj /usr/share/man/man1/qfile.1.xz 28468d6d2864f3806ad44c0cd3ed4011 1612619289
+obj /usr/share/man/man1/qkeyword.1.xz bed9b4bd19c5234b21484089f647eb6f 1612619289
+obj /usr/share/man/man1/quse.1.xz 8c5acc46dc60fec5265d528325be9428 1612619289
+obj /usr/share/man/man1/qmerge.1.xz 3d71015005a98cf3bfb9229c0f2657c9 1612619289
+obj /usr/share/man/man1/qtbz2.1.xz af05ff696704760bd3ef842abb8df9ea 1612619289
+obj /usr/share/man/man1/qatom.1.xz 6ae188c9f5a1072df89d0c892e168dea 1612619289
+obj /usr/share/man/man1/qtegrity.1.xz 78003ad246e555b16a057f03e6abc9ed 1612619289
+obj /usr/share/man/man1/qcheck.1.xz 80cf1ff63fafbbbe98551c8487617d33 1612619289
+obj /usr/share/man/man1/qpkg.1.xz 38a23a59ff6e3fbde15893e1ab70f757 1612619289
+obj /usr/share/man/man1/qgrep.1.xz 6843cb39ab8089bff95669542e28b560 1612619289
+obj /usr/share/man/man1/qlist.1.xz 8edbf0e72633dc8dedec5c852a7a1f4f 1612619289
+obj /usr/share/man/man1/q.1.xz 7a3497271694fa98619bf862c995a57d 1612619289
+obj /usr/share/man/man1/qdepends.1.xz 6eea2382f9cc1b035171458973c03957 1612619289
+obj /usr/share/man/man1/qsearch.1.xz f36d3dcaec6c74d5fc78287f89ca7412 1612619289
+obj /usr/share/man/man1/qmanifest.1.xz efd7a3f7827765f6f3b0d6c2e17dccb1 1612619289
+obj /usr/share/man/man1/qxpak.1.xz 3199281979bd7ad4414bd6554d859b24 1612619289
+dir /usr/bin
+sym /usr/bin/qpkg -> q 1612619289
+sym /usr/bin/qdepends -> q 1612619289
+sym /usr/bin/qlop -> q 1612619289
+obj /usr/bin/q 5323c10284bb6f8da877be4507876d5b 1612619290
+sym /usr/bin/qmanifest -> q 1612619289
+sym /usr/bin/qfile -> q 1612619289
+sym /usr/bin/qxpak -> q 1612619289
+sym /usr/bin/qtbz2 -> q 1612619289
+sym /usr/bin/qatom -> q 1612619289
+sym /usr/bin/qsearch -> q 1612619289
+sym /usr/bin/quse -> q 1612619289
+sym /usr/bin/qsize -> q 1612619289
+sym /usr/bin/qgrep -> q 1612619289
+sym /usr/bin/qlist -> q 1612619289
+sym /usr/bin/qkeyword -> q 1612619289
+sym /usr/bin/qmerge -> q 1612619289
+sym /usr/bin/qcheck -> q 1612619289
+sym /usr/bin/qtegrity -> q 1612619289

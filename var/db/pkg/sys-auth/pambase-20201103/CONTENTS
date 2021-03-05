@@ -1,0 +1,16 @@
+dir /etc
+dir /etc/pam.d
+obj /etc/pam.d/system-auth 21c6d8419c9a45bb1d17bda8f79381b3 1612618973
+obj /etc/pam.d/passwd 5bd5838c81534c4a24a2a112500ba62c 1612618973
+obj /etc/pam.d/other 58f61f205c59ec5ac17f33288aff0143 1612618973
+obj /etc/pam.d/system-local-login 76da90222db315e3b0834f82ed6280b8 1612618973
+obj /etc/pam.d/system-remote-login 76da90222db315e3b0834f82ed6280b8 1612618973
+obj /etc/pam.d/su 5dfd9fee8f37d44324386e51e78e95a6 1612618973
+obj /etc/pam.d/system-services 10681442d654c413dd00e211124b9296 1612618973
+obj /etc/pam.d/system-login c7494c69b7e5dc4f04be8d758d486f2e 1612618973
+obj /etc/pam.d/login ce3c57facb7e8ebefdde951ff490fa44 1612618973
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/pambase-20201103
+obj /usr/share/doc/pambase-20201103/README.gentoo.xz c01652370d4f08807bcc9a5e10f0ca2b 1612618973

@@ -1,0 +1,31 @@
+dir /usr
+dir /usr/lib64
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/expatw.pc 78bcb0e04810e785f01a6db723f5ada7 1612612484
+obj /usr/lib64/pkgconfig/expat.pc c0812b8e965b0cc43943cf9b6f4b1029 1612612483
+obj /usr/lib64/libexpatw.so.1.6.12 d1523c9175abc940f5f09d01b4dfa0b4 1612612485
+obj /usr/lib64/libexpat.so.1.6.12 ff7735c0249971f8ad22e11772df6055 1612612485
+sym /usr/lib64/libexpatw.so -> libexpatw.so.1.6.12 1612612484
+sym /usr/lib64/libexpat.so.1 -> libexpat.so.1.6.12 1612612483
+sym /usr/lib64/libexpat.so -> libexpat.so.1.6.12 1612612483
+sym /usr/lib64/libexpatw.so.1 -> libexpatw.so.1.6.12 1612612484
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/expat-2.2.10
+obj /usr/share/doc/expat-2.2.10/changelog.xz d84121761badf22ec5b788518081a54c 1612612484
+obj /usr/share/doc/expat-2.2.10/AUTHORS.xz 7e9b103ed410734c0de473a8d871e0a9 1612612484
+obj /usr/share/doc/expat-2.2.10/README.md.xz 9c0aef8aedc8433c2bad8a7f6fa06a8a 1612612484
+dir /usr/share/doc/expat-2.2.10/html
+obj /usr/share/doc/expat-2.2.10/html/valid-xhtml10.png e78b61064b210c942bf68a1a73fbf220 1612612484
+obj /usr/share/doc/expat-2.2.10/html/reference.html 2ae8747c7d1bd5338ab2b24afac031ff 1612612484
+obj /usr/share/doc/expat-2.2.10/html/expat.png 949d713669b5148a18e33523a3ccdcb4 1612612484
+obj /usr/share/doc/expat-2.2.10/html/style.css 72592bbd454d71c7e8eddcf6e42778e2 1612612484
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/xmlwf.1.xz 86920f7d302d4cb92be83334c7c04542 1612612484
+dir /usr/include
+obj /usr/include/expat.h 8fe6e0974e9dc56995ec200ff5bbb693 1612612484
+obj /usr/include/expat_config.h 1925d7a320598c8f605ddc57408a4533 1612612484
+obj /usr/include/expat_external.h 29cad1ffbf7e4f51554ae5a07da15b9b 1612612484
+dir /usr/bin
+obj /usr/bin/xmlwf cdd28ae16230497acea22ed535f7071c 1612612485

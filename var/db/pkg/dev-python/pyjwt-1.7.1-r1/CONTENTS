@@ -1,0 +1,79 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/pyjwt-1.7.1-r1
+obj /usr/share/doc/pyjwt-1.7.1-r1/AUTHORS.xz 0dea8accd3f9d1ef82d5c27340006382 1613461549
+obj /usr/share/doc/pyjwt-1.7.1-r1/README.rst.xz 90dc01e9e0b0f56d7066c62684dd7084 1613461549
+dir /usr/bin
+sym /usr/bin/pyjwt -> ../lib/python-exec/python-exec2 1613461549
+dir /usr/lib
+dir /usr/lib/python-exec
+dir /usr/lib/python-exec/python3.8
+obj /usr/lib/python-exec/python3.8/pyjwt 335dbc4c468a960c986ae4d0bb657ec2 1613461549
+dir /usr/lib/python3.8
+dir /usr/lib/python3.8/site-packages
+dir /usr/lib/python3.8/site-packages/PyJWT-1.7.1-py3.8.egg-info
+obj /usr/lib/python3.8/site-packages/PyJWT-1.7.1-py3.8.egg-info/dependency_links.txt 68b329da9893e34099c7d8ad5cb9c940 1613461548
+obj /usr/lib/python3.8/site-packages/PyJWT-1.7.1-py3.8.egg-info/top_level.txt 539ab55f594726c4b96f18218747e9b8 1613461548
+obj /usr/lib/python3.8/site-packages/PyJWT-1.7.1-py3.8.egg-info/requires.txt 08538538d4a73f57fceba0224a9fc9a2 1613461548
+obj /usr/lib/python3.8/site-packages/PyJWT-1.7.1-py3.8.egg-info/entry_points.txt 2e80af05279733bf11cc8ffc9e12daf2 1613461548
+obj /usr/lib/python3.8/site-packages/PyJWT-1.7.1-py3.8.egg-info/SOURCES.txt 070a5199cc77ad919227c230fcdd1b21 1613461548
+obj /usr/lib/python3.8/site-packages/PyJWT-1.7.1-py3.8.egg-info/PKG-INFO 632416c1b1689ede97e637721ee55da5 1613461548
+dir /usr/lib/python3.8/site-packages/jwt
+dir /usr/lib/python3.8/site-packages/jwt/__pycache__
+obj /usr/lib/python3.8/site-packages/jwt/__pycache__/__main__.cpython-38.opt-2.pyc 4e5aebb94877c6ca4dd97e15ddba7885 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/__pycache__/help.cpython-38.opt-2.pyc da87cfbd7e37972238dd7a021bb6efb2 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/__pycache__/api_jws.cpython-38.opt-2.pyc e41bae43bfe11348193d2298497ee214 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/__pycache__/exceptions.cpython-38.opt-2.pyc 6a6636d33c436b827027bea890fa7a6c 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/__pycache__/utils.cpython-38.opt-2.pyc 37f3bc609cd711051793de9f231a15db 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/__pycache__/__init__.cpython-38.opt-2.pyc 73417908ee1bea6c8bf771b3ba23fe3f 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/__pycache__/api_jwt.cpython-38.opt-2.pyc 32e6fbfdc65289e377b0492d470a3dee 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/__pycache__/compat.cpython-38.opt-2.pyc b59beeefbd334418dd93c7f448439f3c 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/__pycache__/algorithms.cpython-38.opt-2.pyc 7740c1b67c726ab8a0893756dbb6f0b3 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/__pycache__/__main__.cpython-38.opt-1.pyc 4e5aebb94877c6ca4dd97e15ddba7885 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/__pycache__/help.cpython-38.opt-1.pyc da87cfbd7e37972238dd7a021bb6efb2 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/__pycache__/api_jws.cpython-38.opt-1.pyc e41bae43bfe11348193d2298497ee214 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/__pycache__/exceptions.cpython-38.opt-1.pyc 6a6636d33c436b827027bea890fa7a6c 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/__pycache__/utils.cpython-38.opt-1.pyc 37f3bc609cd711051793de9f231a15db 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/__pycache__/__init__.cpython-38.opt-1.pyc 73417908ee1bea6c8bf771b3ba23fe3f 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/__pycache__/api_jwt.cpython-38.opt-1.pyc 32e6fbfdc65289e377b0492d470a3dee 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/__pycache__/compat.cpython-38.opt-1.pyc b59beeefbd334418dd93c7f448439f3c 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/__pycache__/algorithms.cpython-38.opt-1.pyc 7740c1b67c726ab8a0893756dbb6f0b3 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/__pycache__/__main__.cpython-38.pyc b744a7f5bc31a89b88b0deaeb2a79c9d 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/__pycache__/help.cpython-38.pyc 365b9f4ae7a1f31e6cedfa1f18b3fa4a 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/__pycache__/api_jws.cpython-38.pyc 52c8356a4415e6691660087503590519 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/__pycache__/exceptions.cpython-38.pyc 6a6636d33c436b827027bea890fa7a6c 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/__pycache__/utils.cpython-38.pyc 843bdc03dc8b027d9d7b354ed91934c0 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/__pycache__/__init__.cpython-38.pyc d40168031155264f5589f9b581a863ba 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/__pycache__/api_jwt.cpython-38.pyc 82fe7948af11ec2116ab51b55d44632d 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/__pycache__/compat.cpython-38.pyc 4d92de8975ac34ad1c65d1df192597f9 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/__pycache__/algorithms.cpython-38.pyc 2c132b5de983a5004d01913d566eec67 1613461548
+dir /usr/lib/python3.8/site-packages/jwt/contrib
+dir /usr/lib/python3.8/site-packages/jwt/contrib/__pycache__
+obj /usr/lib/python3.8/site-packages/jwt/contrib/__pycache__/__init__.cpython-38.opt-2.pyc d552a458bb001f922df3d47c64f38edb 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/contrib/__pycache__/__init__.cpython-38.opt-1.pyc d552a458bb001f922df3d47c64f38edb 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/contrib/__pycache__/__init__.cpython-38.pyc d552a458bb001f922df3d47c64f38edb 1613461548
+dir /usr/lib/python3.8/site-packages/jwt/contrib/algorithms
+dir /usr/lib/python3.8/site-packages/jwt/contrib/algorithms/__pycache__
+obj /usr/lib/python3.8/site-packages/jwt/contrib/algorithms/__pycache__/py_ecdsa.cpython-38.opt-2.pyc 6ee9b9babe094866e4a0ef5eb0a89151 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/contrib/algorithms/__pycache__/__init__.cpython-38.opt-2.pyc 62592ac721adb3a863a378c99940bf21 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/contrib/algorithms/__pycache__/pycrypto.cpython-38.opt-2.pyc d5ee70f9950a735daea6948ce793c7b2 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/contrib/algorithms/__pycache__/py_ecdsa.cpython-38.opt-1.pyc 6ee9b9babe094866e4a0ef5eb0a89151 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/contrib/algorithms/__pycache__/__init__.cpython-38.opt-1.pyc 62592ac721adb3a863a378c99940bf21 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/contrib/algorithms/__pycache__/pycrypto.cpython-38.opt-1.pyc d5ee70f9950a735daea6948ce793c7b2 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/contrib/algorithms/__pycache__/py_ecdsa.cpython-38.pyc d783415a6f8ceba1ab26269cb22be99d 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/contrib/algorithms/__pycache__/__init__.cpython-38.pyc 62592ac721adb3a863a378c99940bf21 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/contrib/algorithms/__pycache__/pycrypto.cpython-38.pyc d5ee70f9950a735daea6948ce793c7b2 1613461548
+obj /usr/lib/python3.8/site-packages/jwt/contrib/algorithms/py_ecdsa.py 9e5e23c3d31d26c02a3ca0b52d69bf34 1613461546
+obj /usr/lib/python3.8/site-packages/jwt/contrib/algorithms/__init__.py d41d8cd98f00b204e9800998ecf8427e 1543201457
+obj /usr/lib/python3.8/site-packages/jwt/contrib/algorithms/pycrypto.py b466000c915a0feeff7494a33ccf5e82 1543201457
+obj /usr/lib/python3.8/site-packages/jwt/contrib/__init__.py d41d8cd98f00b204e9800998ecf8427e 1543201457
+obj /usr/lib/python3.8/site-packages/jwt/__main__.py 38fbd38ec80f6a1012152d58a6d3856e 1543201457
+obj /usr/lib/python3.8/site-packages/jwt/help.py 16f1a9d4cb3fcf89b2bae7d87a33b9e2 1543201457
+obj /usr/lib/python3.8/site-packages/jwt/api_jws.py 5d2b6bbc28f1c84b9a2a32e34198e648 1543201457
+obj /usr/lib/python3.8/site-packages/jwt/exceptions.py a1fb2e0cc9a82d0ff3ee52710619bbc9 1543201457
+obj /usr/lib/python3.8/site-packages/jwt/utils.py 8b48fb59a3c323830d2eb5e152223387 1543201457
+obj /usr/lib/python3.8/site-packages/jwt/__init__.py 469bcfbfb0fe399b55ac6a969fee734b 1544099415
+obj /usr/lib/python3.8/site-packages/jwt/api_jwt.py 5de91974a2311c81cfae607191572279 1543201457
+obj /usr/lib/python3.8/site-packages/jwt/compat.py 645ad8e7dfac4ec9d768bdfd6e220061 1543201457
+obj /usr/lib/python3.8/site-packages/jwt/algorithms.py db5f011c8af5439ad0b27c10947a57cd 1543201457

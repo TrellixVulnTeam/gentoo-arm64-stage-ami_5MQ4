@@ -1,0 +1,4 @@
+dir /usr
+dir /usr/lib
+dir /usr/lib/sysusers.d
+obj /usr/lib/sysusers.d/acct-user-man.conf 818383f29e4cd12769058b964a97901f 1612611126

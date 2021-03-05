@@ -1,0 +1,77 @@
+dir /var
+dir /var/db
+dir /var/db/sudo
+dir /var/db/sudo/lectured
+obj /var/db/sudo/lectured/.keep_app-admin_sudo-0 d41d8cd98f00b204e9800998ecf8427e 1613461831
+dir /etc
+dir /etc/pam.d
+obj /etc/pam.d/sudo-i a811f6e46bdf31b89842bffd4694f742 1613461831
+obj /etc/pam.d/sudo a811f6e46bdf31b89842bffd4694f742 1613461831
+obj /etc/sudo_logsrvd.conf 8f2d34058527c9b8155de178aacff2cd 1613461830
+obj /etc/sudo.conf b0ca4668db8708d0077ae2bb6a11ac02 1613461830
+obj /etc/sudoers bd52610551ca3568f4a0cbc597a9113e 1613461821
+obj /etc/sudoers.dist bd52610551ca3568f4a0cbc597a9113e 1613461821
+dir /etc/sudoers.d
+dir /usr
+dir /usr/include
+obj /usr/include/sudo_plugin.h b7c33e7bb332d5f3274eb8c00a6a4063 1613461830
+dir /usr/lib
+dir /usr/lib/tmpfiles.d
+obj /usr/lib/tmpfiles.d/sudo.conf ee8d33d217810b046dd36a357839ee9e 1613461830
+dir /usr/share
+dir /usr/share/man
+dir /usr/share/man/man8
+obj /usr/share/man/man8/visudo.8.xz 0f5f82c4f37bf69227c781c0e772ff27 1613461830
+obj /usr/share/man/man8/sudo_sendlog.8.xz de009bc6151e133843e6ef283357f525 1613461830
+obj /usr/share/man/man8/sudoreplay.8.xz e1d4b31586903a7afab9f85763988502 1613461830
+obj /usr/share/man/man8/sudo_plugin.8.xz f3af2cdf43da2b562fca8cced490fd4f 1613461830
+obj /usr/share/man/man8/sudo_logsrvd.8.xz 462eed989d689e44f2573ab4dbc44942 1613461830
+obj /usr/share/man/man8/sudo.8.xz dc84a784c79edeef31a08747e8856c04 1613461830
+dir /usr/share/man/man5
+obj /usr/share/man/man5/sudoers_timestamp.5.xz 0c244043b50ad3cffb990cb87bb6ffc1 1613461830
+obj /usr/share/man/man5/sudoers.5.xz 70ce799e835d297a6aba46aff6eb2b37 1613461830
+obj /usr/share/man/man5/sudo_logsrvd.conf.5.xz c0eda52165dc7a05979f250f414852e8 1613461830
+obj /usr/share/man/man5/sudo.conf.5.xz df930a551708f2e293fbef3193caa9bf 1613461830
+obj /usr/share/man/man5/sudo_logsrv.proto.5.xz f5530d6e5119ac49b100c6b2a81cb411 1613461830
+dir /usr/share/man/man1
+obj /usr/share/man/man1/cvtsudoers.1.xz a76651bbf4c68665aee8cdd5971580cb 1613461830
+dir /usr/share/doc
+dir /usr/share/doc/sudo-1.9.5_p2-r1
+obj /usr/share/doc/sudo-1.9.5_p2-r1/NEWS.xz 6e63cb89761eb292a1b5c23f3bb33533 1613461831
+obj /usr/share/doc/sudo-1.9.5_p2-r1/README.LDAP.xz 29a504adc806c47b8bba63b302f33085 1613461831
+obj /usr/share/doc/sudo-1.9.5_p2-r1/README.xz 09e563f56e7c9e7f7db4837591b73033 1613461831
+obj /usr/share/doc/sudo-1.9.5_p2-r1/TROUBLESHOOTING.xz be52617acc65a22369c36e7606a75e4e 1613461830
+obj /usr/share/doc/sudo-1.9.5_p2-r1/UPGRADE.xz 637527d8108f35c1aaa3974019879beb 1613461830
+obj /usr/share/doc/sudo-1.9.5_p2-r1/LICENSE.xz 26354c502205c63ff0a824d4cf7c3181 1613461830
+obj /usr/share/doc/sudo-1.9.5_p2-r1/CONTRIBUTORS.xz b9dce9cde7253b83ef2e2e1f1af7a562 1613461830
+obj /usr/share/doc/sudo-1.9.5_p2-r1/HISTORY.xz dee4b1140380b07abf14ebeec87ab65b 1613461830
+obj /usr/share/doc/sudo-1.9.5_p2-r1/ChangeLog 524b3a4f4b88ebe8e7f51f7c7665908f 1613461831
+dir /usr/share/doc/sudo-1.9.5_p2-r1/examples
+obj /usr/share/doc/sudo-1.9.5_p2-r1/examples/syslog.conf.xz 043460bf0de0f36f089d18dd198da91a 1613461830
+obj /usr/share/doc/sudo-1.9.5_p2-r1/examples/sudoers.xz f45bdce68fca8bf3d496dfd483995eba 1613461830
+obj /usr/share/doc/sudo-1.9.5_p2-r1/examples/sudo_logsrvd.conf.xz ff122fa4d0d40a31d7aa4f4264d08e6c 1613461830
+obj /usr/share/doc/sudo-1.9.5_p2-r1/examples/sudo.conf.xz 651e28e9ac92133d174e873c51de7516 1613461830
+obj /usr/share/doc/sudo-1.9.5_p2-r1/examples/pam.conf.xz 0715a9d8e70327c98b9354fdf25c33d7 1613461830
+dir /usr/bin
+obj /usr/bin/sudo 05005ee0b7e1d87a5c65de014ba26f8a 1613461832
+obj /usr/bin/sudoreplay 08f6fbdefc61aa24e11c8dd4e3804f6d 1613461832
+obj /usr/bin/cvtsudoers 2ad3d0f9b596491c0aa466dbdcfdf1b8 1613461832
+sym /usr/bin/sudoedit -> sudo 1613461830
+dir /usr/lib64
+dir /usr/lib64/sudo
+obj /usr/lib64/sudo/sudoers.so ca75e2016dd387fb6c576b0372043c4b 1613461832
+obj /usr/lib64/sudo/system_group.so 57731cf2af62cf00a941eb2dd87343a6 1613461832
+obj /usr/lib64/sudo/group_file.so 7dd0551eb1df6412c32d4e26e3172493 1613461832
+obj /usr/lib64/sudo/sample_approval.so 32783e0a67bbcfd87dc66923013c986d 1613461832
+obj /usr/lib64/sudo/audit_json.so 9c5ff202070996bfa1c9ceb0ae0a0896 1613461832
+dir /usr/sbin
+obj /usr/sbin/visudo 125285aec78998225f2b8d65feec809d 1613461832
+obj /usr/sbin/sudo_sendlog 49256daebbf2570e555f15ba7aba1fe1 1613461832
+obj /usr/sbin/sudo_logsrvd 2df3b9fcc857e7a0620ac0cf3fcd43fa 1613461832
+dir /usr/libexec
+dir /usr/libexec/sudo
+obj /usr/libexec/sudo/sudo_noexec.so 67029c89c0ba365d554e92e672a6802a 1613461832
+obj /usr/libexec/sudo/libsudo_util.so.0.0.0 e3459117b9794cd9c7765141380f2818 1613461832
+sym /usr/libexec/sudo/libsudo_util.so -> libsudo_util.so.0.0.0 1613461819
+sym /usr/libexec/sudo/libsudo_util.so.0 -> libsudo_util.so.0.0.0 1613461819
+sym /usr/share/man/man8/sudoedit.8.xz -> sudo.8.xz 1613461832

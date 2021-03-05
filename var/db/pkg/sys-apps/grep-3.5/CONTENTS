@@ -1,0 +1,21 @@
+dir /usr
+dir /usr/share
+dir /usr/share/info
+obj /usr/share/info/grep.info.xz 09062ed08310dc39a3c53a97b5b1a8dd 1612612056
+dir /usr/share/doc
+dir /usr/share/doc/grep-3.5
+obj /usr/share/doc/grep-3.5/AUTHORS.xz d5b64ed8437caa2634b66f9ea0aa1cd8 1612612056
+obj /usr/share/doc/grep-3.5/NEWS.xz 3791b7e3202695a49f9c5ec62720792a 1612612056
+obj /usr/share/doc/grep-3.5/README.xz d5032a64f722b483a08b781b47e0ac42 1612612056
+obj /usr/share/doc/grep-3.5/TODO.xz c1d164e6e0ca95061116947eef2aa27b 1612612056
+obj /usr/share/doc/grep-3.5/ChangeLog.xz 0e3c987dc2608a0b266b14314c16ebc5 1612612056
+obj /usr/share/doc/grep-3.5/THANKS.xz cbc418b0b998b9bf5c26eee5147b410c 1612612056
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/grep.1.xz 4933b36e6730df3e28a8f3d5fd8753b0 1612612056
+obj /usr/share/man/man1/fgrep.1 c5cd9ff03c9500a8afc209529dfaa92d 1612612056
+obj /usr/share/man/man1/egrep.1 c5cd9ff03c9500a8afc209529dfaa92d 1612612056
+dir /bin
+obj /bin/grep 7c013d2ef2acb3940087e76fc997c918 1612612057
+obj /bin/fgrep 7aafa8e107f6eb6ccc931f7881e76d67 1612612056
+obj /bin/egrep 39c6c8c45b2dd462412d64663b0bdfec 1612612056

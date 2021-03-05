@@ -1,0 +1,25 @@
+dir /var
+dir /var/log
+dir /var/log/sandbox
+obj /var/log/sandbox/.keep_sys-apps_sandbox-0 d41d8cd98f00b204e9800998ecf8427e 1612612950
+dir /etc
+dir /etc/env.d
+obj /etc/env.d/09sandbox 1e4d8cd352642245a1af233d6b9b4e2f 1612612950
+dir /etc/sandbox.d
+obj /etc/sandbox.d/00default f704ea2e9c9b43dfd63468da6c0e336d 1612612950
+obj /etc/sandbox.conf c56c10fde26c886788068cf36b31f4d8 1612612950
+dir /usr
+dir /usr/lib64
+obj /usr/lib64/libsandbox.so 0877268163afd4f67381a58e6e4db25d 1612612951
+dir /usr/share
+dir /usr/share/sandbox
+obj /usr/share/sandbox/sandbox.bashrc 7d7fcb1c11d85e6da9251b1f8150d5d4 1612612950
+dir /usr/share/doc
+dir /usr/share/doc/sandbox-2.20
+obj /usr/share/doc/sandbox-2.20/AUTHORS.xz 84c4e3bff6d1b94e49036a372aa5213a 1612612951
+obj /usr/share/doc/sandbox-2.20/NEWS 2a5fff45dca7cd4916068dba07f457ae 1612612951
+obj /usr/share/doc/sandbox-2.20/ChangeLog.0.xz 71979c40d1ffc6317e1c9ada4b2d242e 1612612951
+obj /usr/share/doc/sandbox-2.20/README.xz b02e6bd5cc3a21fda738b3efac0684fa 1612612951
+obj /usr/share/doc/sandbox-2.20/ChangeLog.xz 7f161bd614660193df477f754092652a 1612612951
+dir /usr/bin
+obj /usr/bin/sandbox c912a6fbdb41c841f658684eed8d3e99 1612612951

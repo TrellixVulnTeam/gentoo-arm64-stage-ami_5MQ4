@@ -1,0 +1,1 @@
+arm_64: fuser killall peekfd prtstat pslog pstree

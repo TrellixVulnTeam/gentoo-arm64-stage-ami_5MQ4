@@ -1,0 +1,1 @@
+arm_64: cldr-plurals envsubst gettext hostname libasprintf.so.0 libgettextlib-0.21.so libgettextpo.so.0 libgettextsrc-0.21.so libgnuintl.so.8 libtextstyle.so.0 msgattrib msgcat msgcmp msgcomm msgconv msgen msgexec msgfilter msgfmt msggrep msginit msgmerge msgunfmt msguniq ngettext recode-sr-latin urlget xgettext

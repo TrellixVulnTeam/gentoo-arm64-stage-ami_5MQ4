@@ -1,0 +1,2 @@
+/usr/bin/pinentry-tty libassuan.so.0,libgpg-error.so.0,libc.so.6,ld-linux-aarch64.so.1
+/usr/bin/pinentry-curses libassuan.so.0,libgpg-error.so.0,libncursesw.so.6,libtinfow.so.6,libc.so.6,ld-linux-aarch64.so.1

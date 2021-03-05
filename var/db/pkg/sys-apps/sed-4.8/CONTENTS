@@ -1,0 +1,17 @@
+dir /usr
+dir /usr/share
+dir /usr/share/info
+obj /usr/share/info/sed.info.xz 929c5f779ac24a108056b83a93c44cf6 1612610665
+dir /usr/share/doc
+dir /usr/share/doc/sed-4.8
+obj /usr/share/doc/sed-4.8/AUTHORS.xz 7ef47c466234eb2333b708abfca2312f 1612610665
+obj /usr/share/doc/sed-4.8/NEWS.xz f408e6f7fb8bfe236441f050db4f61f3 1612610665
+obj /usr/share/doc/sed-4.8/BUGS.xz 901973ce8de4ee4700e0e9537a614e0b 1612610665
+obj /usr/share/doc/sed-4.8/README.xz e2163f5698fc966ede47ae2e5b19e092 1612610665
+obj /usr/share/doc/sed-4.8/ChangeLog.xz 0c4d867575cbf66609cf5a251652c467 1612610665
+obj /usr/share/doc/sed-4.8/THANKS.xz 908e349bbac6652bfe1dae527b85b71d 1612610665
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/sed.1.xz 41cbf891b63341a40bd467a069e4e5d8 1612610665
+dir /bin
+obj /bin/sed d3675db9352a200e3410118a2c6a3dcf 1612610666

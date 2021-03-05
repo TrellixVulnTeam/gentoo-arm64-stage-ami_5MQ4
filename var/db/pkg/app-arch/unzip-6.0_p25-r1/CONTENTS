@@ -1,0 +1,22 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/unzip-6.0_p25-r1
+obj /usr/share/doc/unzip-6.0_p25-r1/WHERE.xz a221e9dc242d257ac57457f3fd42aaff 1612611192
+obj /usr/share/doc/unzip-6.0_p25-r1/History.600.xz db0eace6ee32285be257bf809aef4800 1612611192
+obj /usr/share/doc/unzip-6.0_p25-r1/BUGS.xz 0c1a6da58511ed5facc91b6d00f8ccab 1612611192
+obj /usr/share/doc/unzip-6.0_p25-r1/README.xz 68b84e898e721b28e06ac89e6c8a8917 1612611192
+obj /usr/share/doc/unzip-6.0_p25-r1/ToDo.xz 7db950ed23601d48c6b1ddc3852bf2fc 1612611192
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/zipgrep.1.xz 0fb3912163e1404c7cd233ea1798bdb2 1612611192
+obj /usr/share/man/man1/zipinfo.1.xz a5cfd4e28fe084d8fd44ccb3546dbc75 1612611192
+obj /usr/share/man/man1/unzip.1.xz d73d35ef6e49e644d6c61f1b1db39ea7 1612611192
+obj /usr/share/man/man1/funzip.1.xz 04ccae3ebc2a110edcf2f5313528c50b 1612611192
+obj /usr/share/man/man1/unzipsfx.1.xz 95a4c2b1227f515289c8c97cf797d70a 1612611192
+dir /usr/bin
+obj /usr/bin/unzipsfx 2b507c07b0cef5357b296aa25d8477b2 1612611193
+obj /usr/bin/unzip 73b0ff37c61620ce40bf3580e1ea8cfd 1612611193
+obj /usr/bin/funzip 6052bf378beef8f5317467178e3c8fbd 1612611193
+sym /usr/bin/zipinfo -> unzip 1612611192
+obj /usr/bin/zipgrep ddf51a6f1d31b015b654033bd027c94a 1612611192

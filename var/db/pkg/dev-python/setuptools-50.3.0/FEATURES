@@ -1,0 +1,1 @@
+multilib-strict xattr binpkg-dostrip unknown-features-warn fixlafiles strict unmerge-logs config-protect-if-modified userpriv ebuild-locks pid-sandbox usersandbox userfetch sandbox protect-owned parallel-fetch qa-unresolved-soname-deps distlocks sfperms usersync preserve-libs assume-digests news ipc-sandbox unmerge-orphans network-sandbox binpkg-docompress merge-sync binpkg-logs

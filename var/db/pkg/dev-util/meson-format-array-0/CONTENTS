@@ -1,0 +1,7 @@
+dir /usr
+dir /usr/lib
+dir /usr/lib/python-exec
+dir /usr/lib/python-exec/python3.8
+obj /usr/lib/python-exec/python3.8/meson-format-array b1546d6d7487c09a064a90e4a51c6c32 1612613265
+dir /usr/bin
+sym /usr/bin/meson-format-array -> ../lib/python-exec/python-exec2 1612613265

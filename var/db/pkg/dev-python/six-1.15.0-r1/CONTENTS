@@ -1,0 +1,19 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/six-1.15.0-r1
+obj /usr/share/doc/six-1.15.0-r1/CHANGES.xz c71d6d77f89f86684c2d697380b01a83 1612618246
+obj /usr/share/doc/six-1.15.0-r1/README.rst.xz 328e67bb7d43b3b6bbfa20b25d4a617f 1612618246
+dir /usr/lib
+dir /usr/lib/python3.8
+dir /usr/lib/python3.8/site-packages
+dir /usr/lib/python3.8/site-packages/six-1.15.0-py3.8.egg-info
+obj /usr/lib/python3.8/site-packages/six-1.15.0-py3.8.egg-info/top_level.txt 5d2dfbea120f23e84e689374aa2ba84f 1612618246
+obj /usr/lib/python3.8/site-packages/six-1.15.0-py3.8.egg-info/PKG-INFO 1badbac54ea10fe9bbd4e0dc70724b8a 1612618246
+obj /usr/lib/python3.8/site-packages/six-1.15.0-py3.8.egg-info/SOURCES.txt 689a519b44c9d98aea52416ddab13ffb 1612618246
+obj /usr/lib/python3.8/site-packages/six-1.15.0-py3.8.egg-info/dependency_links.txt 68b329da9893e34099c7d8ad5cb9c940 1612618246
+obj /usr/lib/python3.8/site-packages/six.py 6fc5317a32d2603139a0229c1876ffdf 1590074733
+dir /usr/lib/python3.8/site-packages/__pycache__
+obj /usr/lib/python3.8/site-packages/__pycache__/six.cpython-38.opt-2.pyc ac900dec3c07737b1f1241c81754f85b 1612618246
+obj /usr/lib/python3.8/site-packages/__pycache__/six.cpython-38.opt-1.pyc ac900dec3c07737b1f1241c81754f85b 1612618246
+obj /usr/lib/python3.8/site-packages/__pycache__/six.cpython-38.pyc 91d4724a10128e1b03127a33e43037d7 1612618246

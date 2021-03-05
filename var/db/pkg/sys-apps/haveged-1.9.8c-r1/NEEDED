@@ -1,0 +1,2 @@
+/usr/sbin/haveged libhavege.so.1,libc.so.6,ld-linux-aarch64.so.1
+/usr/lib64/libhavege.so.1.1.0 libc.so.6,ld-linux-aarch64.so.1

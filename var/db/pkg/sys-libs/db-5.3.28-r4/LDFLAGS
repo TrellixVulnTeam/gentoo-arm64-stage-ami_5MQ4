@@ -1,0 +1,1 @@
+-Wl,-O1 -Wl,--as-needed -Wl,--hash-style=gnu -Wl,--enable-new-dtags -flto -fuse-linker-plugin -Wl,-fuse-ld=bfd -Wl,--default-symver

@@ -1,0 +1,1 @@
+arm_64: attr getfattr libattr.so.1 setfattr

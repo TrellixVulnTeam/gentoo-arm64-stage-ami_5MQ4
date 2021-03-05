@@ -1,0 +1,1 @@
+app-arch/bzip2 dev-libs/libxml2 virtual/libiconv sys-apps/attr dev-libs/openssl:0/1.1= >=app-arch/lz4-0_p131:0/r132= app-arch/xz-utils[threads] >=dev-libs/lzo-2 sys-libs/zlib app-arch/zstd virtual/os-headers sys-fs/e2fsprogs

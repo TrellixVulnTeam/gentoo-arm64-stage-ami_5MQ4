@@ -1,0 +1,37 @@
+dir /usr
+dir /usr/lib64
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/libpkgconf.pc 2494b276aee5545717146bd625d2c60f 1612611107
+obj /usr/lib64/libpkgconf.so.3.0.0 3e80dfaa520652f2278a3096bbf257fc 1612611109
+sym /usr/lib64/libpkgconf.so -> libpkgconf.so.3.0.0 1612611107
+sym /usr/lib64/libpkgconf.so.3 -> libpkgconf.so.3.0.0 1612611107
+dir /usr/share
+dir /usr/share/aclocal
+obj /usr/share/aclocal/pkg.m4 c497ed2a59f927f916cfd7edc62307cd 1612611107
+dir /usr/share/doc
+dir /usr/share/doc/pkgconf-1.6.3
+obj /usr/share/doc/pkgconf-1.6.3/AUTHORS.xz 5625ca696e0f2f610ca8ca009c292de0 1612611108
+obj /usr/share/doc/pkgconf-1.6.3/NEWS.xz cf8bd011fbff28b48b55cd1089ac8577 1612611108
+obj /usr/share/doc/pkgconf-1.6.3/README.md.xz 275ed595587a99a22263ae71b8d92c1d 1612611108
+dir /usr/share/man
+dir /usr/share/man/man1
+sym /usr/share/man/man1/pkg-config.1.xz -> pkgconf.1.xz 1612611108
+obj /usr/share/man/man1/pkgconf.1.xz 8ffcf375fd41be69dfc41f2b17b61b49 1612611107
+dir /usr/share/man/man5
+obj /usr/share/man/man5/pc.5.xz 97119a258ee5d2b7e1397419c4c677da 1612611107
+obj /usr/share/man/man5/pkgconf-personality.5.xz 614995008c9d2ef6a876ee1da16fcf7f 1612611107
+dir /usr/share/man/man7
+obj /usr/share/man/man7/pkg.m4.7.xz f22c9ab6a08e1fcd50ac9928f78ce879 1612611107
+dir /usr/include
+dir /usr/include/pkgconf
+dir /usr/include/pkgconf/libpkgconf
+obj /usr/include/pkgconf/libpkgconf/libpkgconf-api.h d2d3c6c11a2c5e528a6630396eda0313 1612611107
+obj /usr/include/pkgconf/libpkgconf/stdinc.h f17ac4e88532df88f574277f511a5374 1612611107
+obj /usr/include/pkgconf/libpkgconf/libpkgconf.h a42b0f4f55a020edac13ffefa5c05a74 1612611107
+obj /usr/include/pkgconf/libpkgconf/iter.h 7dfe9f587e86100b81d8f4266a1df868 1612611107
+obj /usr/include/pkgconf/libpkgconf/bsdstubs.h fb2fc433ba70d9bb102a2eb4e482ddc2 1612611107
+dir /usr/bin
+sym /usr/bin/pkgconf -> aarch64-ares-linux-gnu-pkgconf 1612611107
+obj /usr/bin/aarch64-ares-linux-gnu-pkgconf 794b1a8abf1ef8c0d345bf385d4706b1 1612611109
+sym /usr/bin/aarch64-ares-linux-gnu-pkg-config -> aarch64-ares-linux-gnu-pkgconf 1612611107
+sym /usr/bin/pkg-config -> aarch64-ares-linux-gnu-pkg-config 1612611107

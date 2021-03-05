@@ -1,0 +1,1 @@
+>=sys-libs/zlib-1.2.8-r1 >=app-arch/bzip2-1.0.6-r4 >=app-arch/xz-utils-5.0.5-r1 app-arch/zstd:0/1= !dev-libs/libelf

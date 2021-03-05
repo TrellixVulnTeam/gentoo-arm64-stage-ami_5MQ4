@@ -1,0 +1,27 @@
+dir /usr
+dir /usr/share
+dir /usr/share/aclocal
+obj /usr/share/aclocal/intltool.m4 f6ec0f12e5813e4154c7ede9cdc80ad8 1612613283
+dir /usr/share/intltool
+obj /usr/share/intltool/Makefile.in.in a7b3d4e230c47ec28658a010d3b13810 1612613283
+dir /usr/share/doc
+dir /usr/share/doc/intltool-0.51.0-r2
+obj /usr/share/doc/intltool-0.51.0-r2/AUTHORS.xz c33ce532f5d010c6c8351b7587bdbae9 1612613283
+obj /usr/share/doc/intltool-0.51.0-r2/NEWS.xz 9ed38e492319e440aa2c892d92755bb8 1612613283
+obj /usr/share/doc/intltool-0.51.0-r2/README.xz de6dc6bcfab854c3bea00b8f5480c284 1612613283
+obj /usr/share/doc/intltool-0.51.0-r2/TODO.xz 0021b849b9d36363e7c7c45ba510ec9b 1612613283
+obj /usr/share/doc/intltool-0.51.0-r2/ChangeLog.xz cd978775700e7a6a4c7d4f41bf40bf29 1612613283
+obj /usr/share/doc/intltool-0.51.0-r2/I18N-HOWTO.xz 75996e48e8b3c8e09fd7d58be74f964e 1612613283
+dir /usr/share/man
+dir /usr/share/man/man8
+obj /usr/share/man/man8/intltool-update.8.xz 05ccdd675345821ee5d8a195f24c7bf5 1612613283
+obj /usr/share/man/man8/intltoolize.8.xz d1deb3ca0af7036262e19b67abc57387 1612613283
+obj /usr/share/man/man8/intltool-extract.8.xz dc73afa2b114cca44dd6f68739873912 1612613283
+obj /usr/share/man/man8/intltool-prepare.8.xz 047e98fdab1d239cf624b2ec8d33efea 1612613283
+obj /usr/share/man/man8/intltool-merge.8.xz efbba28bed33e9c88a2dc0d3a14b7ca0 1612613283
+dir /usr/bin
+obj /usr/bin/intltool-merge c4510d716fb5d11ca6471bc48ee95c41 1612613283
+obj /usr/bin/intltool-update ed4cb9e9620e5a96d198a778b748aaaa 1612613283
+obj /usr/bin/intltool-extract 9531f33fec02c745b451a7df4946e3e1 1612613283
+obj /usr/bin/intltool-prepare 406f900f4f4a32e84cd44908491d5fd8 1612613283
+obj /usr/bin/intltoolize 9ae518940f4a285a0c803c92ddad88e5 1612613283

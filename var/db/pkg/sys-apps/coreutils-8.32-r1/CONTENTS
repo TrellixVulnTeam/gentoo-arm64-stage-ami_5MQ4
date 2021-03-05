@@ -1,0 +1,251 @@
+dir /etc
+obj /etc/DIR_COLORS c57e036a6cb95d9e18d16c3a1566a8a1 1612611986
+dir /usr
+dir /usr/libexec
+dir /usr/libexec/coreutils
+obj /usr/libexec/coreutils/libstdbuf.so 1618d1b66320c381af7be1a529b18c6b 1612611989
+dir /usr/share
+dir /usr/share/info
+obj /usr/share/info/coreutils.info.xz 3fc2e9dd5dfe93f40d846ec3d064328f 1612611985
+dir /usr/share/doc
+dir /usr/share/doc/coreutils-8.32-r1
+obj /usr/share/doc/coreutils-8.32-r1/AUTHORS.xz 6fd5c71a1b0dc32a36975cf83b11d321 1612611986
+obj /usr/share/doc/coreutils-8.32-r1/NEWS.xz 9e0b02a5ba14e3df241ff6236a097cb5 1612611986
+obj /usr/share/doc/coreutils-8.32-r1/README.xz 11c59af5db2fdeb7e401fafd9f00d9c7 1612611986
+obj /usr/share/doc/coreutils-8.32-r1/TODO.xz 59b5ab32368cfb085d625bee6c80b170 1612611986
+obj /usr/share/doc/coreutils-8.32-r1/ChangeLog.xz 263a9a0bec578b2c4166087e83cff68c 1612611986
+obj /usr/share/doc/coreutils-8.32-r1/THANKS.xz acb8aca72ae7bd4ec29868bc3a7159a6 1612611986
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/touch.1.xz c062280819a1bb5424fb729d43c9841f 1612611985
+obj /usr/share/man/man1/test.1.xz 50e046f4cb794f17096e8e85ab059ef4 1612611985
+obj /usr/share/man/man1/od.1.xz b866c6c103d97b2bb4184aeecd8ebaec 1612611985
+obj /usr/share/man/man1/timeout.1.xz 04b10cbd97d2e7d0d0c74b456374ee7c 1612611985
+obj /usr/share/man/man1/factor.1.xz 755504b5420c791dae14d63570de1573 1612611985
+obj /usr/share/man/man1/expand.1.xz 95a5ba28a11af46ce2114329d4cdb249 1612611985
+obj /usr/share/man/man1/uname.1.xz d26d52f72f1f74ccebc1aec6eae9fae4 1612611985
+obj /usr/share/man/man1/stty.1.xz 5082241da427be57cea5d5c79584f26e 1612611985
+obj /usr/share/man/man1/paste.1.xz 19b932db9f01ca293fa17efbd787806f 1612611985
+obj /usr/share/man/man1/unexpand.1.xz 735aebe54fd46c62ff4b31d34d1cbce5 1612611985
+obj /usr/share/man/man1/tr.1.xz 5cddc64d12a3cc5801b3a07f37f9e839 1612611985
+obj /usr/share/man/man1/sha512sum.1.xz a8bb179217dc336fc589740d46651053 1612611985
+obj /usr/share/man/man1/yes.1.xz ec8d971ddad49e376142a0598c5713da 1612611985
+obj /usr/share/man/man1/tsort.1.xz 5aa36231a65433e6062cc2d60c4b117b 1612611985
+obj /usr/share/man/man1/tac.1.xz 6ecceac94912e051974d6b8f9839d10c 1612611985
+obj /usr/share/man/man1/logname.1.xz f4285e32ebbb577905af7c6d974cf7b7 1612611985
+obj /usr/share/man/man1/pwd.1.xz aaeda74349fa09753ffdc588a5ade048 1612611985
+obj /usr/share/man/man1/csplit.1.xz 46584dfca675c7d47c65c9ce341bf264 1612611985
+obj /usr/share/man/man1/echo.1.xz ad276a7843859ec842083ab64cc35f79 1612611985
+obj /usr/share/man/man1/chown.1.xz 63a4321ffdbc3d45170e1341693fb7a4 1612611985
+obj /usr/share/man/man1/seq.1.xz a40084b9c8c7f92d3d82b26ee15b6382 1612611985
+obj /usr/share/man/man1/sum.1.xz d942e6e548a7e749b3883e49aeb1a854 1612611985
+obj /usr/share/man/man1/true.1.xz ed9dc53c9985f29544de9637884b3f9c 1612611985
+obj /usr/share/man/man1/du.1.xz 01c2cf4e8f02b8ec06f6db22448baac7 1612611985
+obj /usr/share/man/man1/base64.1.xz 0449b5fe88d19876d4d4afd5919fc3c5 1612611985
+obj /usr/share/man/man1/env.1.xz fa149e72bc0927ee175624b7e419312e 1612611985
+obj /usr/share/man/man1/nproc.1.xz 3f1186cacaf46fdb0ee196400b88756c 1612611985
+obj /usr/share/man/man1/mv.1.xz 360043c5c245dfd45afeb323d802f22d 1612611985
+obj /usr/share/man/man1/numfmt.1.xz 163327b3b6c77c858087837effb9677b 1612611985
+obj /usr/share/man/man1/nl.1.xz dd28f3f60e8e907a125cf36415190bf5 1612611985
+obj /usr/share/man/man1/false.1.xz 640256067b78dda3940894d195cfa613 1612611985
+obj /usr/share/man/man1/who.1.xz 92232f6762b925b9af61edb50eebb0dd 1612611985
+obj /usr/share/man/man1/md5sum.1.xz 4dd1f80f7b6bf0974890687fd6f6e8f5 1612611985
+obj /usr/share/man/man1/base32.1.xz 684e86fd5a8cecdf93ec7910b8cd7a0e 1612611985
+obj /usr/share/man/man1/mkdir.1.xz 663e742220bb595fbba7a5d071dc254b 1612611985
+obj /usr/share/man/man1/ln.1.xz 401bd0b016fc31e050fa6873b2b7bd1f 1612611985
+obj /usr/share/man/man1/comm.1.xz 481e83274866185dce3ffdf2a23ab0a0 1612611985
+obj /usr/share/man/man1/chmod.1.xz 3f2c3618d2b94ca07194f645ffb5846e 1612611985
+obj /usr/share/man/man1/b2sum.1.xz 0f7c21665c9407b69897b40a299df01f 1612611985
+obj /usr/share/man/man1/split.1.xz e8a26978f00f132406e2f215987b66ad 1612611985
+obj /usr/share/man/man1/basename.1.xz 6676e9d49bbbd10a0ad25ae2fcdf0eae 1612611985
+obj /usr/share/man/man1/dd.1.xz 8d3cede2e021ee26ae78544aa9e6814b 1612611985
+obj /usr/share/man/man1/sync.1.xz e3c7ae09a0437782c8f1363e54999e74 1612611985
+obj /usr/share/man/man1/sha384sum.1.xz a4fb28e060bbddbf64c7d2e5260e3143 1612611985
+obj /usr/share/man/man1/date.1.xz b66640672a790b28b670516a94979808 1612611985
+obj /usr/share/man/man1/sleep.1.xz b1e7d1fa5c7583cf43a51f76620c4340 1612611985
+obj /usr/share/man/man1/rm.1.xz 126d9b45b4386aee741b31b0ccf74fc2 1612611985
+obj /usr/share/man/man1/cat.1.xz 6452574a6a558dac57916508ccf0d64f 1612611985
+obj /usr/share/man/man1/stat.1.xz 5cb9a636faac9c9f00cdd8e65ac38b6c 1612611985
+obj /usr/share/man/man1/printf.1.xz 186091802bc536cc9e9d3e2c98dc786a 1612611985
+obj /usr/share/man/man1/rmdir.1.xz a8856ed4405631692107bab13c4c88dd 1612611985
+obj /usr/share/man/man1/runcon.1.xz c74a326f2803f4fc65a757ba2fccf0ad 1612611985
+obj /usr/share/man/man1/wc.1.xz a0adb62837419965e1e970eeb2ee0d33 1612611985
+obj /usr/share/man/man1/fmt.1.xz ee6c7db8e572ed215966b6906f8fecc4 1612611985
+obj /usr/share/man/man1/head.1.xz 179abd1c2251bd20e53aecec572af64b 1612611985
+obj /usr/share/man/man1/basenc.1.xz 7d4f0754cc7dacd1a1a1093c367ed99a 1612611985
+obj /usr/share/man/man1/dir.1.xz 096c8f935c44e8e5f564a01fa404f0f3 1612611985
+obj /usr/share/man/man1/pathchk.1.xz 0451f9cc7cb2f1d42ec3345e827fa04d 1612611985
+obj /usr/share/man/man1/sort.1.xz f8ac0bd66a64f7054cf2547954007a0d 1612611985
+obj /usr/share/man/man1/cksum.1.xz fe752148b0ba44342fc67902321ea89e 1612611985
+obj /usr/share/man/man1/join.1.xz eadeac57bd2cd76906cf678fc6198683 1612611985
+obj /usr/share/man/man1/install.1.xz 04bb7fd78026e9f6dff4898ae7452330 1612611985
+obj /usr/share/man/man1/cp.1.xz d575bb352dacb522a499ed1486d9e198 1612611985
+obj /usr/share/man/man1/whoami.1.xz 0af55a702beada2becdee3c77a6c78a1 1612611985
+obj /usr/share/man/man1/hostid.1.xz ad96d1e607e4cf790921397dc27cd383 1612611985
+obj /usr/share/man/man1/tee.1.xz 2d86f40c729605d00d6dec8a1d84ed28 1612611985
+obj /usr/share/man/man1/truncate.1.xz aa945e19b9ae5e77f4c7e4a0e54912bb 1612611985
+obj /usr/share/man/man1/unlink.1.xz f8baf836843b017c906660e09720ccd5 1612611985
+obj /usr/share/man/man1/tty.1.xz 6d9e6a9e3f366442d07682da0456608c 1612611985
+obj /usr/share/man/man1/nohup.1.xz ec344f2cf70d33cc8ef5939c50893afc 1612611985
+obj /usr/share/man/man1/uniq.1.xz 26f80d47d27492501b55a7ccd7071179 1612611985
+obj /usr/share/man/man1/expr.1.xz 823e9248d3dd6e16426c201d8853a6ff 1612611985
+obj /usr/share/man/man1/dircolors.1.xz a6bdf660db1a83d252cc3ba678d5e0ab 1612611985
+obj /usr/share/man/man1/mknod.1.xz 4a4f24819afb55afa62c4a741edfa335 1612611985
+obj /usr/share/man/man1/shuf.1.xz b55430496c8f3108ca3672bd214006e1 1612611985
+obj /usr/share/man/man1/sha224sum.1.xz 46f79ae508931380edefa24cf3cf25eb 1612611985
+obj /usr/share/man/man1/sha256sum.1.xz e781e8d8d4102483454d9cb675b81ab5 1612611985
+obj /usr/share/man/man1/id.1.xz 8697cbaefac5d4e0cee364a74d3e1507 1612611985
+obj /usr/share/man/man1/stdbuf.1.xz 65b71c451126a7985184baa282181abf 1612611985
+obj /usr/share/man/man1/cut.1.xz d51e3eb86f877b6af7f43265cf703a4b 1612611985
+obj /usr/share/man/man1/pr.1.xz 6005f3f17ec786786110c73952ab89bb 1612611985
+obj /usr/share/man/man1/vdir.1.xz 86a740abf49dc4c305e77bc3f5bc8180 1612611985
+obj /usr/share/man/man1/dirname.1.xz 587d7b796d18199eda40b302e827ad8f 1612611985
+obj /usr/share/man/man1/chroot.1.xz 85ab1a97e08fabcb4e06abce55c5406a 1612611985
+obj /usr/share/man/man1/readlink.1.xz 34e158c4f56f16b4308bd6aa783331be 1612611985
+obj /usr/share/man/man1/arch.1.xz eec20f33605e8505b0383d94a509bd32 1612611985
+obj /usr/share/man/man1/shred.1.xz 263bd9fb3f0aa0de44dc5c737685ba30 1612611985
+obj /usr/share/man/man1/users.1.xz 85c0ee1e024b610656e4058cd2508d39 1612611985
+obj /usr/share/man/man1/df.1.xz ed2ae332cc9cf53c4f7ebf1ed2616b7f 1612611985
+obj /usr/share/man/man1/nice.1.xz 719065dbaf4cbf02ef724447e7f0f4f2 1612611985
+obj /usr/share/man/man1/printenv.1.xz a37e7e545775cec14f4be09ce3ec7d5d 1612611985
+obj /usr/share/man/man1/chgrp.1.xz 8acf4cec904d39f180531d472d65b004 1612611985
+obj /usr/share/man/man1/sha1sum.1.xz b00de3f08f41e384e7de7a8a40286a01 1612611985
+obj /usr/share/man/man1/ls.1.xz 2d8817bfdd1eef14fae380649fce9912 1612611985
+obj /usr/share/man/man1/link.1.xz cca69c93517f4749620fc366f58225d8 1612611985
+obj /usr/share/man/man1/fold.1.xz 6934c961622bf3da44793a80488d93f5 1612611985
+obj /usr/share/man/man1/tail.1.xz d7073dfeef86f81e5ca9beda6b0af78f 1612611985
+obj /usr/share/man/man1/ptx.1.xz ca0427673b835a658e2f6c65782c98ca 1612611985
+obj /usr/share/man/man1/realpath.1.xz c6245a4cc8edec645440ed6194f6db97 1612611985
+obj /usr/share/man/man1/chcon.1.xz 5399c9ce779d3e51aa0241606211dd86 1612611985
+obj /usr/share/man/man1/mkfifo.1.xz 2ace1cb98870b71f93feb3cc03184b75 1612611985
+obj /usr/share/man/man1/pinky.1.xz 397824f4164e4980891ed7949f6efea2 1612611985
+obj /usr/share/man/man1/mktemp.1.xz 11d68e4a54362291fa2a3087151bde17 1612611985
+dir /usr/bin
+obj /usr/bin/hostid 7cc22e9bc1a157b3def211ef0c1c93e4 1612611989
+obj /usr/bin/pathchk 87c5cfa95005132fb268bd702a30418a 1612611989
+sym /usr/bin/tail -> ../../bin/tail 1612611987
+obj /usr/bin/sha224sum 1643b85bee51c7e87e3083c22ec26463 1612611989
+obj /usr/bin/dircolors 8a3a4a1add0d9f5f039f37677b3af51f 1612611989
+sym /usr/bin/env -> ../../bin/env 1612611986
+obj /usr/bin/base32 94f4da0b3011b44d7723ffff7cb5648c 1612611989
+obj /usr/bin/uniq 7fc9717e2beb6a76c7056632d91531d7 1612611989
+sym /usr/bin/sleep -> ../../bin/sleep 1612611987
+obj /usr/bin/test f70ffcc92a124544d6ffb4b721bd3324 1612611989
+sym /usr/bin/dirname -> ../../bin/dirname 1612611986
+obj /usr/bin/comm 19351c00ffa3172cf5c3ae471ca34cf1 1612611989
+obj /usr/bin/tac eea1f79ce7cece06450dc8581261575b 1612611989
+obj /usr/bin/fold 3b9b5973d9c0e16fc9183c8902675192 1612611989
+obj /usr/bin/paste 3f7f05fce4e51ac00cd79491581a65ec 1612611989
+obj /usr/bin/tsort b7d77cef50467c8586f0e0a0aae87205 1612611989
+sym /usr/bin/head -> ../../bin/head 1612611987
+obj /usr/bin/expand aef07c9f88379bee21bf01d0daba0ec9 1612611989
+obj /usr/bin/basenc 042fde709207e097a695d9748b12fd10 1612611989
+sym /usr/bin/tty -> ../../bin/tty 1612611987
+obj /usr/bin/runcon a9032b620c654aa8b0ceb4e61916a129 1612611989
+obj /usr/bin/nproc ef592d1adee1036f5c29805d27ec6b2f 1612611989
+sym /usr/bin/du -> ../../bin/du 1612611986
+obj /usr/bin/ptx 6904d9993f6834cae26f84bdbf4801e9 1612611989
+obj /usr/bin/tee 99a4c7679419f2aa3e63c0c9ea0b07a5 1612611989
+obj /usr/bin/nice c09c341ce6c2d7a34660440c1bcc7990 1612611989
+obj /usr/bin/unlink 70ef0fa4f0e7ec4ffebbf24f07281b7e 1612611989
+obj /usr/bin/nohup 28c15b73d7d3c86524ef74a3a62ac33c 1612611989
+obj /usr/bin/cksum 05298d6efa533893baf968ab95b7070f 1612611989
+obj /usr/bin/sha384sum abe95aed54eb8a29ff638236abe1cab1 1612611989
+obj /usr/bin/logname 96601c6d65fc38d2411247e8b7901c97 1612611989
+obj /usr/bin/chcon 9ddd59f69d8c3f9003561e0fa545adb0 1612611989
+sym /usr/bin/readlink -> ../../bin/readlink 1612611987
+obj /usr/bin/link f4f53b1012872f1bc354292bb5c54a26 1612611989
+obj /usr/bin/whoami f8ede05d0ca4c1f6a57d5b61110d9325 1612611989
+sym /usr/bin/expr -> ../../bin/expr 1612611986
+obj /usr/bin/numfmt c54fc1abf7db22d018b6033cfb25661b 1612611989
+obj /usr/bin/[ 4d6d8acc0ebceebd21ce0d532742d690 1612611989
+obj /usr/bin/who 84efcde1990ba517196c66673a648afe 1612611989
+obj /usr/bin/nl 73f7430627b6794f23ff20a277ba5bd9 1612611989
+sym /usr/bin/wc -> ../../bin/wc 1612611987
+obj /usr/bin/split 68a67b20a76c22e9359017f3718f1647 1612611989
+sym /usr/bin/mkfifo -> ../../bin/mkfifo 1612611987
+obj /usr/bin/printf a7759715ddf90fafd7b191d9e212bb65 1612611989
+obj /usr/bin/factor d8525811816642d2e85478fa12cd6bfb 1612611989
+obj /usr/bin/printenv 655347943d88462379c07c2e3b728cc5 1612611989
+sym /usr/bin/yes -> ../../bin/yes 1612611987
+sym /usr/bin/seq -> ../../bin/seq 1612611987
+obj /usr/bin/b2sum ea68d0c0b7a7a96a2c2a865d31ca53ce 1612611989
+sym /usr/bin/tr -> ../../bin/tr 1612611987
+obj /usr/bin/arch 5d29ff722af29130f905550df1879587 1612611989
+obj /usr/bin/shuf 2d0d90e01339ba8d66a503632a5aaacd 1612611989
+sym /usr/bin/dir -> ../../bin/dir 1612611986
+sym /usr/bin/basename -> ../../bin/basename 1612611986
+obj /usr/bin/unexpand 4ef0aa53de572713ccc98041ca745618 1612611989
+obj /usr/bin/realpath 15278a2781f7ce7050466d12a12e1793 1612611989
+sym /usr/bin/vdir -> ../../bin/vdir 1612611987
+obj /usr/bin/csplit b8742c0f0853cf58346601626b88b262 1612611989
+obj /usr/bin/stdbuf 5af45e121a7ea71299670534060e6d2d 1612611989
+obj /usr/bin/sha512sum 46a519d3b8c69ee4864e6c6c1e942cf8 1612611989
+obj /usr/bin/md5sum 099728915e29f744a990d9ad64c38567 1612611989
+obj /usr/bin/od ed942b1ef43e41a8a9bb46a9057be9e5 1612611989
+obj /usr/bin/sha1sum ce463a8aa79d9a8204007ae502aff1d8 1612611989
+obj /usr/bin/base64 19bac46da52bf38a37de8350255020f6 1612611989
+obj /usr/bin/join 17483d5ed97adb032a8d0c82639af826 1612611989
+obj /usr/bin/timeout 1abda8353c9f1d4229003bb208bcc73f 1612611989
+obj /usr/bin/fmt 9d5ea172efe9d3c5bbe985bcb983f4fb 1612611989
+obj /usr/bin/sum 786a6e1713ed6deb602c0e26fa766d4a 1612611989
+sym /usr/bin/uname -> ../../bin/uname 1612611987
+obj /usr/bin/shred 684d480c2a5c247de7337d0b5e2564a5 1612611989
+sym /usr/bin/mktemp -> ../../bin/mktemp 1612611987
+obj /usr/bin/truncate 58b23a34ca79a03084ae41785ae4ff3f 1612611989
+obj /usr/bin/pinky 2080c0ee86df8c811315bd00bf9b3d9a 1612611989
+obj /usr/bin/users 06019b3ba4e786dfdc9cb463d27f11ad 1612611989
+sym /usr/bin/touch -> ../../bin/touch 1612611987
+sym /usr/bin/chroot -> ../../bin/chroot 1612611986
+sym /usr/bin/cut -> ../../bin/cut 1612611986
+obj /usr/bin/stat 49bb94e03567e7c61213da3ee55a4073 1612611989
+sym /usr/bin/sort -> ../../bin/sort 1612611987
+obj /usr/bin/install bd909e503ce8c36706457c2055df2ba0 1612611989
+obj /usr/bin/id eed15bd5bb513e57794ba6b5d4986356 1612611989
+obj /usr/bin/sha256sum 723efd8f0f136ad6ce841486150986ed 1612611989
+obj /usr/bin/pr b332ec2153612ef8550cfeaf5c5f6717 1612611989
+dir /bin
+obj /bin/pwd cc45804fce19337684ba9d8d3d8e8ad2 1612611989
+obj /bin/sync c0c24ddb6b41b78bd90efee149066b17 1612611989
+obj /bin/tail 91d07c89d9df4d3e911afd995e7f7334 1612611989
+obj /bin/chmod 44cb11822ddfedbbbd9813d87b2fc6ab 1612611989
+obj /bin/mv 361a5bb3ccf7859ed77d3b059ebe7a02 1612611989
+obj /bin/chgrp 61a4e8978de8586193482832722265be 1612611989
+obj /bin/env a1ce0fcda24e8abb86c85bb5a97dd0b3 1612611989
+obj /bin/dd 89ffb668a5edf24d32b381f81406a6a8 1612611989
+obj /bin/df 3300521a20927cb468c792336b9c9717 1612611989
+obj /bin/sleep 780dc73b079f9ea495b4d8c908206735 1612611989
+obj /bin/dirname ba6d48896d0f3c9a82e1f7d78956c3ee 1612611989
+obj /bin/mknod 6609f7582af341c2b8303fc2f3d11b75 1612611989
+obj /bin/head c09f4204a2a8fc189daffc72f0497c68 1612611989
+obj /bin/tty ed7d7c57a4b051bcf06bad7a8616c0c2 1612611989
+obj /bin/rm e70209ffb8d611a4cb28301069b2b095 1612611989
+obj /bin/du c36971a0f05c934b5c2421998608a6b0 1612611989
+obj /bin/readlink 746ad3b875ccf553c3797ae9cb826078 1612611989
+obj /bin/rmdir 37e828029ce566090530b6ca42726f5e 1612611989
+obj /bin/expr 733514cd071789adf7d84c16dc26274e 1612611989
+obj /bin/ls 7822181ce33f690f28ccfcb7cf08178a 1612611989
+obj /bin/cat 11a0fbd57d442af5d5409958cfcb7aec 1612611989
+obj /bin/wc 3567234b66f2e4cc5ee603812a72461d 1612611989
+obj /bin/mkfifo 5b16acc3809930eccf2d75b1c559332f 1612611989
+obj /bin/yes f2d2d9dd449caeda8641e485864d2985 1612611989
+obj /bin/seq 1c5657d7834a6432fc23e6abc1759786 1612611989
+obj /bin/mkdir 9ba4e351f6eee83bbba2b332810cd05d 1612611989
+obj /bin/tr 0270a5d47bdfe9f4cd8d10b17e12988a 1612611989
+obj /bin/false d5924800091ea51a4d095066614069e0 1612611989
+obj /bin/dir 2c0fa68406241a5b025c5f99215b6d46 1612611989
+obj /bin/basename 059946a86ff5d0fb65055e7bbde7583f 1612611989
+obj /bin/stty 5c69f0571865bb63c1d370f822926760 1612611989
+obj /bin/vdir 2a20f116c208b416cde6e8502f54f755 1612611989
+obj /bin/echo 3ab7d9e56187b369989728ba94133ce7 1612611989
+obj /bin/cp 744bf184d8a19435742d7e0169601876 1612611989
+obj /bin/chown 02dd990096bbb531f452ab1a8de96b61 1612611989
+obj /bin/uname f56d7160bc091aae73c87fe122ebbb11 1612611989
+obj /bin/mktemp aa68ce33f0b7eabae33a8fc39f7732b6 1612611989
+obj /bin/date 01e2bd6ded40937acacde2dca841d9ab 1612611989
+obj /bin/true ce37a676c23dfc2661f84ebcdcc6db48 1612611989
+obj /bin/ln ee90c84dc024bcba68f5cdb9e5a266b8 1612611989
+obj /bin/touch e474c5a3b3e06e62ad409b2365e8226a 1612611989
+obj /bin/chroot 922619d6ef124f86d6e4c3499e3a060a 1612611989
+obj /bin/cut 5cf1e4eb58a468c6fd64a0b3a21c0bd3 1612611989
+obj /bin/sort 3a30430e68c58f66160f3c6f0080a278 1612611989

@@ -1,0 +1,41 @@
+dir /etc
+dir /etc/bash
+dir /etc/bash/bashrc.d
+obj /etc/bash/bashrc.d/.keep_app-shells_bash-0 d41d8cd98f00b204e9800998ecf8427e 1612611365
+obj /etc/bash/bashrc 6fa5ee48d27262c1293733c3209e0bfd 1612611365
+obj /etc/bash/bash_logout 229ccc2980a94877f2e87f957e9da7bf 1612611365
+dir /etc/skel
+obj /etc/skel/.bash_profile d3322040528c46743ea8e4b0b9a186bc 1612611365
+obj /etc/skel/.bash_logout 7d8a8ef90c1818a0cd66808ac2740638 1612611365
+obj /etc/skel/.bashrc d210b9cd7fc07420736480f2062d7d7f 1612611365
+dir /usr
+dir /usr/share
+dir /usr/share/info
+obj /usr/share/info/bash.info.xz 94124c21baa477a4f00fd7da86c07730 1612611364
+sym /usr/share/info/bashref.info.xz -> bash.info.xz 1612611366
+dir /usr/share/doc
+dir /usr/share/doc/bash-5.0_p18
+obj /usr/share/doc/bash-5.0_p18/AUTHORS.xz 8790ac097f6506d4087065e5351d37ae 1612611364
+obj /usr/share/doc/bash-5.0_p18/CHANGES.xz 1010c22a801cd2133d16079fdda6ab29 1612611365
+obj /usr/share/doc/bash-5.0_p18/NEWS.xz 44373cb47ac5698dfae1eec40508fd49 1612611364
+obj /usr/share/doc/bash-5.0_p18/README.xz 453e9c77c7fa4fe92875d71f93523d6f 1612611364
+obj /usr/share/doc/bash-5.0_p18/RBASH.xz 8e7228cb75f6697ae949745002fda316 1612611364
+obj /usr/share/doc/bash-5.0_p18/FAQ.xz 6c839bbab2b8ff3cfa3001cdcb7b2b66 1612611364
+obj /usr/share/doc/bash-5.0_p18/INTRO.xz 23681f9a3db8c8af864f09d7eb8b60ab 1612611364
+obj /usr/share/doc/bash-5.0_p18/COMPAT.xz 26b32cd89fbe2121b9d98792c8707444 1612611364
+obj /usr/share/doc/bash-5.0_p18/ChangeLog.xz e2543a525043f20e95daa095e9a8081a 1612611365
+obj /usr/share/doc/bash-5.0_p18/POSIX.xz df872d041f54e978c9c66ceccb0804db 1612611364
+dir /usr/share/doc/bash-5.0_p18/html
+obj /usr/share/doc/bash-5.0_p18/html/bash.html d37eb5e4d40f7d9a252ad758c77bdcb9 1612611364
+obj /usr/share/doc/bash-5.0_p18/html/bashref.html 61a355c091ba8cc89f3686ef9b2a9de7 1612611364
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/builtins.1.xz 9fd54cbb8eace59a11128c3caa029fdb 1612611365
+obj /usr/share/man/man1/bashbug.1.xz fed6dc9118c5d7fad9c4d71497a090d3 1612611365
+obj /usr/share/man/man1/bash.1.xz 741f4b7bf0a4b04b50475f0c9b5d8b21 1612611365
+obj /usr/share/man/man1/rbash.1.xz 5b5e0032e7c433cdf9312d596ddcc983 1612611365
+dir /usr/bin
+obj /usr/bin/bashbug d86cb04923b7760feb5872e9344e4c47 1612611364
+dir /bin
+obj /bin/bash 770f8a3d408bc50056aceca709f75bea 1612611367
+sym /bin/rbash -> bash 1612611365

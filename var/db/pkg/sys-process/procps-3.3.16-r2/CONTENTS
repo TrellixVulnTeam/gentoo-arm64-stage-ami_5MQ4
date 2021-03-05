@@ -1,0 +1,73 @@
+dir /lib64
+obj /lib64/libprocps.so.8.0.2 88ee0b8468a115e854b5bd4914ca2bb6 1612616772
+sym /lib64/libprocps.so.8 -> libprocps.so.8.0.2 1612616771
+dir /usr
+dir /usr/lib64
+obj /usr/lib64/libprocps.so 53fc97dff9fe41e47b47e1c4653ee275 1612616771
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/libprocps.pc 01eed42f4c24bba7ac1d974b3a819cf0 1612616771
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/procps-3.3.16-r2
+obj /usr/share/doc/procps-3.3.16-r2/bugs.md.xz 0103031a43977c517a01d118ca7f97f6 1612616771
+obj /usr/share/doc/procps-3.3.16-r2/FAQ.xz 6dd5d3025be0c1c20ebc9bf126835df3 1612616771
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/pwdx.1.xz b5872524821729d7e9cde2bc4e3fd2a8 1612616771
+obj /usr/share/man/man1/pgrep.1.xz 15a869574c544bad80b337997e7c30a8 1612616771
+obj /usr/share/man/man1/watch.1.xz 5d8da14ebaa884cbab1b36ab7765beb2 1612616771
+obj /usr/share/man/man1/w.1.xz 07182e244f117ab95caf377540103b16 1612616771
+obj /usr/share/man/man1/pmap.1.xz 55917715e25160c6457698f9c25eae4a 1612616771
+obj /usr/share/man/man1/ps.1.xz aa6b51007014015e4e40732a74f2f22b 1612616771
+obj /usr/share/man/man1/pidof.1.xz f50ad0537fd72e30e4e94a8785a6a352 1612616771
+obj /usr/share/man/man1/uptime.1.xz 7c99f1d51775c92e58aa684b39f5b030 1612616771
+obj /usr/share/man/man1/top.1.xz 4c376cc3f5f3cbb693cd4b6e37d402bb 1612616771
+obj /usr/share/man/man1/slabtop.1.xz 97fbc09114c49f5f3bffd6120bd45053 1612616771
+obj /usr/share/man/man1/tload.1.xz 7cdc9a21ae09a51b91db1b40b7637549 1612616771
+obj /usr/share/man/man1/pkill.1 77e76aa1d4221cc7d851ec08a17f54d1 1612616771
+obj /usr/share/man/man1/free.1.xz a7b785fe60617df61a991475aeaa38b4 1612616771
+obj /usr/share/man/man1/kill.1.xz 3e08cfbcc5cceb1db97ceaf000056ad9 1612616771
+obj /usr/share/man/man1/procps.1.xz aa6b51007014015e4e40732a74f2f22b 1612616771
+dir /usr/share/man/man3
+obj /usr/share/man/man3/openproc.3.xz 71ddf003e671ef58202f9a71668824cb 1612616771
+obj /usr/share/man/man3/readproc.3.xz 16fc408662f096aff6176985e4d58021 1612616771
+obj /usr/share/man/man3/readproctab.3.xz 725f1ea96a49889e0296df129ff3ebf6 1612616771
+dir /usr/share/man/man8
+obj /usr/share/man/man8/sysctl.8.xz f620e21f074e909b6b01d42eccf33f6c 1612616771
+obj /usr/share/man/man8/vmstat.8.xz 3cf2ef2da3a6535eb1e2c08e7274218c 1612616771
+dir /usr/share/man/man5
+obj /usr/share/man/man5/sysctl.conf.5.xz 00c8f76455940d71243f3a3f0c1b6b5c 1612616771
+dir /usr/include
+dir /usr/include/proc
+obj /usr/include/proc/sig.h fa44bdd7dd805fe32f77cd4f0f4683c9 1612616771
+obj /usr/include/proc/sysinfo.h 322e8a45c226b6e9f58ab8daf3020912 1612616771
+obj /usr/include/proc/numa.h 2e027d0c67dce004abf3c6bdf7b00584 1612616771
+obj /usr/include/proc/alloc.h 80035d88a007670d259eedd767697c0a 1612616771
+obj /usr/include/proc/escape.h 48bbcfc5ffe102730027e482bf52dee6 1612616771
+obj /usr/include/proc/readproc.h 54ad34882719e838c68b0a44c33236b9 1612616771
+obj /usr/include/proc/slab.h 39357caeaee9a8637927db7692885e61 1612616771
+obj /usr/include/proc/whattime.h 1c43b7ef30e1a9100609b800c9a0f989 1612616771
+obj /usr/include/proc/devname.h 66042a345713cf36145248bab816269e 1612616771
+obj /usr/include/proc/procps.h 45d06887ecbd5a2b033471a11622f172 1612616771
+obj /usr/include/proc/version.h e109350e83993ec07186fedca8e147ea 1612616771
+obj /usr/include/proc/pwcache.h 1991d98be7306fd79b9dd9c3bafe2a69 1612616771
+obj /usr/include/proc/wchan.h a2d5bf43f06352e9c388c9afef536ca5 1612616771
+dir /usr/bin
+obj /usr/bin/pgrep 4033692901114a128388eefee1b42e39 1612616772
+obj /usr/bin/slabtop f3b04fa94c0f89e01b8b046a157bf120 1612616772
+obj /usr/bin/free 7fe1839b0b6242e4c20e11b414afc84d 1612616772
+obj /usr/bin/pidof 2fc612477e9185b178eb236814c566aa 1612616772
+obj /usr/bin/tload ec3c984559cd0598d0f813002b6c2781 1612616772
+obj /usr/bin/top c9d558fc9fba74f724936e1887651098 1612616772
+obj /usr/bin/vmstat 8950e26399e415011349d1586bddd25e 1612616772
+obj /usr/bin/w 7dcd0bd08d62ad2f20727b831535edb9 1612616772
+obj /usr/bin/pmap ff26f576ded37316141b7d03dc120c47 1612616772
+obj /usr/bin/uptime 0e700154479b54ad3689bdd147f7dd76 1612616772
+obj /usr/bin/pkill 4033692901114a128388eefee1b42e39 1612616772
+obj /usr/bin/pwdx 80d984afc9e92e136fbdc27e7c369eef 1612616772
+obj /usr/bin/watch 38831e663fea4dddf0ed3651a9c384f8 1612616772
+dir /usr/sbin
+obj /usr/sbin/sysctl e8869715c1813a0edeb8076bad55958d 1612616772
+dir /bin
+obj /bin/kill d8342ee9886fe52998d378b99c2d001b 1612616772
+obj /bin/ps 0d453a0aa7b988280918f4a6c45688e4 1612616772

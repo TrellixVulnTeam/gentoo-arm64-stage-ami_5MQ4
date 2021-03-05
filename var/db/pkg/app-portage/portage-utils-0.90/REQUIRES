@@ -1,0 +1,1 @@
+arm_64: ld-linux-aarch64.so.1 libb2.so.1 libc.so.6 libcrypto.so.1.1 libgomp.so.1 libgpgme.so.11 libpthread.so.0 libz.so.1

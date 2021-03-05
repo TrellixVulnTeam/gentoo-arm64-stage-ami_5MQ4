@@ -1,0 +1,28 @@
+dir /usr
+dir /usr/lib64
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/mpfr.pc a1929200de2c5cfefe43cb3798129ecc 1612612020
+obj /usr/lib64/libmpfr.so.6.1.0 0034771025c56b892dcaf85e3c06cb47 1612612021
+sym /usr/lib64/libmpfr.so.6 -> libmpfr.so.6.1.0 1612612020
+sym /usr/lib64/libmpfr.so -> libmpfr.so.6.1.0 1612612020
+dir /usr/share
+dir /usr/share/info
+obj /usr/share/info/mpfr.info.xz 87d0edeac4701c4fdbae6c43e4a817e0 1612612020
+dir /usr/share/doc
+dir /usr/share/doc/mpfr-4.1.0
+obj /usr/share/doc/mpfr-4.1.0/FAQ.html bbf2341b37d038bf06c853e1a1899250 1612612020
+obj /usr/share/doc/mpfr-4.1.0/AUTHORS.xz c0cc4ed6d21783215f24ae3441e814ff 1612612020
+dir /usr/share/doc/mpfr-4.1.0/examples
+obj /usr/share/doc/mpfr-4.1.0/examples/threads.c.xz a99044b71d0ce97e438aad42abc23d71 1612612020
+obj /usr/share/doc/mpfr-4.1.0/examples/sample.c.xz 0520927d288eff82f2cf83218fd55fae 1612612020
+obj /usr/share/doc/mpfr-4.1.0/examples/divworst.c.xz c20ac401c0161a1bf3956fcebdc01f40 1612612020
+obj /usr/share/doc/mpfr-4.1.0/examples/rndo-add.c.xz bab062edc7abe9d5afa18fba0863ac3b 1612612020
+obj /usr/share/doc/mpfr-4.1.0/examples/can_round.c.xz 605b4c660513a54bc6c2c18c122d8868 1612612020
+obj /usr/share/doc/mpfr-4.1.0/examples/ReadMe 4f7aa769e50be426a4dc0005e8451939 1612612020
+obj /usr/share/doc/mpfr-4.1.0/examples/version.c.xz a5d7ffe4e14b28ad91d84f49642c736d 1612612020
+obj /usr/share/doc/mpfr-4.1.0/NEWS.xz 14e3fc0111bbe62d923c1d443b5618bc 1612612020
+obj /usr/share/doc/mpfr-4.1.0/BUGS.xz 023ded2aad186e5dc835d0c02522ea8b 1612612020
+obj /usr/share/doc/mpfr-4.1.0/TODO.xz d615bac4eac2ed4d8d9bd5352e1cb4db 1612612020
+dir /usr/include
+obj /usr/include/mpfr.h 7f846f68e70da8f62fd728c59085ff0e 1612612020
+obj /usr/include/mpf2mpfr.h 27b387fab30a70649e58d12e1dcb8d84 1612612020

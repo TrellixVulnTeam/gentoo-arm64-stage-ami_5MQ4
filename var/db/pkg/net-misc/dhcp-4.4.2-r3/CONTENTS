@@ -1,0 +1,48 @@
+dir /var
+dir /var/lib
+dir /var/lib/dhcp
+obj /var/lib/dhcp/.keep_net-misc_dhcp-0 d41d8cd98f00b204e9800998ecf8427e 1613462174
+dir /sbin
+obj /sbin/dhclient a6d62d1a1edb9ca941baf5623a20b4ed 1613462175
+obj /sbin/dhclient-script f4bdb89ea81777d74453ddb63a9edfd0 1613462174
+dir /etc
+dir /etc/dhcp
+obj /etc/dhcp/dhclient.conf dc4bd1af1cf06c45b1b107b43f509c1d 1613462174
+dir /usr
+dir /usr/sbin
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/dhcp-4.4.2-r3
+obj /usr/share/doc/dhcp-4.4.2-r3/IANA-arp-parameters.xz 5648d0cae5cb741def9822d5533f8713 1613462173
+obj /usr/share/doc/dhcp-4.4.2-r3/api+protocol.xz af7652650dfe5232458e9bc8da05bfdd 1613462173
+obj /usr/share/doc/dhcp-4.4.2-r3/README.xz 0d18e720b98ca9a7772f1f916e4c8980 1613462173
+obj /usr/share/doc/dhcp-4.4.2-r3/RELNOTES.xz 73ad0b05e6cc5b8b93c77e3a9c29e009 1613462173
+dir /usr/share/doc/dhcp-4.4.2-r3/html
+obj /usr/share/doc/dhcp-4.4.2-r3/html/References.html 640079f1a43ffae8983b41e17168e851 1613462173
+dir /usr/share/man
+dir /usr/share/man/man8
+obj /usr/share/man/man8/dhclient.8.xz fc2bf73dc2ae58737429e384a2c5ca6e 1613462173
+obj /usr/share/man/man8/dhclient-script.8.xz 1f3bdfd38e89cfa3732bea1360bea81f 1613462173
+dir /usr/share/man/man3
+obj /usr/share/man/man3/omapi.3.xz f5c9220fb17981c1e41e0a7adf7633b3 1613462173
+dir /usr/share/man/man5
+obj /usr/share/man/man5/dhclient.leases.5.xz 2aa2a73c53141f50d68edde69aa277e8 1613462173
+obj /usr/share/man/man5/dhcp-options.5.xz f09b26eae8b3943f07503d7d00b9b7c3 1613462173
+obj /usr/share/man/man5/dhclient.conf.5.xz 8dfffea7eb77ad78f5ab1da667c31e27 1613462173
+obj /usr/share/man/man5/dhcp-eval.5.xz 6414e1d01c73b80555296aef12adb89d 1613462173
+dir /usr/lib64
+obj /usr/lib64/libomapi.a 9ebf3fdd283c548bc16efbf2ac302e81 1613462175
+obj /usr/lib64/libdhcp.a 4138466bcce4433488fa3cd7a27a98f6 1613462175
+dir /usr/include
+dir /usr/include/dhcpctl
+obj /usr/include/dhcpctl/dhcpctl.h 0295495b16eb798dd4a95a8596fa1083 1613462173
+dir /usr/include/omapip
+obj /usr/include/omapip/trace.h 4355ae0f2fd9a027c55e1a55163c4ee8 1613462173
+obj /usr/include/omapip/result.h 1fc60ee05e3682c76ed736b2c5efd98a 1613462173
+obj /usr/include/omapip/omapip_p.h a7f6dbb255537b30ebe05bbc47b4e8b1 1613462173
+obj /usr/include/omapip/omapip.h a268c4f0e72008b52e3bb4fea214f1aa 1613462173
+obj /usr/include/omapip/isclib.h 730cb48586c0d7d83d0f176b3b98bd8d 1613462173
+obj /usr/include/omapip/hash.h cdce5bdbc9c6c24149a25f691c58d32d 1613462173
+obj /usr/include/omapip/convert.h 8804c98eb495ff077f0054bab251b969 1613462173
+obj /usr/include/omapip/buffer.h 2da5ccc48672117168c22d6fd03b0daf 1613462173
+obj /usr/include/omapip/alloc.h 365f85d6129867eccae9002598bbd5f4 1613462173

@@ -1,0 +1,19 @@
+dir /usr
+dir /usr/share
+dir /usr/share/info
+obj /usr/share/info/m4.info-2.xz df41b007764ca76e00671374db3555d2 1612611577
+obj /usr/share/info/m4.info-1.xz d06bc1da9bbc6b453af7e4c021d2f05a 1612611577
+obj /usr/share/info/m4.info.xz c51298fbcc6754dde43b51bf16c573ae 1612611577
+dir /usr/share/doc
+dir /usr/share/doc/m4-1.4.18-r1
+obj /usr/share/doc/m4-1.4.18-r1/AUTHORS.xz 593d11fd3f650db18e59340d86cdafd5 1612611578
+obj /usr/share/doc/m4-1.4.18-r1/NEWS.xz 20d2fab21a0eab11fb7e5753449ce09d 1612611578
+obj /usr/share/doc/m4-1.4.18-r1/README.xz 7982c21e997efcd4c8810572573ffd0a 1612611577
+obj /usr/share/doc/m4-1.4.18-r1/TODO.xz c767573594b15b60a4f6952f7873be7e 1612611578
+obj /usr/share/doc/m4-1.4.18-r1/ChangeLog.xz 2ffc98fbcc0a2b77142de427043cfab4 1612611578
+obj /usr/share/doc/m4-1.4.18-r1/THANKS.xz dfd47e6a6f07c50730ab432f6f4d308d 1612611578
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/m4.1.xz f44b233f13baee96ec30437184f2230c 1612611577
+dir /usr/bin
+obj /usr/bin/m4 d82ec2eb3a87caa75fa47a41a3d98002 1612611579

@@ -1,0 +1,16 @@
+dir /usr
+dir /usr/lib64
+sym /usr/lib64/libmpc.so.3 -> libmpc.so.3.2.1 1612612084
+obj /usr/lib64/libmpc.so.3.2.1 8a644cccc9b103b28dc0963ba1fe7d2e 1612612085
+sym /usr/lib64/libmpc.so -> libmpc.so.3.2.1 1612612084
+dir /usr/share
+dir /usr/share/info
+obj /usr/share/info/mpc.info.xz e09fc939081e5400acf389624f73f988 1612612084
+dir /usr/share/doc
+dir /usr/share/doc/mpc-1.2.1
+obj /usr/share/doc/mpc-1.2.1/NEWS.xz f88b27a5b2975771a0becaa3e9d8bc9f 1612612084
+obj /usr/share/doc/mpc-1.2.1/README.xz 0b00766e09d9be281c5c1ca4e1143e1f 1612612084
+obj /usr/share/doc/mpc-1.2.1/AUTHORS 973783b0684437d7bc6e32a681eb5028 1612612084
+obj /usr/share/doc/mpc-1.2.1/TODO.xz 3ad1faac655d69bc4b2cef5e53ac4819 1612612084
+dir /usr/include
+obj /usr/include/mpc.h 144f62f111b2c4992212629caf0265c0 1612612084

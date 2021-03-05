@@ -1,0 +1,1 @@
+-Wl,-O1 -Wl,--as-needed -Wl,--hash-style=gnu -Wl,--enable-new-dtags -Wl,-fuse-ld=gold

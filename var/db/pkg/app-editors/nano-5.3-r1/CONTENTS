@@ -1,0 +1,75 @@
+dir /etc
+obj /etc/nanorc 9ceb9e9948c8ecfef3e5c8e3a67be9ff 1612611313
+dir /usr
+dir /usr/share
+dir /usr/share/info
+obj /usr/share/info/nano.info.xz 334245da2ee350020375a200aa7c7716 1612611312
+dir /usr/share/nano
+obj /usr/share/nano/debian.nanorc d7240364a71c5700f9ae64077f84734d 1612611312
+obj /usr/share/nano/javascript.nanorc 4921eb4f92dad49fd36d41c845d2d642 1612611312
+obj /usr/share/nano/html.nanorc b27ce992a689a1abe6f6f734f0f85203 1612611312
+obj /usr/share/nano/asm.nanorc b7a37c1c649a8ad3a731b69f4754e962 1612611312
+obj /usr/share/nano/ada.nanorc 3ea8fc8cd5e2fa3c0c3c2a160f08a5fd 1612611312
+obj /usr/share/nano/groff.nanorc ce2cd5b799aea66d2bfb0b30929707fe 1612611312
+obj /usr/share/nano/sh.nanorc 6367d97b56d6193b0cbd3bd93ef5d321 1612611312
+obj /usr/share/nano/texinfo.nanorc 7cd19469c7290a5998149f688249c9e3 1612611312
+obj /usr/share/nano/fortran.nanorc 66837767f3d7c3a0ad0f0b61b8936fdb 1612611312
+obj /usr/share/nano/c.nanorc d6ea0c6c253a2f4eeffc4ad75e69b76d 1612611312
+obj /usr/share/nano/spec.nanorc 76de7bee49885d1c20b3c6eb4c670786 1612611312
+obj /usr/share/nano/changelog.nanorc d14658727cd01d4f77c5560da3e5bd78 1612611312
+obj /usr/share/nano/go.nanorc ae8d9b2495bb4760298a03a52bf2e6eb 1612611312
+obj /usr/share/nano/rust.nanorc 549d5131b19d89877d9bce51fa4d2a8b 1612611312
+obj /usr/share/nano/awk.nanorc dc7591bebabadff5d88ae807a3ad3df2 1612611312
+obj /usr/share/nano/po.nanorc 4b20f65a3ccab192a15687dfda1379ca 1612611312
+obj /usr/share/nano/php.nanorc 05e0c5f3b5b20b16e9549e71a89131bb 1612611312
+obj /usr/share/nano/povray.nanorc f165efebd646b35554cffb052ee8664d 1612611312
+obj /usr/share/nano/tex.nanorc a609e4b88617ae9c3c7b51c99881e54f 1612611312
+obj /usr/share/nano/nanohelp.nanorc 88dbec25d1748ea9df7ca6227080c859 1612611312
+obj /usr/share/nano/patch.nanorc f23578b4e0bba7d1ccddd15616f12e79 1612611312
+obj /usr/share/nano/nftables.nanorc 5bd59f63310b3041f0f32dd25f8d6e50 1612611312
+obj /usr/share/nano/haskell.nanorc b1fa370868f74fbdc111ff3433fe3fac 1612611312
+obj /usr/share/nano/elisp.nanorc c0f8c437eaa2355527d60e0c1fb145e8 1612611312
+obj /usr/share/nano/xml.nanorc b5739ea6d18c007e309895ab78ea61ea 1612611312
+obj /usr/share/nano/json.nanorc 8209116647ee7a63a7eafc274c119925 1612611312
+obj /usr/share/nano/java.nanorc 04b8485ccac5abfd1e3d874d5b1846de 1612611312
+obj /usr/share/nano/ocaml.nanorc 6cc8537bc93ed8c19682e467eb315f9b 1612611312
+obj /usr/share/nano/perl.nanorc 3970fcc3af53800bc757ead86d0730b5 1612611312
+obj /usr/share/nano/makefile.nanorc 5f4f9999ddecd4b9b9a905e2c9d446a7 1612611312
+obj /usr/share/nano/css.nanorc 88b0f0b072bc3bfc26308625b98c1d23 1612611312
+obj /usr/share/nano/autoconf.nanorc 1e697f603a30ddf8651a3143e35ab915 1612611312
+obj /usr/share/nano/python.nanorc 51e79e37aaeb6a6f73ac091cf58ced2f 1612611312
+obj /usr/share/nano/markdown.nanorc e0d041c53c367016ad35078a100de3d2 1612611312
+obj /usr/share/nano/default.nanorc d04d3dfc4f147527fd9b1d7e124958e6 1612611312
+obj /usr/share/nano/man.nanorc 964c12b2321f38318fb3fb6ff0a40482 1612611312
+obj /usr/share/nano/cmake.nanorc 50516a29e1f33c98bc4b197a76b0dad8 1612611312
+obj /usr/share/nano/nanorc.nanorc 66307154a8dd68ca2c08f1c696d8e66a 1612611312
+obj /usr/share/nano/email.nanorc b867a273b4d30d676f994eafc150c189 1612611312
+obj /usr/share/nano/tcl.nanorc 46bc611463b050d5a68ea0f548f66982 1612611312
+obj /usr/share/nano/gentoo.nanorc 3d945e6cdd8dca21586077960641a06e 1612611312
+obj /usr/share/nano/sql.nanorc 51113433d608f2ef406c7a9e8f450cf9 1612611312
+obj /usr/share/nano/ruby.nanorc edb3b8aea1c43962bd4bca38778a4154 1612611312
+obj /usr/share/nano/objc.nanorc c0196d9c085a6b6231b927b6fbffdc8d 1612611312
+obj /usr/share/nano/lua.nanorc 0a5d864f0f60c29905673cb047df9da5 1612611312
+obj /usr/share/nano/guile.nanorc 593557db620942219ec61a965be0857b 1612611312
+dir /usr/share/doc
+dir /usr/share/doc/nano-5.3-r1
+obj /usr/share/doc/nano-5.3-r1/AUTHORS.xz 915f96090ef7284d3476dab6b7655296 1612611312
+obj /usr/share/doc/nano-5.3-r1/NEWS.xz fb1b60ba310c02c70d6a058c6d6a2c26 1612611312
+obj /usr/share/doc/nano-5.3-r1/sample.nanorc.xz acedabd5febc81cc680c5b978cb6466a 1612611313
+obj /usr/share/doc/nano-5.3-r1/README.xz 5f5968367d89def0e2511b443e217c40 1612611312
+obj /usr/share/doc/nano-5.3-r1/ChangeLog.xz 3171c94d12331d8fb3761171c50c3a2a 1612611312
+obj /usr/share/doc/nano-5.3-r1/THANKS.xz 236fef5ff64b39aafdec2decd0477a0b 1612611313
+obj /usr/share/doc/nano-5.3-r1/TODO 3497fd380a2dfde9a083c4bd2b863dc2 1612611313
+dir /usr/share/doc/nano-5.3-r1/html
+obj /usr/share/doc/nano-5.3-r1/html/faq.html 2594642b4c8a80b5572499cec075bfc4 1612611313
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/rnano.1.xz 513be8bbeebac3c858b824000a8260ea 1612611312
+obj /usr/share/man/man1/nano.1.xz ab0976409ed797e4bce5e1ca2af59429 1612611312
+dir /usr/share/man/man5
+obj /usr/share/man/man5/nanorc.5.xz 99098a5cb1b4dbc357af1d7b40ba74d7 1612611312
+dir /usr/bin
+sym /usr/bin/nano -> ../../bin/nano 1612611313
+dir /bin
+obj /bin/nano a5fe2601a977e1a91cec7bbc7ffff5d6 1612611314
+sym /bin/rnano -> nano 1612611312

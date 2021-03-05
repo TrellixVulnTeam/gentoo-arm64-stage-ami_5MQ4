@@ -1,0 +1,89 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/pyrsistent-0.17.3
+obj /usr/share/doc/pyrsistent-0.17.3/README.rst.xz 49eaeb7a12f8762138906bd53e0dde30 1613461493
+obj /usr/share/doc/pyrsistent-0.17.3/README.xz 49eaeb7a12f8762138906bd53e0dde30 1613461492
+dir /usr/lib
+dir /usr/lib/python3.8
+dir /usr/lib/python3.8/site-packages
+obj /usr/lib/python3.8/site-packages/pvectorc.cpython-38-aarch64-linux-gnu.so d8a92381e0ad29a2156636a6ab9d14ea 1613461494
+dir /usr/lib/python3.8/site-packages/pyrsistent-0.17.3-py3.8.egg-info
+obj /usr/lib/python3.8/site-packages/pyrsistent-0.17.3-py3.8.egg-info/top_level.txt 59c123e30df05c0907204c9990513b34 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent-0.17.3-py3.8.egg-info/PKG-INFO 3e16b7cf3780d6726917d88751d67359 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent-0.17.3-py3.8.egg-info/dependency_links.txt 68b329da9893e34099c7d8ad5cb9c940 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent-0.17.3-py3.8.egg-info/SOURCES.txt d00410e21258faf6beea1fe8ab0ced3c 1613461492
+dir /usr/lib/python3.8/site-packages/__pycache__
+obj /usr/lib/python3.8/site-packages/__pycache__/_pyrsistent_version.cpython-38.opt-2.pyc 179479bcbe08870262746b0703264f4b 1613461492
+obj /usr/lib/python3.8/site-packages/__pycache__/_pyrsistent_version.cpython-38.opt-1.pyc 179479bcbe08870262746b0703264f4b 1613461492
+obj /usr/lib/python3.8/site-packages/__pycache__/_pyrsistent_version.cpython-38.pyc 179479bcbe08870262746b0703264f4b 1613461492
+dir /usr/lib/python3.8/site-packages/pyrsistent
+dir /usr/lib/python3.8/site-packages/pyrsistent/__pycache__
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_field_common.cpython-38.opt-2.pyc 2b2785818d6817e3515d37ef7abc53f9 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_helpers.cpython-38.opt-2.pyc 5d6bb261457535952b2cfba9793adc84 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_pbag.cpython-38.opt-2.pyc 55e5d0f3621c031c09a97bb9edc45323 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_pmap.cpython-38.opt-2.pyc 29319f9413e4f4f4b579070c501bc531 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_precord.cpython-38.opt-2.pyc d1ce905e0f73dbbf501ced7f297cb28e 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_transformations.cpython-38.opt-2.pyc d29ac45d579a621ebd4d9a98845a7130 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_pset.cpython-38.opt-2.pyc 8344d701ee309b1aa0b02a948845ed0b 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_pdeque.cpython-38.opt-2.pyc 4eec953a66558f7a4b782c82dde6456b 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_plist.cpython-38.opt-2.pyc a8ff2d4c0c6b974a1d3c070bcf00874b 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_checked_types.cpython-38.opt-2.pyc 21bb88a74defe902d69d08e574a7e412 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_immutable.cpython-38.opt-2.pyc 7d532173ff3eb5664d320fb6da4fe40a 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_pvector.cpython-38.opt-2.pyc 6b470d0e795b67c055b4185a0bfbf8fb 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/__init__.cpython-38.opt-2.pyc 6056913a2b8caba18fa47c251d3aaafa 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/typing.cpython-38.opt-2.pyc 29f450f9753dc70fc5bc65f9538e0b33 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_toolz.cpython-38.opt-2.pyc 6551f114f6c940b03e4e7f0a0eeadc40 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_pclass.cpython-38.opt-2.pyc 15c95ab5493fbdda19d7500295d10812 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_field_common.cpython-38.opt-1.pyc 2b2785818d6817e3515d37ef7abc53f9 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_helpers.cpython-38.opt-1.pyc 5d6bb261457535952b2cfba9793adc84 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_pbag.cpython-38.opt-1.pyc 55e5d0f3621c031c09a97bb9edc45323 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_pmap.cpython-38.opt-1.pyc 29319f9413e4f4f4b579070c501bc531 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_precord.cpython-38.opt-1.pyc d1ce905e0f73dbbf501ced7f297cb28e 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_transformations.cpython-38.opt-1.pyc d29ac45d579a621ebd4d9a98845a7130 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_pset.cpython-38.opt-1.pyc 8344d701ee309b1aa0b02a948845ed0b 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_pdeque.cpython-38.opt-1.pyc 4eec953a66558f7a4b782c82dde6456b 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_plist.cpython-38.opt-1.pyc a8ff2d4c0c6b974a1d3c070bcf00874b 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_checked_types.cpython-38.opt-1.pyc 21bb88a74defe902d69d08e574a7e412 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_immutable.cpython-38.opt-1.pyc 7d532173ff3eb5664d320fb6da4fe40a 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_pvector.cpython-38.opt-1.pyc 6b470d0e795b67c055b4185a0bfbf8fb 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/__init__.cpython-38.opt-1.pyc 6056913a2b8caba18fa47c251d3aaafa 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/typing.cpython-38.opt-1.pyc 29f450f9753dc70fc5bc65f9538e0b33 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_toolz.cpython-38.opt-1.pyc 6551f114f6c940b03e4e7f0a0eeadc40 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_pclass.cpython-38.opt-1.pyc 15c95ab5493fbdda19d7500295d10812 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_field_common.cpython-38.pyc b9c21819ea67eb080c36a26c84acfb76 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_helpers.cpython-38.pyc 05ce473a2097e6375911e1b4d511493a 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_pbag.cpython-38.pyc b13e8a02d333f949b91869e566408989 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_pmap.cpython-38.pyc 29319f9413e4f4f4b579070c501bc531 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_precord.cpython-38.pyc 09c3b9148dbef38c06c4c2e36e7332b3 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_transformations.cpython-38.pyc 2ea183009b193beacba9c798f3ed78a3 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_pset.cpython-38.pyc 8344d701ee309b1aa0b02a948845ed0b 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_pdeque.cpython-38.pyc 001dad4246b0315c097a6831ee622428 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_plist.cpython-38.pyc d6c7725e3a3f1a31a0bccb982b940345 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_checked_types.cpython-38.pyc 1812d80cb0b53e72560813506621d06a 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_immutable.cpython-38.pyc 7d532173ff3eb5664d320fb6da4fe40a 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_pvector.cpython-38.pyc 0e0643581077b49841cecb5955cc5414 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/__init__.cpython-38.pyc 6056913a2b8caba18fa47c251d3aaafa 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/typing.cpython-38.pyc a1e1cc7ec08dc9eaf1b4944a91b54665 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_toolz.cpython-38.pyc 6551f114f6c940b03e4e7f0a0eeadc40 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/__pycache__/_pclass.cpython-38.pyc b16966463e70ca30079990c6bccd9cca 1613461492
+obj /usr/lib/python3.8/site-packages/pyrsistent/typing.pyi 59279e09b2380d627c43a632768e418f 1578426300
+obj /usr/lib/python3.8/site-packages/pyrsistent/__init__.pyi 6a8cc97b954a65155df3042f65fd0db0 1578426300
+obj /usr/lib/python3.8/site-packages/pyrsistent/py.typed d41d8cd98f00b204e9800998ecf8427e 1542750724
+obj /usr/lib/python3.8/site-packages/pyrsistent/_field_common.py c10d09fbe3b6a9efc1b7d35ef167f1d5 1599980019
+obj /usr/lib/python3.8/site-packages/pyrsistent/_helpers.py 7fd689d0bf8b9e00cfa7465f4eade44a 1599980019
+obj /usr/lib/python3.8/site-packages/pyrsistent/_pbag.py 57f54f68c1054f3c798d9979e110b9d2 1599980019
+obj /usr/lib/python3.8/site-packages/pyrsistent/_pmap.py 8237b79e7d3ee78322ac10512a9098b5 1599980019
+obj /usr/lib/python3.8/site-packages/pyrsistent/_precord.py 48e8670fdea1e5b8f2eed0ed8b23a883 1599980019
+obj /usr/lib/python3.8/site-packages/pyrsistent/_transformations.py 755ab0c0507297edc5e14092d065f490 1599980019
+obj /usr/lib/python3.8/site-packages/pyrsistent/_pset.py ebffd98627866664b463d1e007b4902a 1599980019
+obj /usr/lib/python3.8/site-packages/pyrsistent/_pdeque.py 4e3952f4e5542e9a9f52f8133e5030a4 1599980019
+obj /usr/lib/python3.8/site-packages/pyrsistent/_plist.py 84bbce0cc009fe654700e3e7d17ebd6c 1599980019
+obj /usr/lib/python3.8/site-packages/pyrsistent/_checked_types.py 31f9f64d41f103c68d4a15a1477e4be1 1599980019
+obj /usr/lib/python3.8/site-packages/pyrsistent/_immutable.py a7b5c1fdb4e37260781a65a81327b0b8 1599980019
+obj /usr/lib/python3.8/site-packages/pyrsistent/_pvector.py 350377be0693664d7eaf10a8b0ce5596 1599980019
+obj /usr/lib/python3.8/site-packages/pyrsistent/__init__.py f143f2736386bb5348c170387e6ce578 1530971628
+obj /usr/lib/python3.8/site-packages/pyrsistent/typing.py 17dfc6ff14e605324a89466c2412c863 1578426300
+obj /usr/lib/python3.8/site-packages/pyrsistent/_toolz.py 6143b8d21b42401091a256d424020546 1599980019
+obj /usr/lib/python3.8/site-packages/pyrsistent/_pclass.py 49d249871e524840db4314f4ba1a250e 1599980019
+obj /usr/lib/python3.8/site-packages/_pyrsistent_version.py 17098f63b5cf4b1991bd3795038da93e 1599980489

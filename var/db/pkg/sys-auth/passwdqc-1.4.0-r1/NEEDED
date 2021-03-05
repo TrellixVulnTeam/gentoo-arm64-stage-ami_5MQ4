@@ -1,0 +1,4 @@
+/usr/bin/pwqgen libpasswdqc.so.0,libc.so.6,ld-linux-aarch64.so.1
+/usr/bin/pwqcheck libpasswdqc.so.0,libc.so.6,ld-linux-aarch64.so.1
+/usr/lib64/libpasswdqc.so.0 libc.so.6,ld-linux-aarch64.so.1
+/lib64/security/pam_passwdqc.so libpam.so.0,libcrypt.so.1,libpasswdqc.so.0,libc.so.6,ld-linux-aarch64.so.1

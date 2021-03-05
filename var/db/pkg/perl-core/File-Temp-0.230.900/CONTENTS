@@ -1,0 +1,17 @@
+dir /usr
+dir /usr/lib64
+dir /usr/lib64/perl5
+dir /usr/lib64/perl5/vendor_perl
+dir /usr/lib64/perl5/vendor_perl/5.30.3
+dir /usr/lib64/perl5/vendor_perl/5.30.3/File
+obj /usr/lib64/perl5/vendor_perl/5.30.3/File/Temp.pm a93072596921449ef7f5b3e3762466b2 1612612656
+dir /usr/lib64/perl5/vendor_perl/5.30.3/aarch64-linux
+dir /usr/lib64/perl5/vendor_perl/5.30.3/aarch64-linux/auto
+dir /usr/lib64/perl5/vendor_perl/5.30.3/aarch64-linux/auto/File
+dir /usr/lib64/perl5/vendor_perl/5.30.3/aarch64-linux/auto/File/Temp
+obj /usr/lib64/perl5/vendor_perl/5.30.3/aarch64-linux/auto/File/Temp/.packlist f5601d53ed7fa07c0859c6a17c292f71 1612612656
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/File-Temp-0.230.900
+obj /usr/share/doc/File-Temp-0.230.900/Changes.xz 0ed8af949411d36d41d6355840cc5a4d 1612612656
+obj /usr/share/doc/File-Temp-0.230.900/README.xz b5d4cce8700a35c3cb067592e48c1f85 1612612656

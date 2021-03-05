@@ -1,0 +1,33 @@
+dir /lib
+dir /lib/udev
+dir /lib/udev/hwdb.d
+obj /lib/udev/hwdb.d/70-touchpad.hwdb 3e116717f398133f57e802dc6cb4e935 1607362020
+obj /lib/udev/hwdb.d/70-pointingstick.hwdb 65c24faa30990ef7bdca7da5d8d2b775 1607362020
+obj /lib/udev/hwdb.d/70-mouse.hwdb a90319882f6775f3e9ef96ac6675cc4a 1607362020
+obj /lib/udev/hwdb.d/70-joystick.hwdb eadf01eb7538fecdcd51ef0cdb8086e8 1607362020
+obj /lib/udev/hwdb.d/60-sensor.hwdb f48c4cdefb15874b1b180b9ecc985f10 1607362020
+obj /lib/udev/hwdb.d/60-keyboard.hwdb fd8af81ba1a2497b61093928d9dccb09 1607362020
+obj /lib/udev/hwdb.d/60-evdev.hwdb f8d788e898edc210dab8647223da319b 1607362020
+obj /lib/udev/hwdb.d/60-autosuspend-chromiumos.hwdb 5648325c6966380972d5f1829aeaab06 1607362020
+obj /lib/udev/hwdb.d/20-usb-vendor-model.hwdb 5deed647baebea3bb76337e74800b8ed 1607362020
+obj /lib/udev/hwdb.d/20-usb-classes.hwdb 3727dbda5c60aacc54312dc392fcdc8e 1607362020
+obj /lib/udev/hwdb.d/20-sdio-vendor-model.hwdb 5b7a3bfb8f761f373d663613b828230d 1607362020
+obj /lib/udev/hwdb.d/20-sdio-classes.hwdb c6e318a763a4e205225726fd6ea166d1 1607362020
+obj /lib/udev/hwdb.d/20-pci-vendor-model.hwdb 57cc0c0a5614721d655ef3d71c1ba557 1607362020
+obj /lib/udev/hwdb.d/20-pci-classes.hwdb e591d83b5155cc19f250434d10a319dd 1607362020
+obj /lib/udev/hwdb.d/20-net-ifname.hwdb 0497dc16c58a7031ff7ce114b5f7eb25 1607362020
+obj /lib/udev/hwdb.d/20-bluetooth-vendor-product.hwdb 320bccb00524e3eb787def5ff395f41f 1607362020
+obj /lib/udev/hwdb.d/20-acpi-vendor.hwdb bc049cb02def2c70938a8dbc9c803946 1607362020
+obj /lib/udev/hwdb.d/20-OUI.hwdb 8f75cbdb801bb8d436637c7a7d26028a 1607362020
+dir /usr
+dir /usr/share
+dir /usr/share/misc
+obj /usr/share/misc/usb.ids ac556fa79bcc2f8316ef7ee8a9756ffc 1607362020
+obj /usr/share/misc/pci.ids e498ccd57fb5bfb89d08e3af4d04e314 1607362020
+obj /usr/share/misc/iab.txt 60717a4a4f4eceff4c1d8a1da8451508 1607362020
+obj /usr/share/misc/oui.txt 9224596cb3f7c81c0dfc5c8d203ca902 1607362020
+obj /usr/share/misc/usb.ids.gz e1ad28c168811649afd9f2226da63d16 1613460878
+obj /usr/share/misc/pci.ids.gz f12473b14e5201e928d63136a1f89c5f 1613460878
+dir /usr/share/doc
+dir /usr/share/doc/hwids-20201207
+obj /usr/share/doc/hwids-20201207/README.md.xz c06a8f669dc9bf90a239c59c6f230d10 1607362020

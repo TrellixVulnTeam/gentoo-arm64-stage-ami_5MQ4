@@ -1,0 +1,3 @@
+CFLAGS="${CFLAGS_MAIN} ${CFLAGS_CPU}"
+CXXFLAGS="${CFLAGS} -fvisibility-inlines-hidden"
+LDFLAGS="${LDFLAGS_MAIN} ${LDFLAGS_LD_GOLD}"

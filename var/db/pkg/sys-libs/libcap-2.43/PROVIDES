@@ -1,0 +1,1 @@
+arm_64: capsh getcap getpcaps libcap.so.2 pam_cap.so setcap

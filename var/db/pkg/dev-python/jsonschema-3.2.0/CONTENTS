@@ -1,0 +1,127 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/jsonschema-3.2.0
+obj /usr/share/doc/jsonschema-3.2.0/README.rst.xz 62a407666b0e5a6fe7a1f0241f1cc39d 1613461657
+dir /usr/bin
+sym /usr/bin/jsonschema -> ../lib/python-exec/python-exec2 1613461657
+dir /usr/lib
+dir /usr/lib/python-exec
+dir /usr/lib/python-exec/python3.8
+obj /usr/lib/python-exec/python3.8/jsonschema 33a23ee315f6074e5fd8c383daac2ad9 1613461656
+dir /usr/lib/python3.8
+dir /usr/lib/python3.8/site-packages
+dir /usr/lib/python3.8/site-packages/jsonschema-3.2.0-py3.8.egg-info
+obj /usr/lib/python3.8/site-packages/jsonschema-3.2.0-py3.8.egg-info/dependency_links.txt 68b329da9893e34099c7d8ad5cb9c940 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema-3.2.0-py3.8.egg-info/top_level.txt 587f8e4b2a2e15d7028f44fb1ce6d208 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema-3.2.0-py3.8.egg-info/requires.txt 264f0d55d98b643f8e119e19b941bbe7 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema-3.2.0-py3.8.egg-info/entry_points.txt b8d855e3b944ccac1ab07346ecacc4bd 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema-3.2.0-py3.8.egg-info/SOURCES.txt 8d8bee8bc1e51ec28ae55199092461c0 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema-3.2.0-py3.8.egg-info/PKG-INFO 1e8dbb22af27166775e21ba6ef807d6b 1613461656
+dir /usr/lib/python3.8/site-packages/jsonschema
+dir /usr/lib/python3.8/site-packages/jsonschema/__pycache__
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/_format.cpython-38.opt-2.pyc 06a1a05539f275c75f4373ae055702d2 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/_utils.cpython-38.opt-2.pyc c4b9fe5628fa37ebaf8cd63397554a16 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/__main__.cpython-38.opt-2.pyc 4935c0a8707561536e2d09c4ae534b29 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/_reflect.cpython-38.opt-2.pyc 53c4fb66733321490f74c80214722dfa 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/exceptions.cpython-38.opt-2.pyc e40794b816ef40aa60e99a0ae574e1c1 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/cli.cpython-38.opt-2.pyc 2c7ad4b4c897eaa6a736602bc4b4c20a 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/_legacy_validators.cpython-38.opt-2.pyc 709b0a7926be5ad6a16e8ff064116bc4 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/__init__.cpython-38.opt-2.pyc e205e5f1ac7a4e683dc24d10c33aaa49 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/validators.cpython-38.opt-2.pyc 820a3e7723ebf672689255b6f4d5d9d7 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/_validators.cpython-38.opt-2.pyc cdeb40b5da98156793251971307d87d8 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/compat.cpython-38.opt-2.pyc 8684b24361c1dde3e78970cb5a3b82b8 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/_types.cpython-38.opt-2.pyc 7e0d14974a35e0634ce3cbf5c48dd3f4 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/_format.cpython-38.opt-1.pyc 06a1a05539f275c75f4373ae055702d2 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/_utils.cpython-38.opt-1.pyc c4b9fe5628fa37ebaf8cd63397554a16 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/__main__.cpython-38.opt-1.pyc 4935c0a8707561536e2d09c4ae534b29 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/_reflect.cpython-38.opt-1.pyc 53c4fb66733321490f74c80214722dfa 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/exceptions.cpython-38.opt-1.pyc e40794b816ef40aa60e99a0ae574e1c1 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/cli.cpython-38.opt-1.pyc 2c7ad4b4c897eaa6a736602bc4b4c20a 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/_legacy_validators.cpython-38.opt-1.pyc 709b0a7926be5ad6a16e8ff064116bc4 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/__init__.cpython-38.opt-1.pyc e205e5f1ac7a4e683dc24d10c33aaa49 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/validators.cpython-38.opt-1.pyc 820a3e7723ebf672689255b6f4d5d9d7 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/_validators.cpython-38.opt-1.pyc cdeb40b5da98156793251971307d87d8 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/compat.cpython-38.opt-1.pyc 8684b24361c1dde3e78970cb5a3b82b8 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/_types.cpython-38.opt-1.pyc 7e0d14974a35e0634ce3cbf5c48dd3f4 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/_format.cpython-38.pyc 517dea87a1bafa34e098ac52e6ea5eeb 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/_utils.cpython-38.pyc deee561e441d37d8572e3659ff5a5ffe 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/__main__.cpython-38.pyc 4935c0a8707561536e2d09c4ae534b29 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/_reflect.cpython-38.pyc a567fdf902249faec2cebf2a8566f4b5 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/exceptions.cpython-38.pyc a5118e8d5bb6a236c8d7be45e7bda30a 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/cli.cpython-38.pyc e0a83a7b7396df84402ac05f4c3c1b4e 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/_legacy_validators.cpython-38.pyc b00723398f5eea900487597733ee0046 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/__init__.cpython-38.pyc 540bc61d5087de629ff3635dc7011e2e 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/validators.cpython-38.pyc d33541ef8baa7b6813fab5ad270d9286 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/_validators.cpython-38.pyc 2796db0aa73ec5d3c91df582523631bc 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/compat.cpython-38.pyc 77c2a2fa10f1dcf0a89d4dbcb6579dd1 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/__pycache__/_types.cpython-38.pyc 4bf76417da3543d08e3ef2949c8c440c 1613461656
+dir /usr/lib/python3.8/site-packages/jsonschema/schemas
+obj /usr/lib/python3.8/site-packages/jsonschema/schemas/draft3.json ddb043a30fcf70139efc422f7db824ae 1567582532
+obj /usr/lib/python3.8/site-packages/jsonschema/schemas/draft4.json d966687a3773a3f5233caaadbdd3682b 1567582532
+obj /usr/lib/python3.8/site-packages/jsonschema/schemas/draft6.json f46ac1267d2110f8f9e22b419be0b421 1567582532
+obj /usr/lib/python3.8/site-packages/jsonschema/schemas/draft7.json bacf2806af4fea75ccd6abe8c8444722 1567582532
+dir /usr/lib/python3.8/site-packages/jsonschema/benchmarks
+dir /usr/lib/python3.8/site-packages/jsonschema/benchmarks/__pycache__
+obj /usr/lib/python3.8/site-packages/jsonschema/benchmarks/__pycache__/json_schema_test_suite.cpython-38.opt-2.pyc b83ed38fd8bf807fd8c929f0a84fcc39 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/benchmarks/__pycache__/__init__.cpython-38.opt-2.pyc f740096eb537b4bc1cf0347bfc914956 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/benchmarks/__pycache__/issue232.cpython-38.opt-2.pyc 9fd29ab8a16a85fcbfaa8a1576cd4c88 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/benchmarks/__pycache__/json_schema_test_suite.cpython-38.opt-1.pyc b83ed38fd8bf807fd8c929f0a84fcc39 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/benchmarks/__pycache__/__init__.cpython-38.opt-1.pyc f740096eb537b4bc1cf0347bfc914956 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/benchmarks/__pycache__/issue232.cpython-38.opt-1.pyc 9fd29ab8a16a85fcbfaa8a1576cd4c88 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/benchmarks/__pycache__/json_schema_test_suite.cpython-38.pyc b83ed38fd8bf807fd8c929f0a84fcc39 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/benchmarks/__pycache__/__init__.cpython-38.pyc f740096eb537b4bc1cf0347bfc914956 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/benchmarks/__pycache__/issue232.cpython-38.pyc 5d9df2e981344ee0f8f9ca94c9f28e78 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/benchmarks/json_schema_test_suite.py 54cc4d43498fd8eacd8a2819f3d6758a 1567582532
+obj /usr/lib/python3.8/site-packages/jsonschema/benchmarks/__init__.py f85a3896b1e2683f47269e8671f71eae 1567582532
+obj /usr/lib/python3.8/site-packages/jsonschema/benchmarks/issue232.py 250184256ae9f6a1b32b85037f6482b2 1567582532
+dir /usr/lib/python3.8/site-packages/jsonschema/tests
+dir /usr/lib/python3.8/site-packages/jsonschema/tests/__pycache__
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/__pycache__/test_types.cpython-38.opt-2.pyc 12fd28625a4c76af3e90166e61f16978 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/__pycache__/_helpers.cpython-38.opt-2.pyc ffdd0405aa2ad20ce110bc83a7f4b180 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/__pycache__/test_format.cpython-38.opt-2.pyc 008be2ce3e475c4d7663d42f9b5a1925 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/__pycache__/test_cli.cpython-38.opt-2.pyc 2df9512c98cd4963469021fdc168c737 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/__pycache__/test_validators.cpython-38.opt-2.pyc b47d8ed66c2d19a65e5fc6e074314eb5 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/__pycache__/test_jsonschema_test_suite.cpython-38.opt-2.pyc aef613f20aa4e48e7fb8df1a56cff6c4 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/__pycache__/__init__.cpython-38.opt-2.pyc 8f839fd0d6db901690ffe8dd6dbb8ea1 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/__pycache__/test_exceptions.cpython-38.opt-2.pyc 79cf5a5fd735ba60e6c0a942fee6e517 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/__pycache__/_suite.cpython-38.opt-2.pyc 3acf40b8f14e184246cc568da6d7fe17 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/__pycache__/test_types.cpython-38.opt-1.pyc 12fd28625a4c76af3e90166e61f16978 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/__pycache__/_helpers.cpython-38.opt-1.pyc ffdd0405aa2ad20ce110bc83a7f4b180 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/__pycache__/test_format.cpython-38.opt-1.pyc 008be2ce3e475c4d7663d42f9b5a1925 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/__pycache__/test_cli.cpython-38.opt-1.pyc 2df9512c98cd4963469021fdc168c737 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/__pycache__/test_validators.cpython-38.opt-1.pyc b47d8ed66c2d19a65e5fc6e074314eb5 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/__pycache__/test_jsonschema_test_suite.cpython-38.opt-1.pyc aef613f20aa4e48e7fb8df1a56cff6c4 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/__pycache__/__init__.cpython-38.opt-1.pyc 8f839fd0d6db901690ffe8dd6dbb8ea1 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/__pycache__/test_exceptions.cpython-38.opt-1.pyc 79cf5a5fd735ba60e6c0a942fee6e517 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/__pycache__/_suite.cpython-38.opt-1.pyc 3acf40b8f14e184246cc568da6d7fe17 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/__pycache__/test_types.cpython-38.pyc b5f59587f3d61114c604b6f931503e4b 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/__pycache__/_helpers.cpython-38.pyc ffdd0405aa2ad20ce110bc83a7f4b180 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/__pycache__/test_format.cpython-38.pyc d708cf77e835ec9a91f688b23c564aaf 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/__pycache__/test_cli.cpython-38.pyc d6a7b186079ca5733dd0b5d05d24207f 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/__pycache__/test_validators.cpython-38.pyc 481ee3ba2f4838c21227061ff4be4ebf 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/__pycache__/test_jsonschema_test_suite.cpython-38.pyc ee0888937045db931136ad7c5625004b 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/__pycache__/__init__.cpython-38.pyc 8f839fd0d6db901690ffe8dd6dbb8ea1 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/__pycache__/test_exceptions.cpython-38.pyc 8a38f61569bd3cd3c57aa3c798e88f9c 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/__pycache__/_suite.cpython-38.pyc 944f71282f602ebb4445b9d33118825b 1613461656
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/test_types.py f116a0df605988d55c01a996a236fe20 1567700256
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/_helpers.py 4b0b158ecd47e12bf2c7ac8e99604458 1567763986
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/test_format.py c0451f7c700de5a1413bba97a26bfe5e 1567861911
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/test_cli.py 9abb30ad93b9fb2f9c31936ac54e524f 1567962225
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/test_validators.py 066d538431d1fe746abe3b0b38d450f1 1573218667
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/test_jsonschema_test_suite.py 5bd3a8ed260a5755b5c6a6c021160aa1 1573218667
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/__init__.py d41d8cd98f00b204e9800998ecf8427e 1564934206
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/test_exceptions.py 04f8b7e75d0349ca598284ab676d66fc 1567700256
+obj /usr/lib/python3.8/site-packages/jsonschema/tests/_suite.py f7db6eda7006b3f12e245ba3b74bb0c0 1567700256
+obj /usr/lib/python3.8/site-packages/jsonschema/_format.py 1ecec1cbb6d30281e2b0ddc5feadf90b 1613461654
+obj /usr/lib/python3.8/site-packages/jsonschema/_utils.py d78135bedd5018d34de81e71b8529385 1573218667
+obj /usr/lib/python3.8/site-packages/jsonschema/__main__.py d07e06fdaf644fad33935909da2854f3 1537100141
+obj /usr/lib/python3.8/site-packages/jsonschema/_reflect.py 5400521a7ac1e1a80e47636cdac72471 1537100141
+obj /usr/lib/python3.8/site-packages/jsonschema/exceptions.py 3641b9387170b4ea46c1e1a2f0ee58c8 1569531083
+obj /usr/lib/python3.8/site-packages/jsonschema/cli.py 7b17f8c46470e01055ddfa5ce44951b1 1567862341
+obj /usr/lib/python3.8/site-packages/jsonschema/_legacy_validators.py 1378f29e4b353c514bc3f00df6dd404d 1569531083
+obj /usr/lib/python3.8/site-packages/jsonschema/__init__.py df00df9a11cf380f10437c26c4a726c6 1574036888
+obj /usr/lib/python3.8/site-packages/jsonschema/validators.py 1d5cc9b3271d1635d34d61a51570500e 1569531083
+obj /usr/lib/python3.8/site-packages/jsonschema/_validators.py 711a3c5b0cc28ab631a7e702cc3d4b61 1573218667
+obj /usr/lib/python3.8/site-packages/jsonschema/compat.py 1792552434a557c125c02a264a35effa 1569531698
+obj /usr/lib/python3.8/site-packages/jsonschema/_types.py 9b6aef57d3f9ad127c392a552bd7ffc0 1569531083

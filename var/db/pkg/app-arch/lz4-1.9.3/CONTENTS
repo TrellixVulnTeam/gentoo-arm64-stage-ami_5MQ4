@@ -1,0 +1,26 @@
+dir /usr
+dir /usr/lib64
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/liblz4.pc 0472821cc66620445dc42239a30ef564 1612613691
+obj /usr/lib64/liblz4.so.1.9.3 3718daf105bfad9f8ad496813fd8bb56 1612613699
+sym /usr/lib64/liblz4.so.1 -> liblz4.so.1.9.3 1612613698
+sym /usr/lib64/liblz4.so -> liblz4.so.1 1612613698
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/lz4-1.9.3
+obj /usr/share/doc/lz4-1.9.3/NEWS.xz f182cec0a74131189de854f80fdfc333 1612613699
+obj /usr/share/doc/lz4-1.9.3/README.md.xz d5eee48e399d223be8d61ee4f6a1b150 1612613699
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/lz4.1.xz 5a8297e828ae077c875d9a5a21d170c9 1605502775
+obj /usr/share/man/man1/unlz4.1 695c92850bd568db9d5bafd2a31d2098 1612613691
+obj /usr/share/man/man1/lz4cat.1 695c92850bd568db9d5bafd2a31d2098 1612613691
+dir /usr/include
+obj /usr/include/lz4hc.h 512cec02943e19319de298eca5f73704 1605502775
+obj /usr/include/lz4.h 76afde45cae83b3c5d306c305bd66167 1605502775
+obj /usr/include/lz4frame.h 39c4b3909e7bc0971b0dd541ae4f36ea 1605502775
+dir /usr/bin
+obj /usr/bin/lz4c 9c799f5313c45aeb4ff72807dc4c38e7 1612613699
+obj /usr/bin/lz4 9c799f5313c45aeb4ff72807dc4c38e7 1612613699
+sym /usr/bin/unlz4 -> lz4 1612613698
+sym /usr/bin/lz4cat -> lz4 1612613698

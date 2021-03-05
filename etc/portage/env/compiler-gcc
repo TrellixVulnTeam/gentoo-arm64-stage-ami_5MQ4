@@ -1,0 +1,34 @@
+################################### Compiler ###################################
+
+CC="${CHOST}-gcc"
+CXX="${CHOST}-g++"
+AR=${CHOST}-gcc-ar
+NM=${CHOST}-gcc-nm
+RANLIB=${CHOST}-gcc-ranlib
+
+#################################### Cflags ####################################
+
+CFLAGS_MAIN="-O2 -pipe -fno-ident -fexcess-precision=fast -fomit-frame-pointer"
+
+CFLAGS_CPU_CACHE="--param l1-cache-size=64 --param l1-cache-line-size=64 \
+--param l2-cache-size=1024"
+CFLAGS_CPU="-mcpu=native ${CFLAGS_CPU_CACHE}"
+
+CFLAGS_GRAPHITE="-fgraphite-identity -floop-interchange -floop-strip-mine \
+-floop-block"
+
+CFLAGS_LTO="-flto -fuse-linker-plugin"
+
+CFLAGS="${CFLAGS_MAIN} ${CFLAGS_CPU} ${CFLAGS_LTO}"
+CXXFLAGS="${CFLAGS} -fvisibility-inlines-hidden"
+
+################################### LDflags ####################################
+
+LDFLAGS_MAIN="${LDFLAGS} -Wl,--hash-style=gnu -Wl,--enable-new-dtags"
+
+LDFLAGS_LTO="-flto -fuse-linker-plugin"
+
+LDFLAGS_LD_BFD="-Wl,-fuse-ld=bfd"
+LDFLAGS_LD_GOLD="-Wl,-fuse-ld=gold"
+
+LDFLAGS="${LDFLAGS_MAIN} ${LDFLAGS_LTO} ${LDFLAGS_LD_GOLD}"

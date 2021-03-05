@@ -1,0 +1,26 @@
+dir /usr
+dir /usr/lib64
+obj /usr/lib64/libdb-5.3.a 6ab1254990598acc0d0392e45f2b10d6 1612612208
+obj /usr/lib64/libdb-5.3.la b1f3b78c47213e87b0cffac3cca24240 1612612203
+obj /usr/lib64/libdb-5.3.so 246b7665651d541c93d2811750925c0a 1612612207
+dir /usr/include
+dir /usr/include/db5.3
+obj /usr/include/db5.3/db_185.h 6cbdbca554a7f962a072a488d42849be 1612612144
+obj /usr/include/db5.3/db.h a96d10f6c029d9bf0daaa001606fad36 1612612144
+obj /usr/include/db5.3/db_cxx.h b80f671e7f89d0c5d40ac0e1d6936723 1612612144
+dir /usr/bin
+obj /usr/bin/db5.3_checkpoint 495e417394d3d446000d127bcba266a0 1612612207
+obj /usr/bin/db5.3_log_verify 8be530694ad69135f11e6c7616030a51 1612612207
+obj /usr/bin/db5.3_load 2089c8052d35db64624337c6a1603438 1612612207
+obj /usr/bin/db5.3_stat b9c10117d5af54d976b4cca1c2acb514 1612612207
+obj /usr/bin/db5.3_replicate f091ae37fc0d0d14c0ca1d3587367e6a 1612612207
+obj /usr/bin/db5.3_dump f8c43e653257c585cbc6a82074351499 1612612207
+obj /usr/bin/db5.3_tuner 59b64d200377ceab091bb963983db052 1612612207
+obj /usr/bin/db5.3_verify 2a80ed7724b279f9f3cf700bd4770679 1612612207
+obj /usr/bin/db5.3_hotbackup 08209f143b2fc6a7a0c0ff4b4439a49e 1612612207
+obj /usr/bin/db5.3_upgrade 5710472437c01aa9926957c870eefa29 1612612207
+obj /usr/bin/db5.3_deadlock 302cb4680be0b0a6cc3e4ba5616c6b79 1612612207
+obj /usr/bin/db5.3_printlog 827d1df54a62fd806cfcf7061e3fbc83 1612612207
+obj /usr/bin/db5.3_recover ffd15fd06442b1c211926c5650633a45 1612612207
+obj /usr/bin/db5.3_archive a27ca509806031db41f19bb766d8ea3c 1612612207
+dir /usr/sbin

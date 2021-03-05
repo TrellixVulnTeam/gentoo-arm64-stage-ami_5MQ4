@@ -1,0 +1,4 @@
+dir /usr
+dir /usr/lib
+dir /usr/lib/sysusers.d
+obj /usr/lib/sysusers.d/acct-user-systemd-network.conf 4de076bb91ce7270defae63ddf8a751e 1612611143

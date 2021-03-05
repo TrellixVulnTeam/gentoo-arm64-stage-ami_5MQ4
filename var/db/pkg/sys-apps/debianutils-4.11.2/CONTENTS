@@ -1,0 +1,20 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/debianutils-4.11.2
+obj /usr/share/doc/debianutils-4.11.2/changelog.xz 70bb69d9592d5bed9849f8e4861d037a 1612611379
+obj /usr/share/doc/debianutils-4.11.2/control.xz 475f6abd8abe466e9f12506cd58c0170 1612611379
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/tempfile.1.xz 0458bf9be2ebee6ad743ed1ad9d6caf8 1612611379
+obj /usr/share/man/man1/ischroot.1.xz ccb62f2885b96868903375537c1bac7c 1612611379
+dir /usr/share/man/man8
+obj /usr/share/man/man8/savelog.8.xz 35e0889f9891a251972a0354a120c9b5 1612611379
+obj /usr/share/man/man8/run-parts.8.xz b5f7082541b90cf4e2520c364817dff2 1612611379
+dir /usr/bin
+obj /usr/bin/ischroot a4183718ea721a79976df9ef189c8956 1612611379
+dir /usr/sbin
+obj /usr/sbin/savelog c9cb1648f0c7c131b2739669fd15a00a 1612611379
+dir /bin
+obj /bin/tempfile 53733b5863e914eb1e0a9abc9ce2f459 1612611379
+obj /bin/run-parts c49b4ed8184993fe28d51939e7a8d3ee 1612611379

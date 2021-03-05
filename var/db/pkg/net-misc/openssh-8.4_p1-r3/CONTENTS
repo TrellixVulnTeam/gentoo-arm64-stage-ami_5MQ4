@@ -1,0 +1,72 @@
+dir /var
+dir /lib
+dir /lib/systemd
+dir /lib/systemd/system
+obj /lib/systemd/system/sshd@.service 249ebd9bbd63fc628fc3114c282b0d46 1612619255
+obj /lib/systemd/system/sshd.service c26aa19277fc72d0c89ea21d259ef49a 1612619255
+obj /lib/systemd/system/sshd.socket 4735139e66316cdf102cb99d716ad6aa 1612619255
+dir /etc
+dir /etc/ssh
+obj /etc/ssh/moduli ef756267cb6d1dcafda21cc1234636b2 1612619254
+obj /etc/ssh/ssh_config 6a0f0805543492fae6478b9cce4cfa6d 1612619255
+obj /etc/ssh/sshd_config a56f93e85b3a4a8185be9843beb79750 1612619255
+dir /etc/init.d
+obj /etc/init.d/sshd cb2d6ff5d6cf26c25bf8ce19905717ef 1612619254
+dir /etc/skel
+dir /etc/skel/.ssh
+dir /etc/conf.d
+obj /etc/conf.d/sshd aebc4b854831fe0e5ee4afc6e88a06ab 1612619254
+dir /etc/pam.d
+obj /etc/pam.d/sshd 7c8d6e32f4ba92d13234cfa7b037432c 1612619255
+dir /usr
+dir /usr/lib64
+dir /usr/lib64/misc
+obj /usr/lib64/misc/sftp-server a0e230729b3f68bb36910c16734163a8 1612619256
+obj /usr/lib64/misc/ssh-sk-helper d3692269646fd17af218b93709fe3e2e 1612619256
+obj /usr/lib64/misc/ssh-pkcs11-helper c308755aba7a5148941c3913c4e936cc 1612619256
+obj /usr/lib64/misc/ssh-keysign 7e8d48d5a738849eb9b6f6412e226dc7 1612619256
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/openssh-8.4_p1-r3
+obj /usr/share/doc/openssh-8.4_p1-r3/README.dns.xz b10d43d75a8eac64c3ebdeded2dc8bcd 1612619255
+obj /usr/share/doc/openssh-8.4_p1-r3/sshd_config.xz fd6b976234a09fb49ef4c3750f89cd49 1612619255
+obj /usr/share/doc/openssh-8.4_p1-r3/README.platform.xz 923aff3b0e1016eb7a6d9186d2be4b2d 1612619255
+obj /usr/share/doc/openssh-8.4_p1-r3/README.tun.xz 41c70e7e0d3d3d3a5c3ff3d9eceb285b 1612619255
+obj /usr/share/doc/openssh-8.4_p1-r3/README.xz ccb4bfa6894919988fa265020bdb46dd 1612619255
+obj /usr/share/doc/openssh-8.4_p1-r3/README.md.xz aae431b0944d8be0b7eee9e028f0a30c 1612619255
+obj /usr/share/doc/openssh-8.4_p1-r3/CREDITS.xz 928cc4edcf05e9300b654894e337beb2 1612619255
+obj /usr/share/doc/openssh-8.4_p1-r3/OVERVIEW.xz b7758a8b5d056a3d2e2342dbfeb7d6c5 1612619255
+obj /usr/share/doc/openssh-8.4_p1-r3/TODO.xz 499812a4d8a30a4f23e1e01786e35fab 1612619255
+obj /usr/share/doc/openssh-8.4_p1-r3/ChangeLog.xz 07fc3aa1160bcea16affedd90f70aea0 1612619255
+obj /usr/share/doc/openssh-8.4_p1-r3/README.privsep.xz 5cdb43ed42c4c2a10b5aa48ecadf9a1d 1612619255
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/ssh-add.1.xz 43d5fe98bae18552984e1dd184840148 1612619254
+obj /usr/share/man/man1/ssh-keyscan.1.xz 90d0b1ebd996a7c3fd0f33e731dd3c68 1612619254
+obj /usr/share/man/man1/ssh.1.xz 787169004c7c29bdfbd581efe60c1ebb 1612619254
+obj /usr/share/man/man1/scp.1.xz 24f59535513688f5aee73e47651ef875 1612619254
+obj /usr/share/man/man1/sftp.1.xz b8cbb82e680a3144f6d3e72a353abced 1612619254
+obj /usr/share/man/man1/ssh-keygen.1.xz 87705e26fc0b1bd142ecb9659d82c42f 1612619254
+obj /usr/share/man/man1/ssh-copy-id.1.xz ac3961b1d6365c5fc55155d1e62dd2e8 1612619255
+obj /usr/share/man/man1/ssh-agent.1.xz 7db19cc9c88f942efbb8e446df1c47a1 1612619254
+dir /usr/share/man/man8
+obj /usr/share/man/man8/ssh-keysign.8.xz c786d4bd8d789901d41f50ccee2b392b 1612619254
+obj /usr/share/man/man8/ssh-pkcs11-helper.8.xz 3580055e04bacf665c6212213035aa51 1612619254
+obj /usr/share/man/man8/ssh-sk-helper.8.xz 96f573b31356506eccfede5107e9994c 1612619254
+obj /usr/share/man/man8/sftp-server.8.xz eb558b22b700365882025c599526b28c 1612619254
+obj /usr/share/man/man8/sshd.8.xz a772ff38b084706b8e81e7a984dc7559 1612619254
+dir /usr/share/man/man5
+obj /usr/share/man/man5/moduli.5.xz 3bb8bcf5949c3ad73d7b7f10679c088b 1612619254
+obj /usr/share/man/man5/sshd_config.5.xz d798ab58c3091090dfd8bf3322cce747 1612619254
+obj /usr/share/man/man5/ssh_config.5.xz 330b4664b54f350e2eb69ab347afbefd 1612619254
+dir /usr/bin
+obj /usr/bin/sftp d95916f93914bf38bd84f18a2f03aa61 1612619256
+obj /usr/bin/ssh e9df324e7a3627af080667e7e17e407b 1612619256
+obj /usr/bin/ssh-add 6893cff3bac712a48ed72194ab8cc49b 1612619256
+obj /usr/bin/ssh-copy-id 5a3e10b297b89e49a730a6095323373e 1612619254
+obj /usr/bin/ssh-agent 9261f746c2bac230628a264194d63463 1612619256
+obj /usr/bin/ssh-keyscan 2bf694773cd82decaaa534b1719df5af 1612619256
+obj /usr/bin/scp 1ee62a46b017b131dde99d00fb0bb7de 1612619256
+obj /usr/bin/ssh-keygen bb1997447049507ec696d71faf1c0e91 1612619256
+dir /usr/sbin
+obj /usr/sbin/sshd 45a3e71071b8d16a044f4ef973854d75 1612619256

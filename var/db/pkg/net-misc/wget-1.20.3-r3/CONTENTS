@@ -1,0 +1,18 @@
+dir /etc
+obj /etc/wgetrc 4b531524aa13c8a54614100b570b3dc7 1612613212
+dir /usr
+dir /usr/share
+dir /usr/share/info
+obj /usr/share/info/wget.info.xz f508f36bc6ee81acbf7c1f5d218177ba 1612613212
+dir /usr/share/doc
+dir /usr/share/doc/wget-1.20.3-r3
+obj /usr/share/doc/wget-1.20.3-r3/AUTHORS.xz 1ce0ecafe5f8120a81431f82a4aa78a7 1612613212
+obj /usr/share/doc/wget-1.20.3-r3/sample.wgetrc.xz 0e4eaebc0ed0c4203c98932aad20bba9 1612613212
+obj /usr/share/doc/wget-1.20.3-r3/NEWS.xz be0687602b71b0fc589f8c9b74ccbafe 1612613212
+obj /usr/share/doc/wget-1.20.3-r3/MAILING-LIST.xz cf97dde8b083e90739a37b31b974f7fc 1612613212
+obj /usr/share/doc/wget-1.20.3-r3/README.xz 0d174b7f779714817cb1f42b5d35c73d 1612613212
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/wget.1.xz ec1dd00a1abcdcb3cf7e1df5ae44a1b5 1612613212
+dir /usr/bin
+obj /usr/bin/wget daf52c01d92599e351e6859135afa141 1612613213

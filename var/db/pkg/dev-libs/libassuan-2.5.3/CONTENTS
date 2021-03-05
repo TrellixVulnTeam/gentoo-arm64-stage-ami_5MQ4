@@ -1,0 +1,25 @@
+dir /usr
+dir /usr/lib64
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/libassuan.pc f6635783a408bc7555f93c17b8818aaf 1612612734
+obj /usr/lib64/libassuan.so.0.8.3 3e75c9d1072b7c37e99ed461f3137d50 1612612736
+sym /usr/lib64/libassuan.so -> libassuan.so.0.8.3 1612612734
+sym /usr/lib64/libassuan.so.0 -> libassuan.so.0.8.3 1612612734
+dir /usr/share
+dir /usr/share/info
+obj /usr/share/info/assuan.info.xz 366c7eeccd5f032d30507ab0c36f8c3f 1612612735
+dir /usr/share/aclocal
+obj /usr/share/aclocal/libassuan.m4 eb0fff96089487b49d8ff179e153fabc 1612612734
+dir /usr/share/doc
+dir /usr/share/doc/libassuan-2.5.3
+obj /usr/share/doc/libassuan-2.5.3/AUTHORS.xz dbc051503113d57c95f1b0388df7cc75 1612612735
+obj /usr/share/doc/libassuan-2.5.3/NEWS.xz 372fb0de70de4d2feaaca83b0a9b5fb0 1612612735
+obj /usr/share/doc/libassuan-2.5.3/README.xz 00e9bd28ebc29e84d14324fc027abd05 1612612735
+obj /usr/share/doc/libassuan-2.5.3/README.GIT.xz c58b3c5e3f47ec5b5f55829a4e02a67d 1612612735
+obj /usr/share/doc/libassuan-2.5.3/TODO.xz 8e7abd3ff1e130c104c4940d40201028 1612612735
+obj /usr/share/doc/libassuan-2.5.3/ChangeLog.xz c283a0df3e54bae2f060383a6ce7a583 1612612735
+obj /usr/share/doc/libassuan-2.5.3/THANKS.xz 5678e260f909a1b01f231523bd0c14d7 1612612735
+dir /usr/include
+obj /usr/include/assuan.h d48c88149f4a3e3d0609bb6318652471 1612612734
+dir /usr/bin
+obj /usr/bin/libassuan-config 0aec7a2bf3523dab7134f95bedd9053d 1612612734

@@ -1,0 +1,112 @@
+dir /etc
+obj /etc/login.defs 0e2116880c98b0ce361211fb5a7ef164 1612619130
+dir /etc/default
+obj /etc/default/useradd 6e0bc0211949c624da0ea08d994a7038 1612619128
+dir /etc/pam.d
+obj /etc/pam.d/newusers df93f963a2b6dd7cae9437c203018e1d 1612619130
+obj /etc/pam.d/chsh 70a5e95a9bbf8b7beedccd815bfac85f 1612619129
+obj /etc/pam.d/groupmems 9f6d28cd09dc30a93fcf3e8a353117e6 1612619130
+obj /etc/pam.d/shfn 70a5e95a9bbf8b7beedccd815bfac85f 1612619129
+obj /etc/pam.d/chfn 65e9ebce249a5b9ed021e2790452b9e1 1612619128
+obj /etc/pam.d/chpasswd df93f963a2b6dd7cae9437c203018e1d 1612619129
+obj /etc/pam.d/shadow 50d7c96eab701fd6ddbf4b283e493b4c 1612619129
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/shadow-4.8-r5
+obj /usr/share/doc/shadow-4.8-r5/console.c.spec.txt.xz b554ced95e0072cec0db17db4024ca05 1612619130
+obj /usr/share/doc/shadow-4.8-r5/HOWTO.xz 94a437a40ec37c0daa86425d634cbae5 1612619130
+obj /usr/share/doc/shadow-4.8-r5/README.platforms.xz e77717b2f35cc9221822b0e52cb0d20d 1612619130
+obj /usr/share/doc/shadow-4.8-r5/NEWS.xz c68442c92c926ebc9f4c3c6a89050967 1612619130
+obj /usr/share/doc/shadow-4.8-r5/README.limits.xz 227281ca232f04df81723ba5b81fb31b 1612619130
+obj /usr/share/doc/shadow-4.8-r5/WISHLIST.xz df0706d59a9835f62c6bcc7548d779ca 1612619130
+obj /usr/share/doc/shadow-4.8-r5/TODO.xz 66dc5ed71cf5b08581ee3a8041e2bfab 1612619130
+obj /usr/share/doc/shadow-4.8-r5/ChangeLog.xz 58562bf009273f3b95e5e2db3253a4ce 1612619130
+obj /usr/share/doc/shadow-4.8-r5/README.download.xz 31af471b432f2d4b2f4105b1a1457823 1612619130
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/passwd.1.xz 0a39e7984df69e88791571dd2af26448 1612619128
+obj /usr/share/man/man1/gpasswd.1.xz bfd12e643487b3f98fc8f514948142c6 1612619128
+obj /usr/share/man/man1/chage.1.xz 9f9d38d839c32e4f285833fe8c24ce6b 1612619128
+obj /usr/share/man/man1/sg.1.xz 9edda1855f0b64fd0acfa8df9c94bffe 1612619128
+obj /usr/share/man/man1/login.1.xz 0e444f0fddd85abdd0e447ba4ffa59ac 1612619128
+obj /usr/share/man/man1/newgrp.1.xz 87480380c1c0f89e37a27441e8324df0 1612619128
+obj /usr/share/man/man1/chsh.1.xz b7eb311f8bbbebf73b46a7714b1a356d 1612619128
+obj /usr/share/man/man1/newuidmap.1.xz b7fd40156409a877bb47d0ee1d40f4ca 1612619128
+obj /usr/share/man/man1/groups.1.xz c363eb755663f6c452c4166dd3323dc4 1612619128
+obj /usr/share/man/man1/newgidmap.1.xz f6beae7a205bdc1856bfda95062451fb 1612619128
+obj /usr/share/man/man1/chfn.1.xz bb2c344fa510eff95261de06b7628436 1612619128
+obj /usr/share/man/man1/expiry.1.xz 65baa9b06b8a193732354c7c149bd46e 1612619128
+obj /usr/share/man/man1/su.1.xz f83b06ebf351deeaf210b1e28ec09f7a 1612619128
+dir /usr/share/man/man3
+obj /usr/share/man/man3/shadow.3.xz 66f5efd1953405fa5b85d833effe3a8e 1612619128
+dir /usr/share/man/man8
+obj /usr/share/man/man8/userdel.8.xz 4b1a7638ee99fc0807db9653e08e9654 1612619128
+obj /usr/share/man/man8/chgpasswd.8.xz 62b1eed7c7d81b72bfbbef87d3ade218 1612619128
+obj /usr/share/man/man8/groupmod.8.xz 70d989326ca2fe6a018ac368ea17dc74 1612619128
+obj /usr/share/man/man8/pwconv.8.xz 346f082baaccefa28e7460690c94dc03 1612619128
+obj /usr/share/man/man8/groupadd.8.xz fc883383ff98f0b948605b82dbc239b0 1612619128
+obj /usr/share/man/man8/vigr.8 4f11af9d93f8a374937ebb3f0bf76ec1 1612619128
+obj /usr/share/man/man8/faillog.8.xz c146a9f82a48fd03476c7f6f442bb53c 1612619128
+obj /usr/share/man/man8/useradd.8.xz ad6388bce5a3f2c5e7c324ef7afb5f7f 1612619128
+obj /usr/share/man/man8/usermod.8.xz d84781cbc13b406fee88efafa24b5071 1612619128
+obj /usr/share/man/man8/lastlog.8.xz 9ab94af02b02e44b36bda6458f946215 1612619128
+obj /usr/share/man/man8/chpasswd.8.xz cce324c4a4a2c7438322b980e68687f3 1612619128
+obj /usr/share/man/man8/newusers.8.xz 7f2504d11abdd7a2403e6ded1c10d5d9 1612619128
+obj /usr/share/man/man8/logoutd.8.xz 4e17b349989022b0575a9f905f724fe5 1612619128
+obj /usr/share/man/man8/groupmems.8.xz 0ec35b7e6f7f207cf7c2192e1bb013c2 1612619128
+obj /usr/share/man/man8/grpconv.8 17ad0d7eeb1c49d90c3f90b9301955d7 1612619128
+obj /usr/share/man/man8/pwck.8.xz bde63041515cd8cd45a41073a792bfe0 1612619128
+obj /usr/share/man/man8/grpunconv.8 17ad0d7eeb1c49d90c3f90b9301955d7 1612619128
+obj /usr/share/man/man8/grpck.8.xz 478d915161ae65a57136a98dc13ceb8a 1612619128
+obj /usr/share/man/man8/pwunconv.8 17ad0d7eeb1c49d90c3f90b9301955d7 1612619128
+obj /usr/share/man/man8/groupdel.8.xz a638793b4481e2acf189bac832f43c8d 1612619128
+obj /usr/share/man/man8/nologin.8.xz 0fc0997773def782b49d4c3c6e9e4dec 1612619128
+obj /usr/share/man/man8/vipw.8.xz b3d594c0e190a759667a4f1368d476e3 1612619128
+dir /usr/share/man/man5
+obj /usr/share/man/man5/login.defs.5.xz ee2a51cad698f4436764e208845db254 1612619128
+obj /usr/share/man/man5/shadow.5.xz 8e9da45c3f729ae998d51c330a6979da 1612619128
+obj /usr/share/man/man5/faillog.5.xz 328b2720818cd8c01eb2104dedd04c84 1612619128
+obj /usr/share/man/man5/subgid.5.xz 4e979cbb3d9e19b9589d431ac648bc37 1612619128
+obj /usr/share/man/man5/subuid.5.xz df0f331a34383d24e8727a883b3031c5 1612619128
+obj /usr/share/man/man5/gshadow.5.xz b8c8072acfefe2385ddb3beee1d93bd0 1612619128
+dir /usr/bin
+obj /usr/bin/newuidmap 20eba56f30d166cdfab53594cdfdfb1b 1612619132
+obj /usr/bin/chsh 4679ece1247207d0cda08dc5838b7872 1612619132
+sym /usr/bin/passwd -> ../../bin/passwd 1612619128
+obj /usr/bin/gpasswd ae39fe290bbdee2659c8237c680988b5 1612619132
+obj /usr/bin/faillog 2c20716cf5fb7e34f8b4e11d7ba9c6af 1612619132
+obj /usr/bin/chage 4d6a9e22b48f5cb54701b6a40b8ab0ed 1612619132
+sym /usr/bin/sg -> newgrp 1612619128
+obj /usr/bin/chfn f1c014bffcacfc5f6e58d2f73bae6714 1612619132
+obj /usr/bin/expiry 344b0400665fb22351ae654f13bd1e9f 1612619132
+obj /usr/bin/lastlog 3404687ac0ad46fb3f710f6ed95ddbcc 1612619132
+obj /usr/bin/newgrp 7c6e393b20840cad0976e652d2fb02ec 1612619132
+obj /usr/bin/newgidmap a0ed20a5763dd7442d437a7811fc88d2 1612619132
+dir /usr/sbin
+sym /usr/sbin/vigr -> vipw 1612619128
+obj /usr/sbin/logoutd 89a0c378120996e7963ccea8f7917392 1612619132
+obj /usr/sbin/newusers 99e23b4266e6a0c74147a468956c7496 1612619132
+obj /usr/sbin/userdel 2ceeba532a8acc386dbb7739804fea60 1612619132
+obj /usr/sbin/groupmems aa08d9ad10d9e64ef9017c2cbd521810 1612619132
+obj /usr/sbin/usermod 2974e785975b5fdc10d49d0aef46bef3 1612619132
+obj /usr/sbin/useradd 18081d8b4a42be1dc4f257df663abfb0 1612619132
+obj /usr/sbin/pwunconv 1d30532707c317a51f0b797a99890902 1612619132
+obj /usr/sbin/groupmod 3d99ed2d32a32d77f4712a8705bb5a64 1612619132
+obj /usr/sbin/groupdel 5fab38f6fa4d1f9ae0499584e5e8c6f4 1612619132
+obj /usr/sbin/groupadd 44a033598b8fbc64edb4a30d8e1e3b81 1612619132
+obj /usr/sbin/chgpasswd c58f249379e1d66fdfdd57fec9187b06 1612619132
+obj /usr/sbin/grpunconv 7254d915a990d759a1a10d8e15d32c7d 1612619132
+obj /usr/sbin/pwconv 7863c6d094cb023f0ed3edcba3f5595e 1612619132
+obj /usr/sbin/chpasswd 5163a76ba18017599e3d278f0d646ba2 1612619132
+obj /usr/sbin/pwck d327a5cc01bd90f94ee3e8dea19f29c0 1612619132
+obj /usr/sbin/grpconv 3a8112c04f2b61f2285ee83c855a65e2 1612619132
+obj /usr/sbin/grpck a51b29e21bdbdc4f9f10e2a61df5f29c 1612619132
+obj /usr/sbin/vipw 73061ed9d3f5e0e734ca474b73de7d0e 1612619132
+dir /bin
+obj /bin/passwd ac5a4f538186c67663065bc3a43e7624 1612619132
+obj /bin/groups a745cbf97ae64955d794d17213753f8c 1612619132
+obj /bin/su 1514edc0f0f361433cb65bdd2a460b4b 1612619132
+obj /bin/login cef90ff26e321f2d8097c4d41f2dd70f 1612619132
+dir /sbin
+obj /sbin/nologin f0122e53bc472b0d7ef980aa13cea172 1612619132

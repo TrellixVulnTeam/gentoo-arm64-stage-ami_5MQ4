@@ -1,0 +1,15 @@
+dir /usr
+dir /usr/share
+dir /usr/share/info
+obj /usr/share/info/pinentry.info.xz c092ee8bbdfcb8b01ba0b0c71e8b48d9 1612618317
+dir /usr/share/doc
+dir /usr/share/doc/pinentry-1.1.0-r4
+obj /usr/share/doc/pinentry-1.1.0-r4/AUTHORS.xz 996b0be0f7d3ee82b40b23360e46dd13 1612618317
+obj /usr/share/doc/pinentry-1.1.0-r4/NEWS.xz 76d87428d1cf4cf10c692aef57e64b3e 1612618317
+obj /usr/share/doc/pinentry-1.1.0-r4/README.xz 81c3331127ec6fbff6322b5c4d9c69b8 1612618317
+obj /usr/share/doc/pinentry-1.1.0-r4/TODO.xz 88e6f1219c8bf8e6e27ef0da5cb9b951 1612618317
+obj /usr/share/doc/pinentry-1.1.0-r4/ChangeLog.xz cc6e3e33961c65ff637b55a61d7b3280 1612618317
+obj /usr/share/doc/pinentry-1.1.0-r4/THANKS.xz 6a68773aebf3bd95c8a07f16639c871a 1612618317
+dir /usr/bin
+obj /usr/bin/pinentry-curses 43a883cff7ec7b9034c1ea6e25154bd3 1612618318
+obj /usr/bin/pinentry-tty ce4c491c761151de366e51318ce0e88a 1612618318

@@ -1,0 +1,78 @@
+dir /usr
+dir /usr/lib64
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/gpgme-glib.pc b17f17b97791266e97f539c7c29eaff5 1612619176
+obj /usr/lib64/pkgconfig/gpgme.pc 85b62031dbaa9a0fbb0faf4bb491da54 1612619176
+obj /usr/lib64/libgpgme.so.11.23.0 f833c918e9313e571aeaf6c5982d7c3e 1612619183
+sym /usr/lib64/libgpgmepp.so.6 -> libgpgmepp.so.6.11.0 1612619182
+obj /usr/lib64/libgpgmepp.so.6.11.0 3708ffa5b97ab21d20ba51e6ebbacaf3 1612619183
+sym /usr/lib64/libgpgme.so -> libgpgme.so.11.23.0 1612619176
+sym /usr/lib64/libgpgmepp.so -> libgpgmepp.so.6.11.0 1612619182
+dir /usr/lib64/cmake
+dir /usr/lib64/cmake/Gpgmepp
+obj /usr/lib64/cmake/Gpgmepp/GpgmeppConfigVersion.cmake 02b8d0b8791c9d7502155b438a827dbd 1612619176
+obj /usr/lib64/cmake/Gpgmepp/GpgmeppConfig.cmake 069f700574532fc28840b7d3ca080bf2 1612619176
+sym /usr/lib64/libgpgme.so.11 -> libgpgme.so.11.23.0 1612619176
+dir /usr/share
+dir /usr/share/info
+obj /usr/share/info/gpgme.info.xz ef8a85e80ac88bf2111577cc142b06a6 1612619176
+obj /usr/share/info/gpgme.info-2.xz 3353369ba26595819d34e137443a0df2 1612619176
+obj /usr/share/info/gpgme.info-1.xz 961a7a7f802ccc73b186c7e39dd6f047 1612619176
+dir /usr/share/aclocal
+obj /usr/share/aclocal/gpgme.m4 fe7e87dac1251d3191d77fa70674b7ff 1612619176
+dir /usr/share/doc
+dir /usr/share/doc/gpgme-1.14.0
+obj /usr/share/doc/gpgme-1.14.0/AUTHORS.xz 649fcdae00f17fad9068d93f20999dfa 1612619182
+obj /usr/share/doc/gpgme-1.14.0/NEWS.xz 863b854fab1f71e60fa6348a6948affb 1612619182
+obj /usr/share/doc/gpgme-1.14.0/README.xz d5ef1e981d183a088d66094d95e82ac9 1612619182
+obj /usr/share/doc/gpgme-1.14.0/TODO.xz 85b76011a893c3c08ceb3f744adf98ea 1612619182
+obj /usr/share/doc/gpgme-1.14.0/ChangeLog.xz 45d74399ef2f6b2f5482c554c3fa9a7e 1612619182
+obj /usr/share/doc/gpgme-1.14.0/THANKS.xz 9e36b6ca6e2bd4ce760bc06a8fbe7b00 1612619182
+dir /usr/include
+dir /usr/include/gpgme++
+obj /usr/include/gpgme++/gpgsetexpirytimeeditinteractor.h e67dbdeb140d3d7b252a4464543713a6 1612619176
+obj /usr/include/gpgme++/gpgmepp_version.h d5cccce30b8f3fd3561fd5f6e88002b2 1612619176
+obj /usr/include/gpgme++/tofuinfo.h 1ca6d9b980a18d833e096a9615bebedb 1612619176
+obj /usr/include/gpgme++/context.h dd8d614290cd20c4685f984ac357dacc 1612619176
+obj /usr/include/gpgme++/data.h a46ec8c6a60f211d8ece9249360bc028 1612619176
+obj /usr/include/gpgme++/eventloopinteractor.h df6b92fc63196e6e4fa579d9d25a5291 1612619176
+obj /usr/include/gpgme++/swdbresult.h 1f3c17f087d786a4ec60d32e8ac670c0 1612619176
+obj /usr/include/gpgme++/gpgsetownertrusteditinteractor.h 94d52993d7f52556a1cec46726243e93 1612619176
+obj /usr/include/gpgme++/exception.h e393ac32c0a7f5872c3953be582ad0d0 1612619176
+obj /usr/include/gpgme++/defaultassuantransaction.h 0a10fc989ac046dd6012eb42d54b118b 1612619176
+obj /usr/include/gpgme++/gpgagentgetinfoassuantransaction.h f72abb4d544f8cd502c1aa8c281926cd 1612619176
+obj /usr/include/gpgme++/key.h 18f491913f023a89af83833c0732d71e 1612619176
+obj /usr/include/gpgme++/keylistresult.h 2d80a45b2c2c129909efcafde9e56d80 1612619176
+obj /usr/include/gpgme++/editinteractor.h e81587d6bd025899327a72e54711a750 1612619176
+dir /usr/include/gpgme++/interfaces
+obj /usr/include/gpgme++/interfaces/passphraseprovider.h 6f86b1eef032afd0cb3994b92b556ac7 1612619176
+obj /usr/include/gpgme++/interfaces/progressprovider.h 9c6adcaa11a7db356442afed9b22123c 1612619176
+obj /usr/include/gpgme++/interfaces/assuantransaction.h 00e19ba7ce83cd36ba7d74825df0000c 1612619176
+obj /usr/include/gpgme++/interfaces/dataprovider.h d4e6c4bdb0bc112d17ff85631d64ce3d 1612619176
+obj /usr/include/gpgme++/global.h c66cea699143b540def1abf93d347e6e 1612619176
+obj /usr/include/gpgme++/gpgadduserideditinteractor.h f000f357fa9f39a11655ed143ecdaebc 1612619176
+obj /usr/include/gpgme++/engineinfo.h fc9e89ae77f1badb1ae35fe0474f4b6d 1612619176
+obj /usr/include/gpgme++/scdgetinfoassuantransaction.h 59f4e64d046ea5d99c17400010bad149 1612619176
+obj /usr/include/gpgme++/result.h b638a6d771a22062c3a1b8da5e16ee4d 1612619176
+obj /usr/include/gpgme++/vfsmountresult.h 31fc14b46a4f08cdecae858ab8523fbe 1612619176
+obj /usr/include/gpgme++/notation.h 8def6327e1616e7c93dbf47e9394ad96 1612619176
+obj /usr/include/gpgme++/gpggencardkeyinteractor.h adfef9bf7a8a31b6ea6c2b2ba4e7194f 1612619176
+obj /usr/include/gpgme++/gpgsignkeyeditinteractor.h fa421fcef0cdd1793b8137fbc4c25547 1612619176
+obj /usr/include/gpgme++/gpgmepp_export.h 99265a11a93152cdd9feaf061424a327 1612619176
+obj /usr/include/gpgme++/error.h 1c1093bc4e0999010baf57c27d4a9a5a 1612619176
+obj /usr/include/gpgme++/verificationresult.h 485abcf17a5f8bd1fba2ae86e0b58a73 1612619176
+obj /usr/include/gpgme++/encryptionresult.h 2627019a91fa3b185d67f4b35cc5c5e9 1612619176
+obj /usr/include/gpgme++/keygenerationresult.h bdad861bada80507e923a3db626e8f7e 1612619176
+obj /usr/include/gpgme++/decryptionresult.h bbf2d963a0a34837f9c2cbbfe812b34a 1612619176
+obj /usr/include/gpgme++/trustitem.h abf7f9d03201746c58c6484ded9fc5f1 1612619176
+obj /usr/include/gpgme++/gpgmefw.h 55d2f867d472469d455e8cfc60077575 1612619176
+obj /usr/include/gpgme++/signingresult.h 7342871f50fd3c97f92df8a2f064fe76 1612619176
+obj /usr/include/gpgme++/importresult.h ba2b34f60c46c4c731ce76ec6116088a 1612619176
+obj /usr/include/gpgme++/configuration.h 4ae703b1e11bd3988b9d025218854283 1612619176
+obj /usr/include/gpgme.h 76a37575f86bffe64b1c6d8dc87b57e9 1612619176
+dir /usr/include/gpgme
+sym /usr/include/gpgme/gpgme.h -> ../gpgme.h 1612619182
+dir /usr/bin
+obj /usr/bin/gpgme-json c13d3fb93c6a9408b42ba7973ee3f3bf 1612619183
+obj /usr/bin/gpgme-config 4a505a53ac353f599e1e6ad7460deea0 1612619176
+obj /usr/bin/gpgme-tool 1687b9d15bc5c1f47b56863f9aa91098 1612619183
